@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ”ÿﬂ».687264.002.GBR   24.07.2025  17:29:57
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top                                     
+.G1                 GND                                     
+.G2                 INT1                                    
+.G3                 INT2                                    
+.G4                 POWER                                   
+.GBL                Bottom                                  
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Board                                   
+.GM5                Top Tenting                             
+.GM6                Bottom Tenting                          
+------------------------------------------------------------------------------------------
+Cu 35 um
+Board size: 280h12 x 190h12  
+Number of layers: 6
+Finish board thickness: 1.5
