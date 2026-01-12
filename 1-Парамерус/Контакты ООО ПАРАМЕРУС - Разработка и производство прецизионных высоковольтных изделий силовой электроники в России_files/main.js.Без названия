@@ -1,0 +1,319 @@
+var reactRenrerComplete = false;
+var contentUpdateTimer = null;
+var activeFace = 'front';
+var imageLOOP = 0;
+var locationParameters = {};
+var MOBILE_DEVICE = false;
+/**
+String.prototype.escapeSpecialChars = function() {
+    return this.replace(/\\n/g, "\\n")
+               .replace(/\\'/g, "\\'")
+               .replace(/\\"/g, '\\"')
+               .replace(/\\&/g, "\\&")
+               .replace(/\\r/g, "\\r")
+               .replace(/\\t/g, "\\t")
+               .replace(/\\b/g, "\\b")
+               .replace(/\\f/g, "\\f");
+};
+String.prototype.deEscapeSpecialChars = function() {
+    return this.replace(/\\, "\");
+};
+String.prototype.escape = function () {
+  return this.replace(/[\\]/g, '\\\\')
+    .replace(/[\"]/g, '\\\"')
+    .replace(/[\/]/g, '\\/')
+    .replace(/[\b]/g, '\\b')
+    .replace(/[\f]/g, '\\f')
+    .replace(/[\n]/g, '\\n')
+    .replace(/[\r]/g, '\\r')
+    .replace(/[\t]/g, '\\t');
+};*/
+function clearChilds(myNode) {
+		while (myNode.firstChild) {
+			myNode.removeChild(myNode.firstChild);
+		}
+}
+function onloadimage(event) {
+	event.target.style.animationDelay = (imageLOOP * 3) + 's';
+	event.target.style.opacity = 0;
+	imageLOOP++;
+}
+function pageload() {
+	//ReactContentsRun();
+	setTimeout(contentFill, 100);
+	let locParamString = location.search;
+		if (locParamString != '') {
+			locParamString = locParamString.replace('?', '');
+			let hhh_locParam = locParamString.split('&');
+			let hhh_lpta = 0;
+			while (hhh_locParam[hhh_lpta]) {
+				let hhh_ppll = hhh_locParam[hhh_lpta].split('=');
+				let hhhkkk = hhh_ppll[0];
+				let hhhvvv = hhh_ppll[1];
+				locationParameters[hhhkkk] = hhhvvv;
+			hhh_lpta++;
+			}
+		}
+	let scrWidth = window.innerWidth
+			|| document.documentElement.clientWidth
+			|| document.body.clientWidth;
+	if ((/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) || (scrWidth < 800)) MOBILE_DEVICE = true; 
+}
+function contentFill() {
+	
+	clearTimeout(contentUpdateTimer);
+	contentUpdateTimer = null;
+	let i = 0;
+	loadjscssfile('/js/lang.js', 'js', 'langcontrol');
+	loadjscssfile('/langset.php', 'js', 'langsetting');
+	setTimeout(checkContent, 10);
+}
+// -- Получение объекта Ajax-зпросов
+function getXmlHttp(){
+	  var xmlhttp;
+	  try {
+	    xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+	  } catch (e) {
+	    try {
+	      xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+	    } catch (E) {
+	      xmlhttp = false;
+	    }
+	  }
+	  if (!xmlhttp && typeof XMLHttpRequest!='undefined') {
+	    xmlhttp = new XMLHttpRequest();
+	  }
+	  return xmlhttp;
+}	
+function loadjscssfile(filename, filetype, fileid) {
+	//console.log('loadjscssfile (' + filename + ',' + filetype + ',' + fileid + ')');
+	let alr = document.getElementById(fileid);
+	if (alr) return; // file already included
+	let fileref = false;
+	  if (filetype == "js") { // javascript
+		fileref = document.createElement('script');
+		fileref.setAttribute("type", "text/javascript");
+		fileref.setAttribute("src", filename);
+		fileref.setAttribute("id", fileid);
+	  } else if (filetype == "jsx") { // JSX code / React
+		fileref = document.createElement('script');
+		fileref.setAttribute("type", "text/babel");
+		fileref.setAttribute("src", filename);
+		fileref.setAttribute("id", fileid);
+	  } else if (filetype == "css") { // CSS style
+		fileref = document.createElement("link");
+		fileref.setAttribute("rel", "stylesheet");
+		fileref.setAttribute("type", "text/css");
+		fileref.setAttribute("href", filename);
+		fileref.setAttribute("id", fileid);
+	  } else if (filetype == "vertexshader") { // Vertex-Shader GLSL code (THREE.js)
+		fileref = document.createElement('script');
+		fileref.setAttribute("type", "x-shader/x-vertex");
+		fileref.setAttribute("src", filename);
+		fileref.setAttribute("id", fileid);
+	  } else if (filetype == "fragmentshader") { // Fragment-Shader GLSL code (THREE.js)
+		fileref = document.createElement('script');
+		fileref.setAttribute("type", "x-shader/x-fragment");
+		fileref.setAttribute("src", filename);
+		fileref.setAttribute("id", fileid);
+	  }
+	if (fileref) {
+		document.getElementsByTagName("head")[0].appendChild(fileref);
+		fileref.onload = function() { setTimeout(checkContent, 10); }
+	}
+}
+function on_request_alert(req) {
+	if (req.readyState == 4) {
+	    if (req.status == 200) {
+			//let responseData = trim(req.responseText);
+			let dt = JSON.parse(req.responseText);
+			if (dt && dt.result == 'success') {
+				alert('Сообщение отправлено. Мы скоро с вами свяжемся.');
+			} else {
+				alert('Сообщение НЕ отправлено: ошибка на сервере.');
+			}
+	    } else {
+	            // тут можно добавить else с обработкой ошибок запроса
+		}
+	}		
+}
+function send_api_form(event, callResponse) {
+	//console.log('send_api_form 125');
+	event.preventDefault();
+	event.stopPropagation();
+	//console.log(event);
+	let target = null;
+	if (event && (event.target || (event.click && event.click.target)))
+		target = event.target || event.click.target;
+		
+	//console.log(target);
+	if (!target) return;
+	
+	//console.log('send_api_form 136');
+	let form = null;
+	let t = event.target;
+	while (t && !form) {
+		let p = t.parentNode;
+		if (p && (p.tagName == 'FORM' || p.tagName == 'form')) form = p;
+		else {
+			if (p) t = p;
+			else return;
+		}
+	}
+	let args = [];
+	let do_send = true;
+	if (!form) return;
+	//console.log(form);
+	let onInputAPI = function(value, index, ar) {
+		if (!value) return;
+		if (!do_send) return;
+		if (value.required && (!value.value || value.value == '')) {
+			let n = value.name;
+			if (value.placeholder && value.placeholder != '') n = value.placeholder;
+			do_send = false;
+			return alert('Необходимо заполнить ' + n);
+		}
+		args.push({ name: value.name, value: encodeURIComponent(value.value) });
+	};
+	let inputs = form.getElementsByTagName('input');
+	let inputList = Array.prototype.slice.call(inputs);
+	inputList.forEach(onInputAPI);
+	if (!do_send) return;
+	let tareas = form.getElementsByTagName('textarea');
+	let tareaList = Array.prototype.slice.call(tareas);
+	tareaList.forEach(onInputAPI);
+	if (!do_send) return;
+	let req = getXmlHttp();
+	let body = '';
+	let dale = args.length;
+	let a = 0;
+	while (a < dale) {
+		if (a > 0) body = body + '&';
+		body = body + args[a].name + '=' + args[a].value;
+		a++;
+	};
+	req.open("POST", form.action, true);
+	req.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	if (callResponse) req.onreadystatechange = function() {callResponse(req)}; // etc
+		//console.log('send...' + body);
+	req.send(body);
+}
+function loadContent(q, id) {
+		if (locationParameters.lang) q = q + '&lang=' + locationParameters.lang;
+		let req = getXmlHttp();
+		req.onreadystatechange = function() { 
+	        if (req.readyState == 4) {
+	            if (req.status == 200) {
+					let e = document.getElementById(id);
+					let R = JSON.parse(req.responseText);
+					//console.log(R);
+					if (e && R && R.loaded && R.rows > 0) {
+						/* debug
+						let h;
+						let dbt = R.data[0].content.split('\n');
+						for (let i_dbt = 0; i_dbt < dbt.length; i_dbt++) {
+							console.log(dbt[i_dbt]);
+							h = h + decodeURIComponent(dbt[i_dbt]);
+						}*/
+						//let h = decodeURIComponent(R.data[0].content);
+						let h = R.data[0].content;
+						//console.log(h);
+						if (h) e.innerHTML = h;
+						setTimeout(checkContent, 10);
+						if (R.data[0].dependencies != '') {
+							let crypt = R.data[0].dependencies.split(';');
+							let c = 0;
+							while (crypt[c]) {
+								let line = crypt[c].split(',');
+								let content_type = line[0];
+								let content_name = line[1];
+								let content_target;
+								if (line[2] && line[2] != '') content_target = line[2];
+								else content_target = list[i].getAttribute('id');
+								if (content_type == 'content') {
+									loadContent(content_name, content_target);
+								} else if (content_type == 'add') {
+									addContent(content_name, content_target);
+								} else {
+									loadjscssfile(content_name, content_type, content_target);
+								}
+							c++;
+							}
+						}
+						e.setAttribute('data-loaded', true);
+						setTimeout(updateLang, 50);
+					}
+			}}}
+				req.open("GET", MAIN_DOMEN + '/api.php?content=' + q, true); 
+				req.send(null);
+}
+function addContent(q, id) {
+		if (locationParameters.lang) q = q + '&lang=' + locationParameters.lang;
+		let req = getXmlHttp();
+		req.onreadystatechange = function() { 
+	        if (req.readyState == 4) {
+	            if (req.status == 200) {
+					let e = document.getElementById(id);
+					let R = JSON.parse(req.responseText);
+					if (e && R && R.loaded && R.rows > 0) {
+						e.innerHTML = e.innerHTML + R.data[0].content;
+						setTimeout(checkContent, 10);
+						if (R.data[0].dependencies != '') {
+							let crypt = R.data[0].dependencies.split(';');
+							let c = 0;
+							while (crypt[c]) {
+								let line = crypt[c].split(',');
+								let content_type = line[0];
+								let content_name = line[1];
+								let content_target;
+								if (line[2] && line[2] != '') content_target = line[2];
+								else content_target = list[i].getAttribute('id');
+								if (content_type == 'content') {
+									loadContent(content_name, content_target);
+								} else if (content_type == 'add') {
+									addContent(content_name, content_target);
+								} else {
+									loadjscssfile(content_name, content_type, content_target);
+								}
+							c++;
+							}
+						}
+						setTimeout(updateLang, 50);
+					}
+			}}}
+				req.open("GET", MAIN_DOMEN + '/api.php?content=' + q, true); 
+				req.send(null);
+}
+function checkContent() {
+	//console.log('checkContent update');
+	let list = document.getElementsByClassName('content-hook');
+	let i = 0;
+	while (list[i]) {
+		let qQ = list[i].getAttribute('data-queried');
+		if ((!list[i].getAttribute('data-loaded')) && (!qQ || ((Number(Date.now()) - Number(qQ)) > 1000))) {
+			let cryp = list[i].getAttribute('data-link');
+			let crypt = cryp.split(';');
+			let c = 0;
+			while (crypt[c]) {
+				let line = crypt[c].split(',');
+				let content_type = line[0];
+				let content_name = line[1];
+				let content_target;
+				if (line[2] && line[2] != '') content_target = line[2];
+				else content_target = list[i].getAttribute('id');
+				if (content_type == 'content') {
+					loadContent(content_name, content_target);
+				} else if (content_type == 'add') {
+					addContent(content_name, content_target);
+				} else {
+					loadjscssfile(content_name, content_type, content_target);
+				}
+				LANG_MODE = 'nil';
+			c++;
+			}
+			list[i].setAttribute('data-queried', Date.now());
+		}
+	i++;
+	}
+}
+
