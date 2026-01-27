@@ -1,0 +1,40 @@
+
+Log   1 : es/Linia2/src/Utils/Log.cpp: 54 : 09:49:53 : Start application 2026-01-26
+!!! ERROR !!!   2 : ntrols/Bitmap.cpp: 40 : 09:49:53 : Не удалось загрузить файл изображения icons/graphs/imp_up.ico
+!!! ERROR !!!   3 : ntrols/Bitmap.cpp: 57 : 09:49:53 : Can not load image icons/graphs/imp_up.ico
+!!! ERROR !!!   4 : ntrols/Bitmap.cpp: 40 : 09:49:54 : Не удалось загрузить файл изображения icons/graphs/imp_down.ico
+!!! ERROR !!!   5 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image icons/graphs/imp_down.ico
+!!! ERROR !!!   6 : ntrols/Bitmap.cpp: 27 : 09:49:54 : Не удалось загрузить файл изображения sch/jacks/jack_C.bmp
+!!! ERROR !!!   7 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image sch/jacks/jack_C.bmp
+!!! ERROR !!!   8 : ntrols/Bitmap.cpp: 27 : 09:49:54 : Не удалось загрузить файл изображения sch/jacks/jack_B.bmp
+!!! ERROR !!!   9 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image sch/jacks/jack_B.bmp
+!!! ERROR !!!  10 : ntrols/Bitmap.cpp: 27 : 09:49:54 : Не удалось загрузить файл изображения sch/jacks/jack_S.bmp
+!!! ERROR !!!  11 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image sch/jacks/jack_S.bmp
+!!! ERROR !!!  12 : ntrols/Bitmap.cpp: 27 : 09:49:54 : Не удалось загрузить файл изображения sch/jacks/jack_E.bmp
+!!! ERROR !!!  13 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image sch/jacks/jack_E.bmp
+!!! ERROR !!!  14 : ntrols/Bitmap.cpp: 27 : 09:49:54 : Не удалось загрузить файл изображения sch/cat1.bmp
+!!! ERROR !!!  15 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image sch/cat1.bmp
+!!! ERROR !!!  16 : ntrols/Bitmap.cpp: 27 : 09:49:54 : Не удалось загрузить файл изображения sch/BCE_N.bmp
+!!! ERROR !!!  17 : ntrols/Bitmap.cpp: 57 : 09:49:54 : Can not load image sch/BCE_N.bmp
+!!! ERROR !!!  18 : ntrols/Bitmap.cpp: 27 : 09:49:55 : Не удалось загрузить файл изображения buttons/start_off.bmp
+!!! ERROR !!!  19 : ntrols/Bitmap.cpp: 57 : 09:49:55 : Can not load image buttons/start_off.bmp
+!!! ERROR !!!  20 : ntrols/Bitmap.cpp: 57 : 09:49:55 : Can not load image icons/graphs/imp_up.ico
+!!! ERROR !!!  21 : ntrols/Bitmap.cpp: 57 : 09:49:55 : Can not load image sch/cat1.bmp
+!!! ERROR !!!  22 : ntrols/Bitmap.cpp: 57 : 09:49:55 : Can not load image sch/BCE_N.bmp
+Log  23 : /Communicator/GPIO/GPIO.cpp:112 : 09:49:55 : Initializing GPIO...
+Log  24 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:55 : GPIO input pin 15:GPIO1-B0:gpiochip1:8 initialized
+Log  25 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:55 : GPIO input pin 21:GPIO1-B1:gpiochip1:9 initialized
+Log  26 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:56 : GPIO input pin 16:GPIO3-B5:gpiochip3:13 initialized
+Log  27 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:56 : GPIO input pin 18:GPIO3-B6:gpiochip3:14 initialized
+Log  28 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:56 : GPIO input pin 22:GPIO1-A2:gpiochip1:2 initialized
+Log  29 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:56 : GPIO input pin 36:GPIO3-A5:gpiochip3:5 initialized
+Log  30 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:56 : GPIO input pin 11:GPIO1-A4:gpiochip1:4 initialized
+Log  31 : /Communicator/GPIO/GPIO.cpp:147 : 09:49:56 : GPIO input pin 13:GPIO1-A7:gpiochip1:7 initialized
+Log  32 : /Communicator/GPIO/GPIO.cpp:180 : 09:49:56 : GPIO output pin 32:GPIO1-A3:gpiochip1:3 initialized
+Log  33 : /Communicator/GPIO/GPIO.cpp:180 : 09:49:56 : GPIO output pin 24:GPIO1-B4:gpiochip1:12 initialized
+Log  34 : /Communicator/GPIO/GPIO.cpp:180 : 09:49:56 : GPIO output pin 26:GPIO1-B5:gpiochip1:13 initialized
+Log  35 : /Communicator/GPIO/GPIO.cpp:187 : 09:49:56 : GPIO monitor thread started
+!!! ERROR !!!  36 : tor/UART/UART.cpp: 82 : 09:49:56 : Cannot open UART device: /dev/ttyS6
+Log  37 : src/SoftTests/DataTests.cpp: 62 : 09:49:56 : DataTests::Converter() is succseefull
+Log  38 : src/SoftTests/SCPITests.cpp: 24 : 09:49:56 : SCPI tests is succseefull
+Log  39 : es/Linia2/src/Utils/Log.cpp: 66 : 09:49:58 : Exit application 2026-01-26
