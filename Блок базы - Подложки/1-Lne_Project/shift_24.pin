@@ -1,0 +1,75 @@
+-- Copyright (C) 1988-2000 Altera Corporation
+-- Any megafunction design, and related net list (encrypted or decrypted),
+-- support information, device programming or simulation file, and any other
+-- associated documentation or information provided by Altera or a partner
+-- under Altera's Megafunction Partnership Program may be used only to
+-- program PLD devices (but not masked PLD devices) from Altera.  Any other
+-- use of such megafunction design, net list, support information, device
+-- programming or simulation file, or any other related documentation or
+-- information is prohibited for any other purpose, including, but not
+-- limited to modification, reverse engineering, de-compiling, or use with
+-- any other silicon devices, unless such use is explicitly licensed under
+-- a separate agreement with Altera or a megafunction partner.  Title to
+-- the intellectual property, including patents, copyrights, trademarks,
+-- trade secrets, or maskworks, embodied in any such megafunction design,
+-- net list, support information, device programming or simulation file, or
+-- any other related documentation or information provided by Altera or a
+-- megafunction partner, remains with Altera, the megafunction partner, or
+-- their respective licensors.  No other licenses, including any licenses
+-- needed under any third party's intellectual property, are provided herein.
+
+
+
+N.C. = No Connect. This pin has no internal connection to the device.
+VCCINT = Dedicated power pin, which MUST be connected to VCC (3.3 volts).
+VCCIO = Dedicated power pin, which MUST be connected to VCC (3.3 volts).
+GND = Dedicated ground pin or unused dedicated input, which MUST be connected to GND.
+RESERVED = Unused I/O pin, which MUST be left unconnected.
+
+----------------------------------------------------------------------------
+
+CHIP "shift_24" ASSIGNED TO AN EPM3064ALC44-4
+GND                              : 1
+GND                              : 2
+VCCINT                           : 3
+eff2                             : 4
+enb                              : 5
+eff3                             : 6
+TDI                              : 7
+eff0                             : 8
+eff23                            : 9
+GND                              : 10
+id                               : 11
+eff1                             : 12
+TMS                              : 13
+eff13                            : 14
+VCCIO                            : 15
+eff16                            : 16
+GND                              : 17
+eff6                             : 18
+eff15                            : 19
+eff14                            : 20
+eff7                             : 21
+GND                              : 22
+VCCINT                           : 23
+eff11                            : 24
+eff18                            : 25
+eff12                            : 26
+eff8                             : 27
+eff17                            : 28
+eff10                            : 29
+GND                              : 30
+eff9                             : 31
+TCK                              : 32
+eff5                             : 33
+eff4                             : 34
+VCCIO                            : 35
+GND                              : 36
+eff22                            : 37
+TDO                              : 38
+eff21                            : 39
+eff20                            : 40
+eff19                            : 41
+GND                              : 42
+iclk                             : 43
+GND                              : 44
