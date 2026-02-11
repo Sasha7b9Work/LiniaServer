@@ -1,0 +1,1185 @@
+PCAD Importer Log
+Project : kont_lineP-C.PrjPcb
+
+Section : \\ARX-704\Line-2-ARX\Êîíòðîëëåð\kont_lineP-C.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 90832
+        Warning - 1 : Skipping Token defaultPinDes On Line 90840
+        Warning - 1 : Skipping Token defaultPinDes On Line 90861
+        Warning - 1 : Skipping Token defaultPinDes On Line 90868
+        Warning - 1 : Skipping Token defaultPinDes On Line 90875
+        Warning - 1 : Skipping Token defaultPinDes On Line 90882
+        Warning - 1 : Skipping Token defaultPinDes On Line 90900
+        Warning - 1 : Skipping Token defaultPinDes On Line 90908
+        Warning - 1 : Skipping Token defaultPinDes On Line 90916
+        Warning - 1 : Skipping Token defaultPinDes On Line 90924
+        Warning - 1 : Skipping Token defaultPinDes On Line 90932
+        Warning - 1 : Skipping Token defaultPinDes On Line 90940
+        Warning - 1 : Skipping Token defaultPinDes On Line 90948
+        Warning - 1 : Skipping Token defaultPinDes On Line 90981
+        Warning - 1 : Skipping Token defaultPinDes On Line 90996
+        Warning - 1 : Skipping Token defaultPinDes On Line 91003
+        Warning - 1 : Skipping Token defaultPinDes On Line 91010
+        Warning - 1 : Skipping Token defaultPinDes On Line 91017
+        Warning - 1 : Skipping Token defaultPinDes On Line 91024
+        Warning - 1 : Skipping Token defaultPinDes On Line 91031
+        Warning - 1 : Skipping Token defaultPinDes On Line 91038
+        Warning - 1 : Skipping Token defaultPinDes On Line 91045
+        Warning - 1 : Skipping Token defaultPinDes On Line 91052
+        Warning - 1 : Skipping Token defaultPinDes On Line 91059
+        Warning - 1 : Skipping Token defaultPinDes On Line 91066
+        Warning - 1 : Skipping Token defaultPinDes On Line 91073
+        Warning - 1 : Skipping Token defaultPinDes On Line 91080
+        Warning - 1 : Skipping Token defaultPinDes On Line 91087
+        Warning - 1 : Skipping Token defaultPinDes On Line 91094
+        Warning - 1 : Skipping Token defaultPinDes On Line 91101
+        Warning - 1 : Skipping Token defaultPinDes On Line 91108
+        Warning - 1 : Skipping Token defaultPinDes On Line 91115
+        Warning - 1 : Skipping Token defaultPinDes On Line 91122
+        Warning - 1 : Skipping Token defaultPinDes On Line 91129
+        Warning - 1 : Skipping Token defaultPinDes On Line 91136
+        Warning - 1 : Skipping Token defaultPinDes On Line 91143
+        Warning - 1 : Skipping Token defaultPinDes On Line 91150
+        Warning - 1 : Skipping Token defaultPinDes On Line 91157
+        Warning - 1 : Skipping Token defaultPinDes On Line 91164
+        Warning - 1 : Skipping Token defaultPinDes On Line 91171
+        Warning - 1 : Skipping Token defaultPinDes On Line 91178
+        Warning - 1 : Skipping Token defaultPinDes On Line 91185
+        Warning - 1 : Skipping Token defaultPinDes On Line 91192
+        Warning - 1 : Skipping Token defaultPinDes On Line 91199
+        Warning - 1 : Skipping Token defaultPinDes On Line 91206
+        Warning - 1 : Skipping Token defaultPinDes On Line 91213
+        Warning - 1 : Skipping Token defaultPinDes On Line 91220
+        Warning - 1 : Skipping Token defaultPinDes On Line 91227
+        Warning - 1 : Skipping Token defaultPinDes On Line 91234
+        Warning - 1 : Skipping Token defaultPinDes On Line 91241
+        Warning - 1 : Skipping Token defaultPinDes On Line 91248
+        Warning - 1 : Skipping Token defaultPinDes On Line 91327
+        Warning - 1 : Skipping Token defaultPinDes On Line 91334
+        Warning - 1 : Skipping Token defaultPinDes On Line 91355
+        Warning - 1 : Skipping Token defaultPinDes On Line 91363
+        Warning - 1 : Skipping Token defaultPinDes On Line 91371
+        Warning - 1 : Skipping Token defaultPinDes On Line 91379
+        Warning - 1 : Skipping Token defaultPinDes On Line 91387
+        Warning - 1 : Skipping Token defaultPinDes On Line 91395
+        Warning - 1 : Skipping Token defaultPinDes On Line 91428
+        Warning - 1 : Skipping Token defaultPinDes On Line 91436
+        Warning - 1 : Skipping Token defaultPinDes On Line 91457
+        Warning - 1 : Skipping Token defaultPinDes On Line 91465
+        Warning - 1 : Skipping Token defaultPinDes On Line 91487
+        Warning - 1 : Skipping Token defaultPinDes On Line 91495
+        Warning - 1 : Skipping Token defaultPinDes On Line 91503
+        Warning - 1 : Skipping Token defaultPinDes On Line 91511
+        Warning - 1 : Skipping Token defaultPinDes On Line 91519
+        Warning - 1 : Skipping Token defaultPinDes On Line 91527
+        Warning - 1 : Skipping Token defaultPinDes On Line 91560
+        Warning - 1 : Skipping Token defaultPinDes On Line 91568
+        Warning - 1 : Skipping Token defaultPinDes On Line 91605
+        Warning - 1 : Skipping Token defaultPinDes On Line 91613
+        Warning - 1 : Skipping Token defaultPinDes On Line 91633
+        Warning - 1 : Skipping Token defaultPinDes On Line 91641
+        Warning - 1 : Skipping Token defaultPinDes On Line 91662
+        Warning - 1 : Skipping Token defaultPinDes On Line 91678
+        Warning - 1 : Skipping Token defaultPinDes On Line 91694
+        Warning - 1 : Skipping Token defaultPinDes On Line 91702
+        Warning - 1 : Skipping Token defaultPinDes On Line 91710
+        Warning - 1 : Skipping Token defaultPinDes On Line 91718
+        Warning - 1 : Skipping Token defaultPinDes On Line 91726
+        Warning - 1 : Skipping Token defaultPinDes On Line 91734
+        Warning - 1 : Skipping Token defaultPinDes On Line 91759
+        Warning - 1 : Skipping Token defaultPinDes On Line 91766
+        Warning - 1 : Skipping Token defaultPinDes On Line 91773
+        Warning - 1 : Skipping Token defaultPinDes On Line 91780
+        Warning - 1 : Skipping Token defaultPinDes On Line 91798
+        Warning - 1 : Skipping Token defaultPinDes On Line 91806
+        Warning - 1 : Skipping Token defaultPinDes On Line 91844
+        Warning - 1 : Skipping Token defaultPinDes On Line 91851
+        Warning - 1 : Skipping Token defaultPinDes On Line 91858
+        Warning - 1 : Skipping Token defaultPinDes On Line 91881
+        Warning - 1 : Skipping Token defaultPinDes On Line 91889
+        Warning - 1 : Skipping Token defaultPinDes On Line 91910
+        Warning - 1 : Skipping Token defaultPinDes On Line 91918
+        Warning - 1 : Skipping Token defaultPinDes On Line 91926
+        Warning - 1 : Skipping Token defaultPinDes On Line 91934
+        Warning - 1 : Skipping Token defaultPinDes On Line 91942
+        Warning - 1 : Skipping Token defaultPinDes On Line 91950
+        Warning - 1 : Skipping Token defaultPinDes On Line 91983
+        Warning - 1 : Skipping Token defaultPinDes On Line 91991
+        Warning - 1 : Skipping Token defaultPinDes On Line 92012
+        Warning - 1 : Skipping Token defaultPinDes On Line 92020
+        Warning - 1 : Skipping Token defaultPinDes On Line 92028
+        Warning - 1 : Skipping Token defaultPinDes On Line 92057
+        Warning - 1 : Skipping Token defaultPinDes On Line 92065
+        Warning - 1 : Skipping Token defaultPinDes On Line 92073
+        Warning - 1 : Skipping Token defaultPinDes On Line 92081
+        Warning - 1 : Skipping Token defaultPinDes On Line 92089
+        Warning - 1 : Skipping Token defaultPinDes On Line 92097
+        Warning - 1 : Skipping Token defaultPinDes On Line 92135
+        Warning - 1 : Skipping Token defaultPinDes On Line 92143
+        Warning - 1 : Skipping Token defaultPinDes On Line 92162
+        Warning - 1 : Skipping Token defaultPinDes On Line 92169
+        Warning - 1 : Skipping Token defaultPinDes On Line 92176
+        Warning - 1 : Skipping Token defaultPinDes On Line 92183
+        Warning - 1 : Skipping Token defaultPinDes On Line 92201
+        Warning - 1 : Skipping Token defaultPinDes On Line 92209
+        Warning - 1 : Skipping Token defaultPinDes On Line 92217
+        Warning - 1 : Skipping Token defaultPinDes On Line 92225
+        Warning - 1 : Skipping Token defaultPinDes On Line 92264
+        Warning - 1 : Skipping Token defaultPinDes On Line 92272
+        Warning - 1 : Skipping Token defaultPinDes On Line 92309
+        Warning - 1 : Skipping Token defaultPinDes On Line 92316
+        Warning - 1 : Skipping Token defaultPinDes On Line 92323
+        Warning - 1 : Skipping Token defaultPinDes On Line 92330
+        Warning - 1 : Skipping Token defaultPinDes On Line 92337
+        Warning - 1 : Skipping Token defaultPinDes On Line 92344
+        Warning - 1 : Skipping Token defaultPinDes On Line 92351
+        Warning - 1 : Skipping Token defaultPinDes On Line 92358
+        Warning - 1 : Skipping Token defaultPinDes On Line 92391
+        Warning - 1 : Skipping Token defaultPinDes On Line 92399
+        Warning - 1 : Skipping Token defaultPinDes On Line 92407
+        Warning - 1 : Skipping Token defaultPinDes On Line 92415
+        Warning - 1 : Skipping Token defaultPinDes On Line 92423
+        Warning - 1 : Skipping Token defaultPinDes On Line 92431
+        Warning - 1 : Skipping Token defaultPinDes On Line 92439
+        Warning - 1 : Skipping Token defaultPinDes On Line 92447
+        Warning - 1 : Skipping Token defaultPinDes On Line 92455
+        Warning - 1 : Skipping Token defaultPinDes On Line 92463
+        Warning - 1 : Skipping Token defaultPinDes On Line 92510
+        Warning - 1 : Skipping Token defaultPinDes On Line 92518
+        Warning - 1 : Skipping Token defaultPinDes On Line 92539
+        Warning - 1 : Skipping Token defaultPinDes On Line 92547
+        Warning - 1 : Skipping Token defaultPinDes On Line 92555
+        Warning - 1 : Skipping Token defaultPinDes On Line 92563
+        Warning - 1 : Skipping Token defaultPinDes On Line 92571
+        Warning - 1 : Skipping Token defaultPinDes On Line 92579
+        Warning - 1 : Skipping Token defaultPinDes On Line 92587
+        Warning - 1 : Skipping Token defaultPinDes On Line 92595
+        Warning - 1 : Skipping Token defaultPinDes On Line 92603
+        Warning - 1 : Skipping Token defaultPinDes On Line 92611
+        Warning - 1 : Skipping Token defaultPinDes On Line 92619
+        Warning - 1 : Skipping Token defaultPinDes On Line 92627
+        Warning - 1 : Skipping Token defaultPinDes On Line 92635
+        Warning - 1 : Skipping Token defaultPinDes On Line 92643
+        Warning - 1 : Skipping Token defaultPinDes On Line 92651
+        Warning - 1 : Skipping Token defaultPinDes On Line 92659
+        Warning - 1 : Skipping Token defaultPinDes On Line 92667
+        Warning - 1 : Skipping Token defaultPinDes On Line 92675
+        Warning - 1 : Skipping Token defaultPinDes On Line 92683
+        Warning - 1 : Skipping Token defaultPinDes On Line 92691
+        Warning - 1 : Skipping Token defaultPinDes On Line 92763
+        Warning - 1 : Skipping Token defaultPinDes On Line 92771
+        Warning - 1 : Skipping Token defaultPinDes On Line 92810
+        Warning - 1 : Skipping Token defaultPinDes On Line 92825
+        Warning - 1 : Skipping Token defaultPinDes On Line 92840
+        Warning - 1 : Skipping Token defaultPinDes On Line 92848
+        Warning - 1 : Skipping Token defaultPinDes On Line 92856
+        Warning - 1 : Skipping Token defaultPinDes On Line 92864
+        Warning - 1 : Skipping Token defaultPinDes On Line 92872
+        Warning - 1 : Skipping Token defaultPinDes On Line 92880
+        Warning - 1 : Skipping Token defaultPinDes On Line 92888
+        Warning - 1 : Skipping Token defaultPinDes On Line 92896
+        Warning - 1 : Skipping Token defaultPinDes On Line 92904
+        Warning - 1 : Skipping Token defaultPinDes On Line 92912
+        Warning - 1 : Skipping Token defaultPinDes On Line 92920
+        Warning - 1 : Skipping Token defaultPinDes On Line 92928
+        Warning - 1 : Skipping Token defaultPinDes On Line 92936
+        Warning - 1 : Skipping Token defaultPinDes On Line 92944
+        Warning - 1 : Skipping Token defaultPinDes On Line 92952
+        Warning - 1 : Skipping Token defaultPinDes On Line 92960
+        Warning - 1 : Skipping Token defaultPinDes On Line 93016
+        Warning - 1 : Skipping Token defaultPinDes On Line 93024
+        Warning - 1 : Skipping Token defaultPinDes On Line 93046
+        Warning - 1 : Skipping Token defaultPinDes On Line 93054
+        Warning - 1 : Skipping Token defaultPinDes On Line 93093
+        Warning - 1 : Skipping Token defaultPinDes On Line 93101
+        Warning - 1 : Skipping Token defaultPinDes On Line 93139
+        Warning - 1 : Skipping Token defaultPinDes On Line 93146
+        Warning - 1 : Skipping Token defaultPinDes On Line 93153
+        Warning - 1 : Skipping Token defaultPinDes On Line 93160
+        Warning - 1 : Skipping Token defaultPinDes On Line 93183
+        Warning - 1 : Skipping Token defaultPinDes On Line 93191
+        Warning - 1 : Skipping Token defaultPinDes On Line 93228
+        Warning - 1 : Skipping Token defaultPinDes On Line 93236
+        Warning - 1 : Skipping Token defaultPinDes On Line 93257
+        Warning - 1 : Skipping Token defaultPinDes On Line 93264
+        Warning - 1 : Skipping Token defaultPinDes On Line 93271
+        Warning - 1 : Skipping Token defaultPinDes On Line 93278
+        Warning - 1 : Skipping Token defaultPinDes On Line 93285
+        Warning - 1 : Skipping Token defaultPinDes On Line 93292
+        Warning - 1 : Skipping Token defaultPinDes On Line 93299
+        Warning - 1 : Skipping Token defaultPinDes On Line 93307
+        Warning - 1 : Skipping Token defaultPinDes On Line 93315
+        Warning - 1 : Skipping Token defaultPinDes On Line 93322
+        Warning - 1 : Skipping Token defaultPinDes On Line 93329
+        Warning - 1 : Skipping Token defaultPinDes On Line 93336
+        Warning - 1 : Skipping Token defaultPinDes On Line 93343
+        Warning - 1 : Skipping Token defaultPinDes On Line 93350
+        Warning - 1 : Skipping Token defaultPinDes On Line 93357
+        Warning - 1 : Skipping Token defaultPinDes On Line 93364
+        Warning - 1 : Skipping Token defaultPinDes On Line 93371
+        Warning - 1 : Skipping Token defaultPinDes On Line 93378
+        Warning - 1 : Skipping Token defaultPinDes On Line 93385
+        Warning - 1 : Skipping Token defaultPinDes On Line 93392
+        Warning - 1 : Skipping Token defaultPinDes On Line 93399
+        Warning - 1 : Skipping Token defaultPinDes On Line 93406
+        Warning - 1 : Skipping Token defaultPinDes On Line 93413
+        Warning - 1 : Skipping Token defaultPinDes On Line 93420
+        Warning - 1 : Skipping Token defaultPinDes On Line 93427
+        Warning - 1 : Skipping Token defaultPinDes On Line 93434
+        Warning - 1 : Skipping Token defaultPinDes On Line 93442
+        Warning - 1 : Skipping Token defaultPinDes On Line 93449
+        Warning - 1 : Skipping Token defaultPinDes On Line 93456
+        Warning - 1 : Skipping Token defaultPinDes On Line 93464
+        Warning - 1 : Skipping Token defaultPinDes On Line 93472
+        Warning - 1 : Skipping Token defaultPinDes On Line 93480
+        Warning - 1 : Skipping Token defaultPinDes On Line 93487
+        Warning - 1 : Skipping Token defaultPinDes On Line 93494
+        Warning - 1 : Skipping Token defaultPinDes On Line 93501
+        Warning - 1 : Skipping Token defaultPinDes On Line 93508
+        Warning - 1 : Skipping Token defaultPinDes On Line 93515
+        Warning - 1 : Skipping Token defaultPinDes On Line 93522
+        Warning - 1 : Skipping Token defaultPinDes On Line 93529
+        Warning - 1 : Skipping Token defaultPinDes On Line 93536
+        Warning - 1 : Skipping Token defaultPinDes On Line 93543
+        Warning - 1 : Skipping Token defaultPinDes On Line 93550
+        Warning - 1 : Skipping Token defaultPinDes On Line 93557
+        Warning - 1 : Skipping Token defaultPinDes On Line 93564
+        Warning - 1 : Skipping Token defaultPinDes On Line 93571
+        Warning - 1 : Skipping Token defaultPinDes On Line 93579
+        Warning - 1 : Skipping Token defaultPinDes On Line 93586
+        Warning - 1 : Skipping Token defaultPinDes On Line 93593
+        Warning - 1 : Skipping Token defaultPinDes On Line 93600
+        Warning - 1 : Skipping Token defaultPinDes On Line 93607
+        Warning - 1 : Skipping Token defaultPinDes On Line 93614
+        Warning - 1 : Skipping Token defaultPinDes On Line 93621
+        Warning - 1 : Skipping Token defaultPinDes On Line 93628
+        Warning - 1 : Skipping Token defaultPinDes On Line 93635
+        Warning - 1 : Skipping Token defaultPinDes On Line 93642
+        Warning - 1 : Skipping Token defaultPinDes On Line 93749
+        Warning - 1 : Skipping Token defaultPinDes On Line 93764
+        Warning - 1 : Skipping Token defaultPinDes On Line 93772
+        Warning - 1 : Skipping Token defaultPinDes On Line 93780
+        Warning - 1 : Skipping Token defaultPinDes On Line 93788
+        Warning - 1 : Skipping Token defaultPinDes On Line 93796
+        Warning - 1 : Skipping Token defaultPinDes On Line 93804
+        Warning - 1 : Skipping Token gridDfns On Line 97953
+        Warning - 1 : Skipping Token refPointSize On Line 97978
+        Warning - 1 : Skipping Token infoPointSize On Line 97979
+        Warning - 1 : Skipping Token junctionSize On Line 97980
+        Warning - 1 : Skipping Token refPointSizePrint On Line 97981
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 97982
+        Warning - 1 : Skipping Token junctionSizePrint On Line 97983
+        Warning - 1 : Skipping Token PrintRegion On Line 99751
+        Warning - 1 : Skipping Token PrintRegion On Line 101124
+        Warning - 1 : Skipping Token PrintRegion On Line 101946
+        Warning - 1 : Skipping Token PrintRegion On Line 103590
+        Warning - 1 : Skipping Token PrintRegion On Line 104317
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 104321
+        Warning - 1 : Skipping Token layerState On Line 104328
+        Warning - 1 : Skipping Token ecoState On Line 104339
+        Warning - 1 : Skipping Token currentTextStyle On Line 104340
+        Warning - 1 : Skipping Token reportSettings On Line 104343
+    EndSection
+
+    Section : Generating SCH Library - kont_lineP-C.SchLib
+        Warning : Create component variant [TAJA225M016_VARIANT_1] for component with original name [TAJA225M016]
+        Warning : Create component variant [GND_VARIANT_1] for component with original name [GND]
+        Warning : Create component variant [VCCIO_VARIANT_1] for component with original name [VCCIO]
+        Warning : Create component variant [AMP II 280372-2_VARIANT_1] for component with original name [AMP II 280372-2]
+    EndSection
+
+    Section : Generating SCH Sheet - First_Sheet.SCHDOC
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : P-CAD Port [VCCIO] will be replaced by a net label at location [2066.925mil : 3051.175mil]
+        Warning : P-CAD Port [DATAO] will be replaced by a net label at location [2066.925mil : 3248.025mil]
+        Warning : P-CAD Port [NCS] will be replaced by a net label at location [1968.5mil : 3444.875mil]
+        Warning : P-CAD Port [VCCA2] will be replaced by a net label at location [2066.925mil : 4724.4mil]
+        Warning : P-CAD Port [VCCA1] will be replaced by a net label at location [1968.5mil : 4921.25mil]
+        Warning : P-CAD Port [VCCIO] will be replaced by a net label at location [1870.075mil : 7283.45mil]
+        Warning : P-CAD Port [VCC_PL2] will be replaced by a net label at location [1968.5mil : 8464.55mil]
+        Warning : P-CAD Port [VCC_PL1] will be replaced by a net label at location [1968.5mil : 8661.4mil]
+        Warning : P-CAD Port [VCINT] will be replaced by a net label at location [1870.075mil : 10433.05mil]
+        Warning : P-CAD Port [F_CLK] will be replaced by a net label at location [4133.85mil : 1870.075mil]
+        Warning : P-CAD Port [ASDO] will be replaced by a net label at location [4527.55mil : 2854.325mil]
+        Warning : P-CAD Port [DCLK] will be replaced by a net label at location [4527.55mil : 3051.175mil]
+        Warning : P-CAD Port [VCCIO] will be replaced by a net label at location [4527.55mil : 3444.875mil]
+        Warning : P-CAD Port [TCK1] will be replaced by a net label at location [5019.675mil : 3149.6mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [5019.675mil : 4133.85mil]
+        Warning : P-CAD Port [F_CLK] will be replaced by a net label at location [5019.675mil : 4330.7mil]
+        Warning : P-CAD Port [TDI] will be replaced by a net label at location [5019.675mil : 5314.95mil]
+        Warning : P-CAD Port [VCCIO] will be replaced by a net label at location [5019.675mil : 5905.5mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [5019.675mil : 6102.35mil]
+        Warning : P-CAD Port [CONF_DO] will be replaced by a net label at location [5019.675mil : 6496.05mil]
+        Warning : P-CAD Port [DATAO] will be replaced by a net label at location [5019.675mil : 7283.45mil]
+        Warning : P-CAD Port [NCS] will be replaced by a net label at location [5019.675mil : 7677.15mil]
+        Warning : P-CAD Port [ASDO] will be replaced by a net label at location [5019.675mil : 7874mil]
+        Warning : P-CAD Port [VCCIO] will be replaced by a net label at location [5216.525mil : 2066.925mil]
+        Warning : P-CAD Port [CONF_DO] will be replaced by a net label at location [5216.525mil : 2362.2mil]
+        Warning : P-CAD Port [N_CONF] will be replaced by a net label at location [5314.95mil : 2755.9mil]
+        Warning : P-CAD Port [NSTAT] will be replaced by a net label at location [5314.95mil : 3543.3mil]
+        Warning : P-CAD Port [TMS1] will be replaced by a net label at location [5905.5mil : 4035.425mil]
+        Warning : P-CAD Port [TDO1] will be replaced by a net label at location [5905.5mil : 4429.125mil]
+        Warning : P-CAD Port [VCCIO] will be replaced by a net label at location [5807.075mil : 9251.95mil]
+        Warning : P-CAD Port [VCINT] will be replaced by a net label at location [6397.625mil : 9153.525mil]
+        Warning : P-CAD Port [+2.5V] will be replaced by a net label at location [6496.05mil : 11122.025mil]
+        Warning : P-CAD Port [VCC_PL2] will be replaced by a net label at location [7972.425mil : 8169.275mil]
+        Warning : P-CAD Port [VCC_PL1] will be replaced by a net label at location [7972.425mil : 9153.525mil]
+        Warning : P-CAD Port [VCCA2] will be replaced by a net label at location [7972.425mil : 10137.775mil]
+        Warning : P-CAD Port [VCCA1] will be replaced by a net label at location [8070.85mil : 11122.025mil]
+        Warning : P-CAD Port [+2.5V] will be replaced by a net label at location [9744.075mil : 6791.325mil]
+        Warning : P-CAD Port [STOP_TB] will be replaced by a net label at location [13090.55mil : 3149.6mil]
+        Warning : P-CAD Port [F_CON3] will be replaced by a net label at location [13090.55mil : 3346.45mil]
+        Warning : P-CAD Port [SPICS] will be replaced by a net label at location [13090.55mil : 5019.675mil]
+        Warning : P-CAD Port [SPI_CLK] will be replaced by a net label at location [13031.495mil : 6141.72mil]
+        Warning : P-CAD Port [F_CON2] will be replaced by a net label at location [13090.55mil : 6397.625mil]
+        Warning : P-CAD Port [DAT_ADC4] will be replaced by a net label at location [12992.125mil : 6771.64mil]
+        Warning : P-CAD Port [DAT_ADC3] will be replaced by a net label at location [12992.125mil : 6968.49mil]
+        Warning : P-CAD Port [DAT_ADC1] will be replaced by a net label at location [12992.125mil : 7362.19mil]
+        Warning : P-CAD Port [ENB_PC] will be replaced by a net label at location [12992.125mil : 7578.725mil]
+        Warning : P-CAD Port [DAT_RG] will be replaced by a net label at location [12992.125mil : 7775.575mil]
+        Warning : P-CAD Port [WR_RG] will be replaced by a net label at location [12992.125mil : 7972.425mil]
+        Warning : P-CAD Port [CLK_RG] will be replaced by a net label at location [12992.125mil : 8169.275mil]
+        Warning : P-CAD Port [A1_RG] will be replaced by a net label at location [12992.125mil : 8366.125mil]
+        Warning : P-CAD Port [A0_RG] will be replaced by a net label at location [13090.55mil : 8562.975mil]
+        Warning : P-CAD Port [IMPB+/-V] will be replaced by a net label at location [15551.175mil : 7381.875mil]
+        Warning : P-CAD Port [CLK_ADC] will be replaced by a net label at location [15551.175mil : 8169.275mil]
+        Warning : P-CAD Port [RUN_ADC] will be replaced by a net label at location [15551.175mil : 8366.125mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [15649.6mil : 5216.525mil]
+        Warning : P-CAD Port [ENS] will be replaced by a net label at location [15649.6mil : 5610.225mil]
+        Warning : P-CAD Port [SPI_MISO] will be replaced by a net label at location [15649.6mil : 6791.325mil]
+        Warning : P-CAD Port [PULSC] will be replaced by a net label at location [15649.6mil : 7775.575mil]
+        Warning : P-CAD Port [PULSB] will be replaced by a net label at location [15649.6mil : 7972.425mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [5019.675mil : 5708.65mil]
+        Warning : P-CAD Port [DCLK] will be replaced by a net label at location [5019.675mil : 7480.3mil]
+        Warning : P-CAD Port [TCK1] will be replaced by a net label at location [5216.525mil : 5118.1mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7677.15mil : 4035.425mil]
+        Warning : P-CAD Port [LINE] will be replaced by a net label at location [12992.125mil : 5984.24mil]
+        Warning : P-CAD Port [F_CON1] will be replaced by a net label at location [13090.55mil : 6594.475mil]
+        Warning : P-CAD Port [DAT_ADC2] will be replaced by a net label at location [12992.125mil : 7185.025mil]
+        Warning : P-CAD Port [EIMP] will be replaced by a net label at location [15551.175mil : 7185.025mil]
+        Warning : P-CAD Port [FULL] will be replaced by a net label at location [15649.6mil : 6003.925mil]
+        Warning : Add Power Object for Pin Name [GND] at location [1377.95mil : 1279.525mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [8267.7mil : 4625.975mil]
+        Warning : P-CAD Port [TMS1] will be replaced by a net label at location [5118.1mil : 4724.4mil]
+        Warning : P-CAD Port [TDI] will be replaced by a net label at location [6003.925mil : 4822.825mil]
+        Warning : P-CAD Port [TDO1] will be replaced by a net label at location [5118.1mil : 4921.25mil]
+        Warning : P-CAD Port [NSTAT] will be replaced by a net label at location [5118.1mil : 6692.9mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [5708.65mil : 8661.4mil]
+        Warning : P-CAD Port [TDI] will be replaced by a net label at location [5708.65mil : 8858.25mil]
+        Warning : P-CAD Port [TMS1] will be replaced by a net label at location [5708.65mil : 9055.1mil]
+        Warning : P-CAD Port [TDO1] will be replaced by a net label at location [5708.65mil : 9448.8mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [5708.65mil : 9645.65mil]
+        Warning : P-CAD Port [TCK1] will be replaced by a net label at location [5708.65mil : 9842.5mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8070.85mil : 2657.475mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7775.575mil : 5314.95mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7578.725mil : 7677.15mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7578.725mil : 8562.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7677.15mil : 9547.225mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8858.25mil : 8562.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [10728.325mil : 9547.225mil]
+        Warning : P-CAD Port [VCINT] will be replaced by a net label at location [12007.85mil : 4429.125mil]
+        Warning : P-CAD Port [OVLWR] will be replaced by a net label at location [12893.7mil : 4035.425mil]
+        Warning : P-CAD Port [OVLPR] will be replaced by a net label at location [12893.7mil : 4232.275mil]
+        Warning : P-CAD Port [OVLBR] will be replaced by a net label at location [12893.7mil : 4429.125mil]
+        Warning : P-CAD Port [OVLI1,R] will be replaced by a net label at location [12893.7mil : 4625.975mil]
+        Warning : P-CAD Port [OVLI,2R] will be replaced by a net label at location [12893.7mil : 4822.825mil]
+        Warning : Add Power Object for Pin Name [GND] at location [1870.075mil : 7874mil]
+        Warning : Add Power Object for Pin Name [GND] at location [3444.875mil : 688.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6003.925mil : 3149.6mil]
+        Warning : P-CAD Port [N_CONF] will be replaced by a net label at location [5118.1mil : 6299.2mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7185.025mil : 3149.6mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6496.05mil : 5413.375mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7775.575mil : 6791.325mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7775.575mil : 10531.475mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8956.675mil : 5511.8mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8956.675mil : 6889.75mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9448.8mil : 9645.65mil]
+        Warning : Add Power Object for Pin Name [GND] at location [10728.325mil : 11023.6mil]
+        Warning : Add Power Object for Pin Name [GND] at location [11909.425mil : 9645.65mil]
+        Warning : Add Power Object for Pin Name [GND] at location [11909.425mil : 11122.025mil]
+        Warning : Add Power Object for Pin Name [GND] at location [12992.125mil : 9645.65mil]
+        Warning : Add Power Object for Pin Name [GND] at location [13582.675mil : 9645.65mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14173.225mil : 9645.65mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14763.775mil : 9645.65mil]
+        Warning : Add Power Object for Pin Name [VCCIO] at location [5413.375mil : 1279.525mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [9055.1mil : 10531.475mil]
+        Warning : Add Power Object for Pin Name [VCCIO] at location [12992.125mil : 10925.175mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4921.25mil : 6988.175mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8661.4mil : 3740.15mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9940.925mil : 3740.15mil]
+        Warning : Add Power Object for Pin Name [GND] at location [11122.025mil : 3838.575mil]
+        Warning : Add Power Object for Pin Name [GND] at location [11122.025mil : 5216.525mil]
+        Warning : Add Power Object for Pin Name [GND] at location [3937mil : 688.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2362.2mil : 2460.625mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4822.825mil : 10826.75mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9940.925mil : 5118.1mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [6102.35mil : 6299.2mil]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet2.SCHDOC
+        Warning : P-CAD Port [NRST] will be replaced by a net label at location [5019.675mil : 9744.075mil]
+        Warning : P-CAD Port [TRACEWO] will be replaced by a net label at location [5019.675mil : 9940.925mil]
+        Warning : P-CAD Port [SWCLK] will be replaced by a net label at location [5019.675mil : 10137.775mil]
+        Warning : P-CAD Port [SWDIO] will be replaced by a net label at location [5019.675mil : 10334.625mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [5019.675mil : 10531.475mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5019.675mil : 10728.325mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5216.525mil : 4035.425mil]
+        Warning : P-CAD Port [AVCST] will be replaced by a net label at location [5216.525mil : 4527.55mil]
+        Warning : P-CAD Port [NRST] will be replaced by a net label at location [5216.525mil : 5216.525mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5216.525mil : 8070.85mil]
+        Warning : P-CAD Port [SWDIO] will be replaced by a net label at location [5216.525mil : 8366.125mil]
+        Warning : P-CAD Port [SWCLK] will be replaced by a net label at location [5216.525mil : 9153.525mil]
+        Warning : P-CAD Port [DAT1_DAC] will be replaced by a net label at location [6200.775mil : 5905.5mil]
+        Warning : P-CAD Port [DAT2_DAC] will be replaced by a net label at location [9842.5mil : 5905.5mil]
+        Warning : P-CAD Port [D1+] will be replaced by a net label at location [10078.72mil : 10236.2mil]
+        Warning : P-CAD Port [D1-] will be replaced by a net label at location [10137.775mil : 10433.05mil]
+        Warning : P-CAD Port [RUN_ADC] will be replaced by a net label at location [13681.1mil : 5905.5mil]
+        Warning : P-CAD Port [CLK1_DAC] will be replaced by a net label at location [14173.225mil : 11614.15mil]
+        Warning : P-CAD Port [CLK1_DAC+] will be replaced by a net label at location [15984.245mil : 12519.66mil]
+        Warning : P-CAD Port [CLK1_DAC-] will be replaced by a net label at location [16968.495mil : 12244.07mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [17362.195mil : 9330.69mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2657.475mil : 6594.475mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4133.85mil : 5216.525mil]
+        Warning : Add Power Object for Pin Name [GND] at location [5019.675mil : 11515.725mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5216.525mil : 7185.025mil]
+        Warning : P-CAD Port [DAT1_DAC-] will be replaced by a net label at location [8779.51mil : 5984.24mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [11436.985mil : 5984.24mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [12421.235mil : 5984.24mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [13976.375mil : 8661.4mil]
+        Warning : P-CAD Port [CLK2_DAC] will be replaced by a net label at location [14074.8mil : 9251.95mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [13976.375mil : 11023.6mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [15275.585mil : 5984.24mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [16259.835mil : 5984.24mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2657.475mil : 7480.3mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [5807.075mil : 4921.25mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [9448.8mil : 4921.25mil]
+        Warning : P-CAD Port [TRACEWO] will be replaced by a net label at location [5118.1mil : 8759.825mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [6003.925mil : 10137.775mil]
+        Warning : P-CAD Port [TRACEWO] will be replaced by a net label at location [6003.925mil : 10531.475mil]
+        Warning : P-CAD Port [SWCLK] will be replaced by a net label at location [6003.925mil : 10728.325mil]
+        Warning : P-CAD Port [SWDIO] will be replaced by a net label at location [6003.925mil : 10925.175mil]
+        Warning : P-CAD Port [NRST] will be replaced by a net label at location [6003.925mil : 11318.875mil]
+        Warning : Add Power Object for Pin Name [GND] at location [5610.225mil : 12992.125mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6594.475mil : 6791.325mil]
+        Warning : P-CAD Port [AVCST] will be replaced by a net label at location [6299.2mil : 7578.725mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6594.475mil : 12992.125mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8267.7mil : 4035.425mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9153.525mil : 6791.325mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9153.525mil : 8562.975mil]
+        Warning : P-CAD Port [TX] will be replaced by a net label at location [10196.83mil : 10826.75mil]
+        Warning : P-CAD Port [RX] will be replaced by a net label at location [10196.83mil : 11023.6mil]
+        Warning : Add Power Object for Pin Name [GND] at location [11909.425mil : 4035.425mil]
+        Warning : Add Power Object for Pin Name [GND] at location [13681.1mil : 3740.15mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [17086.605mil : 9842.5mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [2755.9mil : 4035.425mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2854.325mil : 5511.8mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4527.55mil : 3051.175mil]
+        Warning : Add Power Object for Pin Name [GND] at location [4232.275mil : 9153.525mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5118.1mil : 6299.2mil]
+        Warning : P-CAD Port [DAT1_DAC+] will be replaced by a net label at location [7795.26mil : 5984.24mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9153.525mil : 12598.4mil]
+        Warning : Add Power Object for Pin Name [GND] at location [16437mil : 7874mil]
+        Warning : Add Power Object for Pin Name [GND] at location [16437mil : 10236.2mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6200.775mil : 3740.15mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9842.5mil : 3740.15mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6003.925mil : 6791.325mil]
+        Warning : Add Power Object for Pin Name [GND] at location [15748.025mil : 4035.425mil]
+        Warning : Add Power Object for Pin Name [GND] at location [2755.9mil : 3051.175mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14370.075mil : 7578.725mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14370.075mil : 9940.925mil]
+        Warning : Add Power Object for Pin Name [GND] at location [6102.35mil : 8661.4mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [13287.4mil : 4921.25mil]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet3.SCHDOC
+        Warning : P-CAD Port [PULSC] will be replaced by a net label at location [7755.89mil : 3976.37mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [7775.575mil : 10531.475mil]
+        Warning : P-CAD Port [IMPC+] will be replaced by a net label at location [9566.91mil : 3976.37mil]
+        Warning : P-CAD Port [CLK_DDAC+] will be replaced by a net label at location [10157.46mil : 6929.12mil]
+        Warning : P-CAD Port [IMPC-] will be replaced by a net label at location [10826.75mil : 3937mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [11122.025mil : 10433.05mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [11909.425mil : 4035.425mil]
+        Warning : P-CAD Port [CLK_ADC] will be replaced by a net label at location [12696.85mil : 4035.425mil]
+        Warning : P-CAD Port [DAT_DDAC+] will be replaced by a net label at location [13779.525mil : 6929.12mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [14370.075mil : 4035.425mil]
+        Warning : P-CAD Port [DAT_DDAC-] will be replaced by a net label at location [14881.885mil : 6929.12mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [14960.625mil : 10433.05mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [15551.175mil : 4035.425mil]
+        Warning : P-CAD Port [PULSB] will be replaced by a net label at location [16535.425mil : 6988.175mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19094.475mil : 5196.84mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19389.75mil : 2952.75mil]
+        Warning : P-CAD Port [LINE] will be replaced by a net label at location [21653.525mil : 4133.85mil]
+        Warning : P-CAD Port [CLK_DDAC] will be replaced by a net label at location [8228.33mil : 6889.75mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [9251.95mil : 7185.025mil]
+        Warning : P-CAD Port [CLK_DDAC-] will be replaced by a net label at location [11220.45mil : 6889.75mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [12499.975mil : 7185.025mil]
+        Warning : P-CAD Port [DT_DDAC] will be replaced by a net label at location [12716.535mil : 6889.75mil]
+        Warning : Add Power Object for Pin Name [GND] at location [15157.475mil : 7775.575mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [16240.15mil : 7185.025mil]
+        Warning : P-CAD Port [IMPB+] will be replaced by a net label at location [18503.925mil : 6889.75mil]
+        Warning : P-CAD Port [IMPB-] will be replaced by a net label at location [19685.025mil : 6889.75mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19980.3mil : 7185.025mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [8267.7mil : 5807.075mil]
+        Warning : Add Power Object for Pin Name [GND] at location [12204.7mil : 8562.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19685.025mil : 8366.125mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8169.275mil : 1673.225mil]
+        Warning : Add Power Object for Pin Name [GND] at location [10728.325mil : 4921.25mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [18602.35mil : 10236.2mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19685.025mil : 5216.525mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [7775.575mil : 2755.9mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8070.85mil : 7874mil]
+        Warning : Add Power Object for Pin Name [GND] at location [10236.2mil : 1870.075mil]
+        Warning : Add Power Object for Pin Name [GND] at location [10629.9mil : 7874mil]
+        Warning : Add Power Object for Pin Name [GND] at location [11417.3mil : 7775.575mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14173.225mil : 1870.075mil]
+        Warning : Add Power Object for Pin Name [GND] at location [13976.375mil : 7775.575mil]
+        Warning : Add Power Object for Pin Name [GND] at location [16240.15mil : 4527.55mil]
+        Warning : Add Power Object for Pin Name [GND] at location [17716.525mil : 7578.725mil]
+        Warning : Add Power Object for Pin Name [GND] at location [18897.625mil : 7578.725mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19881.875mil : 2362.2mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19881.875mil : 3346.45mil]
+        Warning : Add Power Object for Pin Name [GND] at location [21456.675mil : 7578.725mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8759.825mil : 8661.4mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [11909.425mil : 5708.65mil]
+        Warning : Add Power Object for Pin Name [+5V] at location [15846.45mil : 5708.65mil]
+        Warning : Add Power Object for Pin Name [GND] at location [15944.875mil : 8562.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8661.4mil : 4625.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [12106.275mil : 1673.225mil]
+        Warning : Add Power Object for Pin Name [GND] at location [21653.525mil : 2559.05mil]
+        Warning : Add Power Object for Pin Name [GND] at location [8661.4mil : 10531.475mil]
+        Warning : Add Power Object for Pin Name [GND] at location [14370.075mil : 4822.825mil]
+        Warning : Add Power Object for Pin Name [GND] at location [12303.125mil : 4527.55mil]
+        Warning : Add Power Object for Pin Name [GND] at location [12007.85mil : 10433.05mil]
+        Warning : Add Power Object for Pin Name [GND] at location [18307.075mil : 4822.825mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19488.175mil : 10236.2mil]
+        Warning : Add Power Object for Pin Name [GND] at location [15748.025mil : 10433.05mil]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet4.SCHDOC
+        Warning : P-CAD Port [ENB_PC] will be replaced by a net label at location [6535.42mil : 11811mil]
+        Warning : P-CAD Port [KA] will be replaced by a net label at location [6397.625mil : 13385.825mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [6397.625mil : 13582.675mil]
+        Warning : P-CAD Port [VBAS] will be replaced by a net label at location [6692.9mil : 8070.85mil]
+        Warning : P-CAD Port [SPI_MISO] will be replaced by a net label at location [6653.53mil : 12401.55mil]
+        Warning : P-CAD Port [KN_START] will be replaced by a net label at location [6692.9mil : 12992.125mil]
+        Warning : P-CAD Port [FULL] will be replaced by a net label at location [7972.425mil : 11023.6mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [7972.425mil : 11220.45mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [7972.425mil : 11614.15mil]
+        Warning : P-CAD Port [SPICS] will be replaced by a net label at location [7972.425mil : 12204.7mil]
+        Warning : P-CAD Port [STOP_TB] will be replaced by a net label at location [8070.85mil : 12401.55mil]
+        Warning : P-CAD Port [CLK_DDAC] will be replaced by a net label at location [8070.85mil : 12795.275mil]
+        Warning : P-CAD Port [DT_DDAC] will be replaced by a net label at location [8031.48mil : 12992.125mil]
+        Warning : P-CAD Port [RX] will be replaced by a net label at location [7874mil : 13582.675mil]
+        Warning : P-CAD Port [TX] will be replaced by a net label at location [7874mil : 13779.525mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [7874mil : 13976.375mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 8956.675mil]
+        Warning : P-CAD Port [3/50V] will be replaced by a net label at location [9685.02mil : 9173.21mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [9744.075mil : 9350.375mil]
+        Warning : P-CAD Port [OVLB] will be replaced by a net label at location [9645.65mil : 9547.225mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [9645.65mil : 9744.075mil]
+        Warning : P-CAD Port [IMPB+] will be replaced by a net label at location [9645.65mil : 9940.925mil]
+        Warning : P-CAD Port [IMPB-] will be replaced by a net label at location [9645.65mil : 10137.775mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [9645.65mil : 10334.625mil]
+        Warning : P-CAD Port [IMPB+/-V] will be replaced by a net label at location [9645.65mil : 10531.475mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [9645.65mil : 10728.325mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 10925.175mil]
+        Warning : P-CAD Port [DAT_ADC1+] will be replaced by a net label at location [9744.075mil : 11122.025mil]
+        Warning : P-CAD Port [DAT_ADC1-] will be replaced by a net label at location [9744.075mil : 11318.875mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 11515.725mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [9645.65mil : 11909.425mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 12106.275mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [9645.65mil : 12499.975mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 12696.85mil]
+        Warning : P-CAD Port [END2B] will be replaced by a net label at location [9645.65mil : 13090.55mil]
+        Warning : P-CAD Port [END1B] will be replaced by a net label at location [9645.65mil : 13287.4mil]
+        Warning : P-CAD Port [CLK_DAC1+] will be replaced by a net label at location [9744.075mil : 13681.1mil]
+        Warning : P-CAD Port [CLK_DAC1-] will be replaced by a net label at location [9744.075mil : 13877.95mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [9645.65mil : 14074.8mil]
+        Warning : P-CAD Port [DAT1_DAC+] will be replaced by a net label at location [9744.075mil : 14271.65mil]
+        Warning : P-CAD Port [DAT1_DAC-] will be replaced by a net label at location [9744.075mil : 14468.5mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [9645.65mil : 14665.35mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 9055.1mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [12401.55mil : 9448.8mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 11023.6mil]
+        Warning : P-CAD Port [DAT_ADC2+] will be replaced by a net label at location [12499.975mil : 11220.45mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 11614.15mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [12499.975mil : 11811mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 12204.7mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [12401.55mil : 12401.55mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 12795.275mil]
+        Warning : P-CAD Port [CLK1_DAC+] will be replaced by a net label at location [12499.975mil : 13779.525mil]
+        Warning : P-CAD Port [CLK1_DAC-] will be replaced by a net label at location [12499.975mil : 13976.375mil]
+        Warning : P-CAD Port [DAT1_DAC+] will be replaced by a net label at location [12499.975mil : 14370.075mil]
+        Warning : P-CAD Port [DAT1_DAC-] will be replaced by a net label at location [12499.975mil : 14566.925mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12401.55mil : 14763.775mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [15059.05mil : 11023.6mil]
+        Warning : P-CAD Port [+5V] will be replaced by a net label at location [15059.05mil : 11220.45mil]
+        Warning : P-CAD Port [+5V] will be replaced by a net label at location [15078.735mil : 11614.15mil]
+        Warning : P-CAD Port [DAT_ADC3+] will be replaced by a net label at location [15157.475mil : 11811mil]
+        Warning : P-CAD Port [+5V] will be replaced by a net label at location [15118.105mil : 12204.7mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [15157.475mil : 12401.55mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [15059.05mil : 12795.275mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [15059.05mil : 12992.125mil]
+        Warning : P-CAD Port [ENRGI] will be replaced by a net label at location [15059.05mil : 13385.825mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [15059.05mil : 13582.675mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [15157.475mil : 13779.525mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [15157.475mil : 13976.375mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [15059.05mil : 14173.225mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [15157.475mil : 14370.075mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [15157.475mil : 14566.925mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [15059.05mil : 14763.775mil]
+        Warning : P-CAD Port [+5V] will be replaced by a net label at location [16240.15mil : 8366.125mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [16830.7mil : 8366.125mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 7874mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 8267.7mil]
+        Warning : P-CAD Port [ENDU] will be replaced by a net label at location [17519.675mil : 8464.55mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [17519.675mil : 8661.4mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [17519.675mil : 8858.25mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [17421.25mil : 9055.1mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [17519.675mil : 9251.95mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [17519.675mil : 9448.8mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [17519.675mil : 9645.65mil]
+        Warning : P-CAD Port [DAT_ADC4+] will be replaced by a net label at location [17618.1mil : 9842.5mil]
+        Warning : P-CAD Port [DAT_ADC4-] will be replaced by a net label at location [17618.1mil : 10039.35mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [17519.675mil : 10236.2mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 10433.05mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 10629.9mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [17519.675mil : 11023.6mil]
+        Warning : P-CAD Port [OVLW] will be replaced by a net label at location [17519.675mil : 11220.45mil]
+        Warning : P-CAD Port [EN_DDA1] will be replaced by a net label at location [17519.675mil : 11614.15mil]
+        Warning : P-CAD Port [ENS] will be replaced by a net label at location [17519.675mil : 11811mil]
+        Warning : P-CAD Port [LINE+] will be replaced by a net label at location [17618.1mil : 12204.7mil]
+        Warning : P-CAD Port [LINE-] will be replaced by a net label at location [17618.1mil : 12401.55mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [17618.1mil : 12795.275mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [17618.1mil : 12992.125mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [17618.1mil : 13385.825mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [17618.1mil : 13582.675mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [17519.675mil : 13779.525mil]
+        Warning : P-CAD Port [CLK_DDAC+] will be replaced by a net label at location [17618.1mil : 13976.375mil]
+        Warning : P-CAD Port [CLK_DDAC-] will be replaced by a net label at location [17618.1mil : 14173.225mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [17519.675mil : 14370.075mil]
+        Warning : P-CAD Port [DAT_DDAC+] will be replaced by a net label at location [17618.1mil : 14566.925mil]
+        Warning : P-CAD Port [DAT_DDAC-] will be replaced by a net label at location [17618.1mil : 14763.775mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [6397.625mil : 12007.85mil]
+        Warning : P-CAD Port [KB] will be replaced by a net label at location [6397.625mil : 13188.975mil]
+        Warning : P-CAD Port [F_CON1] will be replaced by a net label at location [7972.425mil : 12007.85mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [7952.74mil : 12598.4mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [7874mil : 13188.975mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [9645.65mil : 11712.575mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [9645.65mil : 12303.125mil]
+        Warning : P-CAD Port [ENRGB] will be replaced by a net label at location [9645.65mil : 12893.7mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [9645.65mil : 13484.25mil]
+        Warning : P-CAD Port [DAT_ADC2-] will be replaced by a net label at location [12499.975mil : 11417.3mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [12499.975mil : 12007.85mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [12401.55mil : 12598.4mil]
+        Warning : P-CAD Port [OVLI,1] will be replaced by a net label at location [15059.05mil : 11417.3mil]
+        Warning : P-CAD Port [DAT_ADC3-] will be replaced by a net label at location [15157.475mil : 12007.85mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [15157.475mil : 12598.4mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [15059.05mil : 13188.975mil]
+        Warning : P-CAD Port [ENRGF] will be replaced by a net label at location [17519.675mil : 11417.3mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [17519.675mil : 12007.85mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [17519.675mil : 12598.4mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [17519.675mil : 13188.975mil]
+        Warning : P-CAD Port [D1+] will be replaced by a net label at location [6594.475mil : 7086.6mil]
+        Warning : P-CAD Port [D1-] will be replaced by a net label at location [6594.475mil : 7283.45mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [6594.475mil : 10629.9mil]
+        Warning : P-CAD Port [EN_DDA2] will be replaced by a net label at location [6594.475mil : 11023.6mil]
+        Warning : P-CAD Port [KN_STOP] will be replaced by a net label at location [6594.475mil : 11220.45mil]
+        Warning : P-CAD Port [SPI_CLK] will be replaced by a net label at location [6594.475mil : 12204.7mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9251.95mil : 8169.275mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12303.125mil : 9842.5mil]
+        Warning : P-CAD Port [OVLP] will be replaced by a net label at location [12303.125mil : 9645.65mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12303.125mil : 10433.05mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12303.125mil : 10826.75mil]
+        Warning : P-CAD Port [ENRGP] will be replaced by a net label at location [12303.125mil : 12992.125mil]
+        Warning : P-CAD Port [END1P] will be replaced by a net label at location [12303.125mil : 13385.825mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12303.125mil : 13582.675mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [12303.125mil : 14173.225mil]
+        Warning : Add Power Object for Pin Name [GND] at location [16240.15mil : 5314.95mil]
+        Warning : Add Power Object for Pin Name [GND] at location [16732.275mil : 5314.95mil]
+        Warning : Add Power Object for Pin Name [GND] at location [17322.825mil : 5610.225mil]
+        Warning : Add Power Object for Pin Name [GND] at location [17519.675mil : 6791.325mil]
+        Warning : P-CAD Port [EN_DDA1] will be replaced by a net label at location [6594.475mil : 11417.3mil]
+        Warning : Add Power Object for Pin Name [GND] at location [9251.95mil : 6397.625mil]
+        Warning : P-CAD Port [END2P] will be replaced by a net label at location [12303.125mil : 13188.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [16043.3mil : 6889.75mil]
+        Warning : Add Power Object for Pin Name [GND] at location [18602.35mil : 5413.375mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19881.875mil : 6594.475mil]
+        Warning : Add Power Object for Pin Name [GND] at location [7185.025mil : 7578.725mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19192.9mil : 5413.375mil]
+        Warning : Add Power Object for Pin Name [GND] at location [19389.75mil : 6594.475mil]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet5.SCHDOC
+        Warning : P-CAD Port [EB] will be replaced by a net label at location [16830.7mil : 11515.725mil]
+        Warning : P-CAD Port [EA] will be replaced by a net label at location [16830.7mil : 11909.425mil]
+        Warning : P-CAD Port [EA] will be replaced by a net label at location [16830.7mil : 12696.85mil]
+        Warning : P-CAD Port [STOP] will be replaced by a net label at location [16830.7mil : 13090.55mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [16929.125mil : 14173.225mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16889.755mil : 14370.075mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16929.125mil : 14566.925mil]
+        Warning : P-CAD Port [OVLI,2] will be replaced by a net label at location [16830.7mil : 15354.325mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16929.125mil : 15748.025mil]
+        Warning : P-CAD Port [IMPC+] will be replaced by a net label at location [16929.125mil : 15944.875mil]
+        Warning : P-CAD Port [IMPC-] will be replaced by a net label at location [16929.125mil : 16141.725mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16929.125mil : 16338.575mil]
+        Warning : P-CAD Port [EN_DDA2] will be replaced by a net label at location [16830.7mil : 16535.425mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [16889.755mil : 16732.275mil]
+        Warning : P-CAD Port [CLK_DDAC+] will be replaced by a net label at location [16929.125mil : 16929.125mil]
+        Warning : P-CAD Port [CLK_DDAC-] will be replaced by a net label at location [16929.125mil : 17125.975mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [16929.125mil : 17322.825mil]
+        Warning : P-CAD Port [DAT_DDAC+] will be replaced by a net label at location [16929.125mil : 17519.675mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [16929.125mil : 17913.375mil]
+        Warning : P-CAD Port [+5V] will be replaced by a net label at location [18405.5mil : 11122.025mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [18405.5mil : 11515.725mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [18405.5mil : 11909.425mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [19291.325mil : 16141.725mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [19291.325mil : 16338.575mil]
+        Warning : P-CAD Port [ENRGK] will be replaced by a net label at location [19291.325mil : 16535.425mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [19251.955mil : 16732.275mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [19389.75mil : 16929.125mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [19389.75mil : 17125.975mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [19291.325mil : 17322.825mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [19389.75mil : 17519.675mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [19311.01mil : 17913.375mil]
+        Warning : P-CAD Port [OVLI,2R] will be replaced by a net label at location [20374mil : 8267.7mil]
+        Warning : P-CAD Port [OVLWR] will be replaced by a net label at location [20374mil : 8661.4mil]
+        Warning : P-CAD Port [OVLI,1R] will be replaced by a net label at location [20374mil : 9055.1mil]
+        Warning : P-CAD Port [OVLPR] will be replaced by a net label at location [20374mil : 9448.8mil]
+        Warning : P-CAD Port [OVLBR] will be replaced by a net label at location [20374mil : 9842.5mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [20374mil : 10925.175mil]
+        Warning : P-CAD Port [EA] will be replaced by a net label at location [21850.375mil : 13090.55mil]
+        Warning : P-CAD Port [STOP] will be replaced by a net label at location [21850.375mil : 14566.925mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [21850.375mil : 14960.625mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [21850.375mil : 16141.725mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [21850.375mil : 16338.575mil]
+        Warning : P-CAD Port [ENRGV] will be replaced by a net label at location [21850.375mil : 16535.425mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [21850.375mil : 16732.275mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [21850.375mil : 17322.825mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [21850.375mil : 17913.375mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [22047.225mil : 16929.125mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [22047.225mil : 17125.975mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [22047.225mil : 17519.675mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [23031.475mil : 12244.07mil]
+        Warning : P-CAD Port [EB] will be replaced by a net label at location [16830.7mil : 12303.125mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [16830.7mil : 13484.25mil]
+        Warning : P-CAD Port [DAT_DDAC-] will be replaced by a net label at location [16929.125mil : 17716.525mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [19389.75mil : 17716.525mil]
+        Warning : P-CAD Port [EB] will be replaced by a net label at location [21850.375mil : 12893.7mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [21948.8mil : 12303.125mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [22047.225mil : 17716.525mil]
+        Warning : P-CAD Port [OVLI,2] will be replaced by a net label at location [19192.9mil : 8267.7mil]
+        Warning : P-CAD Port [OVLW] will be replaced by a net label at location [19192.9mil : 8661.4mil]
+        Warning : P-CAD Port [OVLI,1] will be replaced by a net label at location [19192.9mil : 9055.1mil]
+        Warning : P-CAD Port [OVLP] will be replaced by a net label at location [19192.9mil : 9448.8mil]
+        Warning : P-CAD Port [OVLB] will be replaced by a net label at location [19192.9mil : 9842.5mil]
+        Warning : P-CAD Port [KA] will be replaced by a net label at location [18307.075mil : 12696.85mil]
+        Warning : P-CAD Port [KN_STOP] will be replaced by a net label at location [18307.075mil : 13090.55mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19192.9mil : 13681.1mil]
+        Warning : P-CAD Port [STOP] will be replaced by a net label at location [19192.9mil : 13976.375mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [19192.9mil : 14370.075mil]
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Warning : P-CAD Port [KB] will be replaced by a net label at location [18307.075mil : 12303.125mil]
+        Warning : P-CAD Port [KN_START] will be replaced by a net label at location [18307.075mil : 13484.25mil]
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-2 2 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-2 2 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-2 2 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-2 2 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-2 2 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Warning : Add Power Object for Pin Name [GND] at location [17027.55mil : 8562.975mil]
+        Warning : Add Power Object for Pin Name [GND] at location [18011.8mil : 8759.825mil]
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+        Error   : The schematic library for loading the current schematic document was not found. The component  Ñ2-33Í-1 430 ÎÌ +-5% will not be loaded.
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+        Warning : P-CAD Port [+2.5V] will be replaced by a net label at location [9744.075mil : 6791.325mil]
+        Warning : P-CAD Port [+2.5V] will be replaced by a net label at location [6496.05mil : 11122.025mil]
+        Warning : P-CAD Port [A0_RG] will be replaced by a net label at location [13090.55mil : 8562.975mil]
+        Warning : P-CAD Port [A1_RG] will be replaced by a net label at location [12992.125mil : 8366.125mil]
+        Warning : P-CAD Port [ASDO] will be replaced by a net label at location [5019.675mil : 7874mil]
+        Warning : P-CAD Port [ASDO] will be replaced by a net label at location [4527.55mil : 2854.325mil]
+        Warning : P-CAD Port [CLK_ADC] will be replaced by a net label at location [15551.175mil : 8169.275mil]
+        Warning : P-CAD Port [CLK_RG] will be replaced by a net label at location [12992.125mil : 8169.275mil]
+        Warning : P-CAD Port [CONF_DO] will be replaced by a net label at location [5216.525mil : 2362.2mil]
+        Warning : P-CAD Port [CONF_DO] will be replaced by a net label at location [5019.675mil : 6496.05mil]
+        Warning : P-CAD Port [DAT_ADC1] will be replaced by a net label at location [12992.125mil : 7362.19mil]
+        Warning : P-CAD Port [DAT_ADC2] will be replaced by a net label at location [12992.125mil : 7185.025mil]
+        Warning : P-CAD Port [DAT_ADC3] will be replaced by a net label at location [12992.125mil : 6968.49mil]
+        Warning : P-CAD Port [DAT_ADC4] will be replaced by a net label at location [12992.125mil : 6771.64mil]
+        Warning : P-CAD Port [DAT_RG] will be replaced by a net label at location [12992.125mil : 7775.575mil]
+        Warning : P-CAD Port [DATAO] will be replaced by a net label at location [5019.675mil : 7283.45mil]
+        Warning : P-CAD Port [DATAO] will be replaced by a net label at location [2066.925mil : 3248.025mil]
+        Warning : P-CAD Port [DCLK] will be replaced by a net label at location [5019.675mil : 7480.3mil]
+        Warning : P-CAD Port [DCLK] will be replaced by a net label at location [4527.55mil : 3051.175mil]
+        Warning : P-CAD Port [EIMP] will be replaced by a net label at location [15551.175mil : 7185.025mil]
+        Warning : P-CAD Port [ENB_PC] will be replaced by a net label at location [12992.125mil : 7578.725mil]
+        Warning : P-CAD Port [ENS] will be replaced by a net label at location [15649.6mil : 5610.225mil]
+        Warning : P-CAD Port [F_CLK] will be replaced by a net label at location [5019.675mil : 4330.7mil]
+        Warning : P-CAD Port [F_CLK] will be replaced by a net label at location [4133.85mil : 1870.075mil]
+        Warning : P-CAD Port [F_CON1] will be replaced by a net label at location [13090.55mil : 6594.475mil]
+        Warning : P-CAD Port [F_CON2] will be replaced by a net label at location [13090.55mil : 6397.625mil]
+        Warning : P-CAD Port [F_CON3] will be replaced by a net label at location [13090.55mil : 3346.45mil]
+        Warning : P-CAD Port [FULL] will be replaced by a net label at location [15649.6mil : 6003.925mil]
+        Warning : Port [GND] at location [5708.65mil : 9645.65mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [5708.65mil : 8661.4mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [5019.675mil : 5708.65mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [5019.675mil : 6102.35mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [5019.675mil : 4133.85mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [IMPB+/-V] will be replaced by a net label at location [15551.175mil : 7381.875mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [15649.6mil : 5216.525mil]
+        Warning : P-CAD Port [LINE] will be replaced by a net label at location [12992.125mil : 5984.24mil]
+        Warning : P-CAD Port [N_CONF] will be replaced by a net label at location [5118.1mil : 6299.2mil]
+        Warning : P-CAD Port [N_CONF] will be replaced by a net label at location [5314.95mil : 2755.9mil]
+        Warning : P-CAD Port [NCS] will be replaced by a net label at location [5019.675mil : 7677.15mil]
+        Warning : P-CAD Port [NCS] will be replaced by a net label at location [1968.5mil : 3444.875mil]
+        Warning : P-CAD Port [NSTAT] will be replaced by a net label at location [5118.1mil : 6692.9mil]
+        Warning : P-CAD Port [NSTAT] will be replaced by a net label at location [5314.95mil : 3543.3mil]
+        Warning : P-CAD Port [OVLBR] will be replaced by a net label at location [12893.7mil : 4429.125mil]
+        Warning : P-CAD Port [OVLI,2R] will be replaced by a net label at location [12893.7mil : 4822.825mil]
+        Warning : P-CAD Port [OVLI1,R] will be replaced by a net label at location [12893.7mil : 4625.975mil]
+        Warning : P-CAD Port [OVLPR] will be replaced by a net label at location [12893.7mil : 4232.275mil]
+        Warning : P-CAD Port [OVLWR] will be replaced by a net label at location [12893.7mil : 4035.425mil]
+        Warning : P-CAD Port [PULSB] will be replaced by a net label at location [15649.6mil : 7972.425mil]
+        Warning : P-CAD Port [PULSC] will be replaced by a net label at location [15649.6mil : 7775.575mil]
+        Warning : P-CAD Port [RUN_ADC] will be replaced by a net label at location [15551.175mil : 8366.125mil]
+        Warning : P-CAD Port [SPI_CLK] will be replaced by a net label at location [13031.495mil : 6141.72mil]
+        Warning : P-CAD Port [SPI_MISO] will be replaced by a net label at location [15649.6mil : 6791.325mil]
+        Warning : P-CAD Port [SPICS] will be replaced by a net label at location [13090.55mil : 5019.675mil]
+        Warning : P-CAD Port [STOP_TB] will be replaced by a net label at location [13090.55mil : 3149.6mil]
+        Warning : P-CAD Port [TCK1] will be replaced by a net label at location [5708.65mil : 9842.5mil]
+        Warning : P-CAD Port [TCK1] will be replaced by a net label at location [5216.525mil : 5118.1mil]
+        Warning : P-CAD Port [TCK1] will be replaced by a net label at location [5019.675mil : 3149.6mil]
+        Warning : P-CAD Port [TDI] will be replaced by a net label at location [5708.65mil : 8858.25mil]
+        Warning : P-CAD Port [TDI] will be replaced by a net label at location [6003.925mil : 4822.825mil]
+        Warning : P-CAD Port [TDI] will be replaced by a net label at location [5019.675mil : 5314.95mil]
+        Warning : P-CAD Port [TDO1] will be replaced by a net label at location [5708.65mil : 9448.8mil]
+        Warning : P-CAD Port [TDO1] will be replaced by a net label at location [5118.1mil : 4921.25mil]
+        Warning : P-CAD Port [TDO1] will be replaced by a net label at location [5905.5mil : 4429.125mil]
+        Warning : P-CAD Port [TMS1] will be replaced by a net label at location [5708.65mil : 9055.1mil]
+        Warning : P-CAD Port [TMS1] will be replaced by a net label at location [5118.1mil : 4724.4mil]
+        Warning : P-CAD Port [TMS1] will be replaced by a net label at location [5905.5mil : 4035.425mil]
+        Warning : P-CAD Port [VCC_PL1] will be replaced by a net label at location [7972.425mil : 9153.525mil]
+        Warning : P-CAD Port [VCC_PL1] will be replaced by a net label at location [1968.5mil : 8661.4mil]
+        Warning : P-CAD Port [VCC_PL2] will be replaced by a net label at location [7972.425mil : 8169.275mil]
+        Warning : P-CAD Port [VCC_PL2] will be replaced by a net label at location [1968.5mil : 8464.55mil]
+        Warning : P-CAD Port [VCCA1] will be replaced by a net label at location [8070.85mil : 11122.025mil]
+        Warning : P-CAD Port [VCCA1] will be replaced by a net label at location [1968.5mil : 4921.25mil]
+        Warning : P-CAD Port [VCCA2] will be replaced by a net label at location [7972.425mil : 10137.775mil]
+        Warning : P-CAD Port [VCCA2] will be replaced by a net label at location [2066.925mil : 4724.4mil]
+        Warning : Port [VCCIO] at location [5807.075mil : 9251.95mil] will be replaced by a power port with the same name
+        Warning : Port [VCCIO] at location [5216.525mil : 2066.925mil] will be replaced by a power port with the same name
+        Warning : Port [VCCIO] at location [5019.675mil : 5905.5mil] will be replaced by a power port with the same name
+        Warning : Port [VCCIO] at location [4527.55mil : 3444.875mil] will be replaced by a power port with the same name
+        Warning : Port [VCCIO] at location [1870.075mil : 7283.45mil] will be replaced by a power port with the same name
+        Warning : Port [VCCIO] at location [2066.925mil : 3051.175mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [VCINT] will be replaced by a net label at location [12007.85mil : 4429.125mil]
+        Warning : P-CAD Port [VCINT] will be replaced by a net label at location [6397.625mil : 9153.525mil]
+        Warning : P-CAD Port [VCINT] will be replaced by a net label at location [1870.075mil : 10433.05mil]
+        Warning : P-CAD Port [WR_RG] will be replaced by a net label at location [12992.125mil : 7972.425mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet2.SCHDOC
+        Warning : P-CAD Port [AVCST] will be replaced by a net label at location [6299.2mil : 7578.725mil]
+        Warning : P-CAD Port [AVCST] will be replaced by a net label at location [5216.525mil : 4527.55mil]
+        Warning : P-CAD Port [CLK1_DAC] will be replaced by a net label at location [14173.225mil : 11614.15mil]
+        Warning : P-CAD Port [CLK1_DAC-] will be replaced by a net label at location [16968.495mil : 12244.07mil]
+        Warning : P-CAD Port [CLK1_DAC+] will be replaced by a net label at location [15984.245mil : 12519.66mil]
+        Warning : P-CAD Port [CLK2_DAC] will be replaced by a net label at location [14074.8mil : 9251.95mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [17362.195mil : 9330.69mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [17086.605mil : 9842.5mil]
+        Warning : P-CAD Port [D1-] will be replaced by a net label at location [10137.775mil : 10433.05mil]
+        Warning : P-CAD Port [D1+] will be replaced by a net label at location [10078.72mil : 10236.2mil]
+        Warning : P-CAD Port [DAT1_DAC] will be replaced by a net label at location [6200.775mil : 5905.5mil]
+        Warning : P-CAD Port [DAT1_DAC-] will be replaced by a net label at location [8779.51mil : 5984.24mil]
+        Warning : P-CAD Port [DAT1_DAC+] will be replaced by a net label at location [7795.26mil : 5984.24mil]
+        Warning : P-CAD Port [DAT2_DAC] will be replaced by a net label at location [9842.5mil : 5905.5mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [12421.235mil : 5984.24mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [11436.985mil : 5984.24mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5118.1mil : 6299.2mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [6003.925mil : 10137.775mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5216.525mil : 7185.025mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5216.525mil : 8070.85mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5216.525mil : 4035.425mil]
+        Warning : P-CAD Port [DVCST] will be replaced by a net label at location [5019.675mil : 10728.325mil]
+        Warning : Port [GND] at location [5019.675mil : 10531.475mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [NRST] will be replaced by a net label at location [6003.925mil : 11318.875mil]
+        Warning : P-CAD Port [NRST] will be replaced by a net label at location [5216.525mil : 5216.525mil]
+        Warning : P-CAD Port [NRST] will be replaced by a net label at location [5019.675mil : 9744.075mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [16259.835mil : 5984.24mil]
+        Warning : P-CAD Port [RUN_ADC] will be replaced by a net label at location [13681.1mil : 5905.5mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [15275.585mil : 5984.24mil]
+        Warning : P-CAD Port [RX] will be replaced by a net label at location [10196.83mil : 11023.6mil]
+        Warning : P-CAD Port [SWCLK] will be replaced by a net label at location [6003.925mil : 10728.325mil]
+        Warning : P-CAD Port [SWCLK] will be replaced by a net label at location [5216.525mil : 9153.525mil]
+        Warning : P-CAD Port [SWCLK] will be replaced by a net label at location [5019.675mil : 10137.775mil]
+        Warning : P-CAD Port [SWDIO] will be replaced by a net label at location [6003.925mil : 10925.175mil]
+        Warning : P-CAD Port [SWDIO] will be replaced by a net label at location [5216.525mil : 8366.125mil]
+        Warning : P-CAD Port [SWDIO] will be replaced by a net label at location [5019.675mil : 10334.625mil]
+        Warning : P-CAD Port [TRACEWO] will be replaced by a net label at location [6003.925mil : 10531.475mil]
+        Warning : P-CAD Port [TRACEWO] will be replaced by a net label at location [5118.1mil : 8759.825mil]
+        Warning : P-CAD Port [TRACEWO] will be replaced by a net label at location [5019.675mil : 9940.925mil]
+        Warning : P-CAD Port [TX] will be replaced by a net label at location [10196.83mil : 10826.75mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet3.SCHDOC
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [18602.35mil : 10236.2mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19980.3mil : 7185.025mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [16240.15mil : 7185.025mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [12499.975mil : 7185.025mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [9251.95mil : 7185.025mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19389.75mil : 2952.75mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19094.475mil : 5196.84mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [14960.625mil : 10433.05mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [11909.425mil : 4035.425mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [11122.025mil : 10433.05mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [7775.575mil : 10531.475mil]
+        Warning : P-CAD Port [CLK_ADC] will be replaced by a net label at location [12696.85mil : 4035.425mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [15551.175mil : 4035.425mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [14370.075mil : 4035.425mil]
+        Warning : P-CAD Port [CLK_DDAC] will be replaced by a net label at location [8228.33mil : 6889.75mil]
+        Warning : P-CAD Port [CLK_DDAC-] will be replaced by a net label at location [11220.45mil : 6889.75mil]
+        Warning : P-CAD Port [CLK_DDAC+] will be replaced by a net label at location [10157.46mil : 6929.12mil]
+        Warning : P-CAD Port [DAT_DDAC-] will be replaced by a net label at location [14881.885mil : 6929.12mil]
+        Warning : P-CAD Port [DAT_DDAC+] will be replaced by a net label at location [13779.525mil : 6929.12mil]
+        Warning : P-CAD Port [DT_DDAC] will be replaced by a net label at location [12716.535mil : 6889.75mil]
+        Warning : P-CAD Port [IMPB-] will be replaced by a net label at location [19685.025mil : 6889.75mil]
+        Warning : P-CAD Port [IMPB+] will be replaced by a net label at location [18503.925mil : 6889.75mil]
+        Warning : P-CAD Port [IMPC-] will be replaced by a net label at location [10826.75mil : 3937mil]
+        Warning : P-CAD Port [IMPC+] will be replaced by a net label at location [9566.91mil : 3976.37mil]
+        Warning : P-CAD Port [LINE] will be replaced by a net label at location [21653.525mil : 4133.85mil]
+        Warning : P-CAD Port [PULSB] will be replaced by a net label at location [16535.425mil : 6988.175mil]
+        Warning : P-CAD Port [PULSC] will be replaced by a net label at location [7755.89mil : 3976.37mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet4.SCHDOC
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [17519.675mil : 13188.975mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [17519.675mil : 13779.525mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [15059.05mil : 11023.6mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 12795.275mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 12204.7mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 11614.15mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 11023.6mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [12401.55mil : 9055.1mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 12696.85mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 12106.275mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 11515.725mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 10925.175mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [9645.65mil : 8956.675mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [16830.7mil : 8366.125mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 10629.9mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 10433.05mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 8267.7mil]
+        Warning : P-CAD Port [+3.3VC] will be replaced by a net label at location [17519.675mil : 7874mil]
+        Warning : Port [+5V] at location [16240.15mil : 8366.125mil] will be replaced by a power port with the same name
+        Warning : Port [+5V] at location [15118.105mil : 12204.7mil] will be replaced by a power port with the same name
+        Warning : Port [+5V] at location [15078.735mil : 11614.15mil] will be replaced by a power port with the same name
+        Warning : Port [+5V] at location [15059.05mil : 11220.45mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [3/50V] will be replaced by a net label at location [9685.02mil : 9173.21mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [15157.475mil : 12598.4mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [12499.975mil : 12007.85mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [17519.675mil : 9448.8mil]
+        Warning : P-CAD Port [CLK_ADC-] will be replaced by a net label at location [9645.65mil : 11909.425mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [9645.65mil : 11712.575mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [17519.675mil : 9251.95mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [15157.475mil : 12401.55mil]
+        Warning : P-CAD Port [CLK_ADC+] will be replaced by a net label at location [12499.975mil : 11811mil]
+        Warning : P-CAD Port [CLK_DAC1-] will be replaced by a net label at location [9744.075mil : 13877.95mil]
+        Warning : P-CAD Port [CLK_DAC1+] will be replaced by a net label at location [9744.075mil : 13681.1mil]
+        Warning : P-CAD Port [CLK_DDAC] will be replaced by a net label at location [8070.85mil : 12795.275mil]
+        Warning : P-CAD Port [CLK_DDAC-] will be replaced by a net label at location [17618.1mil : 14173.225mil]
+        Warning : P-CAD Port [CLK_DDAC+] will be replaced by a net label at location [17618.1mil : 13976.375mil]
+        Warning : P-CAD Port [CLK1_DAC-] will be replaced by a net label at location [12499.975mil : 13976.375mil]
+        Warning : P-CAD Port [CLK1_DAC+] will be replaced by a net label at location [12499.975mil : 13779.525mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [17618.1mil : 12992.125mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [15157.475mil : 13976.375mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [17618.1mil : 12795.275mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [15157.475mil : 13779.525mil]
+        Warning : P-CAD Port [D1-] will be replaced by a net label at location [6594.475mil : 7283.45mil]
+        Warning : P-CAD Port [D1+] will be replaced by a net label at location [6594.475mil : 7086.6mil]
+        Warning : P-CAD Port [DAT_ADC1-] will be replaced by a net label at location [9744.075mil : 11318.875mil]
+        Warning : P-CAD Port [DAT_ADC1+] will be replaced by a net label at location [9744.075mil : 11122.025mil]
+        Warning : P-CAD Port [DAT_ADC2-] will be replaced by a net label at location [12499.975mil : 11417.3mil]
+        Warning : P-CAD Port [DAT_ADC2+] will be replaced by a net label at location [12499.975mil : 11220.45mil]
+        Warning : P-CAD Port [DAT_ADC3-] will be replaced by a net label at location [15157.475mil : 12007.85mil]
+        Warning : P-CAD Port [DAT_ADC3+] will be replaced by a net label at location [15157.475mil : 11811mil]
+        Warning : P-CAD Port [DAT_ADC4-] will be replaced by a net label at location [17618.1mil : 10039.35mil]
+        Warning : P-CAD Port [DAT_ADC4+] will be replaced by a net label at location [17618.1mil : 9842.5mil]
+        Warning : P-CAD Port [DAT_DDAC-] will be replaced by a net label at location [17618.1mil : 14763.775mil]
+        Warning : P-CAD Port [DAT_DDAC+] will be replaced by a net label at location [17618.1mil : 14566.925mil]
+        Warning : P-CAD Port [DAT1_DAC-] will be replaced by a net label at location [12499.975mil : 14566.925mil]
+        Warning : P-CAD Port [DAT1_DAC-] will be replaced by a net label at location [9744.075mil : 14468.5mil]
+        Warning : P-CAD Port [DAT1_DAC+] will be replaced by a net label at location [12499.975mil : 14370.075mil]
+        Warning : P-CAD Port [DAT1_DAC+] will be replaced by a net label at location [9744.075mil : 14271.65mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [17618.1mil : 13582.675mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [15157.475mil : 14566.925mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [17618.1mil : 13385.825mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [15157.475mil : 14370.075mil]
+        Warning : P-CAD Port [DT_DDAC] will be replaced by a net label at location [8031.48mil : 12992.125mil]
+        Warning : P-CAD Port [EN_DDA1] will be replaced by a net label at location [6594.475mil : 11417.3mil]
+        Warning : P-CAD Port [EN_DDA1] will be replaced by a net label at location [17519.675mil : 11614.15mil]
+        Warning : P-CAD Port [EN_DDA2] will be replaced by a net label at location [6594.475mil : 11023.6mil]
+        Warning : P-CAD Port [ENB_PC] will be replaced by a net label at location [6535.42mil : 11811mil]
+        Warning : P-CAD Port [END1B] will be replaced by a net label at location [9645.65mil : 13287.4mil]
+        Warning : P-CAD Port [END1P] will be replaced by a net label at location [12303.125mil : 13385.825mil]
+        Warning : P-CAD Port [END2B] will be replaced by a net label at location [9645.65mil : 13090.55mil]
+        Warning : P-CAD Port [END2P] will be replaced by a net label at location [12303.125mil : 13188.975mil]
+        Warning : P-CAD Port [ENDU] will be replaced by a net label at location [17519.675mil : 8464.55mil]
+        Warning : P-CAD Port [ENRGB] will be replaced by a net label at location [9645.65mil : 12893.7mil]
+        Warning : P-CAD Port [ENRGF] will be replaced by a net label at location [17519.675mil : 11417.3mil]
+        Warning : P-CAD Port [ENRGI] will be replaced by a net label at location [15059.05mil : 13385.825mil]
+        Warning : P-CAD Port [ENRGP] will be replaced by a net label at location [12303.125mil : 12992.125mil]
+        Warning : P-CAD Port [ENS] will be replaced by a net label at location [17519.675mil : 11811mil]
+        Warning : P-CAD Port [F_CON1] will be replaced by a net label at location [7972.425mil : 12007.85mil]
+        Warning : P-CAD Port [FULL] will be replaced by a net label at location [7972.425mil : 11023.6mil]
+        Warning : Port [GND] at location [12303.125mil : 14173.225mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [12303.125mil : 13582.675mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [12303.125mil : 10826.75mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [12303.125mil : 10433.05mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [12303.125mil : 9842.5mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [6594.475mil : 10629.9mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [17519.675mil : 12598.4mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [17519.675mil : 12007.85mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [9645.65mil : 13484.25mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [7874mil : 13188.975mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [7952.74mil : 12598.4mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [6397.625mil : 12007.85mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [17519.675mil : 14370.075mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [17519.675mil : 10236.2mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [17519.675mil : 9645.65mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [17421.25mil : 9055.1mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [15059.05mil : 14763.775mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [15059.05mil : 14173.225mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [15059.05mil : 13582.675mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [15059.05mil : 12795.275mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [12401.55mil : 14763.775mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [9645.65mil : 14665.35mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [9645.65mil : 14074.8mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [9645.65mil : 10728.325mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [9645.65mil : 10334.625mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [9645.65mil : 9744.075mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [7874mil : 13976.375mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [7972.425mil : 11614.15mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [7972.425mil : 11220.45mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [6397.625mil : 13582.675mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [IMPB-] will be replaced by a net label at location [9645.65mil : 10137.775mil]
+        Warning : P-CAD Port [IMPB+] will be replaced by a net label at location [9645.65mil : 9940.925mil]
+        Warning : P-CAD Port [IMPB+/-V] will be replaced by a net label at location [9645.65mil : 10531.475mil]
+        Warning : P-CAD Port [KA] will be replaced by a net label at location [6397.625mil : 13385.825mil]
+        Warning : P-CAD Port [KB] will be replaced by a net label at location [6397.625mil : 13188.975mil]
+        Warning : P-CAD Port [KN_START] will be replaced by a net label at location [6692.9mil : 12992.125mil]
+        Warning : P-CAD Port [KN_STOP] will be replaced by a net label at location [6594.475mil : 11220.45mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [17519.675mil : 11023.6mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [12401.55mil : 9448.8mil]
+        Warning : P-CAD Port [LIMIT] will be replaced by a net label at location [9744.075mil : 9350.375mil]
+        Warning : P-CAD Port [LINE-] will be replaced by a net label at location [17618.1mil : 12401.55mil]
+        Warning : P-CAD Port [LINE+] will be replaced by a net label at location [17618.1mil : 12204.7mil]
+        Warning : P-CAD Port [OVLB] will be replaced by a net label at location [9645.65mil : 9547.225mil]
+        Warning : P-CAD Port [OVLI,1] will be replaced by a net label at location [15059.05mil : 11417.3mil]
+        Warning : P-CAD Port [OVLP] will be replaced by a net label at location [12303.125mil : 9645.65mil]
+        Warning : P-CAD Port [OVLW] will be replaced by a net label at location [17519.675mil : 11220.45mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [15059.05mil : 13188.975mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [12401.55mil : 12598.4mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [17519.675mil : 8858.25mil]
+        Warning : P-CAD Port [RUN-] will be replaced by a net label at location [9645.65mil : 12499.975mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [9645.65mil : 12303.125mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [17519.675mil : 8661.4mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [15059.05mil : 12992.125mil]
+        Warning : P-CAD Port [RUN+] will be replaced by a net label at location [12401.55mil : 12401.55mil]
+        Warning : P-CAD Port [RX] will be replaced by a net label at location [7874mil : 13582.675mil]
+        Warning : P-CAD Port [SPI_CLK] will be replaced by a net label at location [6594.475mil : 12204.7mil]
+        Warning : P-CAD Port [SPI_MISO] will be replaced by a net label at location [6653.53mil : 12401.55mil]
+        Warning : P-CAD Port [SPICS] will be replaced by a net label at location [7972.425mil : 12204.7mil]
+        Warning : P-CAD Port [STOP_TB] will be replaced by a net label at location [8070.85mil : 12401.55mil]
+        Warning : P-CAD Port [TX] will be replaced by a net label at location [7874mil : 13779.525mil]
+        Warning : P-CAD Port [VBAS] will be replaced by a net label at location [6692.9mil : 8070.85mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet5.SCHDOC
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [21850.375mil : 16732.275mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [21850.375mil : 16338.575mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [21850.375mil : 16141.725mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [19251.955mil : 16732.275mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [19291.325mil : 16338.575mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [19291.325mil : 16141.725mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16929.125mil : 16338.575mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16929.125mil : 15748.025mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16929.125mil : 14566.925mil]
+        Warning : P-CAD Port [+3,3VC] will be replaced by a net label at location [16889.755mil : 14370.075mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [19192.9mil : 13681.1mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [21948.8mil : 12303.125mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [23031.475mil : 12244.07mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [20374mil : 10925.175mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [18405.5mil : 11909.425mil]
+        Warning : P-CAD Port [+3.3VB] will be replaced by a net label at location [18405.5mil : 11515.725mil]
+        Warning : Port [+5V] at location [18405.5mil : 11122.025mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [CLK_DDAC-] will be replaced by a net label at location [16929.125mil : 17125.975mil]
+        Warning : P-CAD Port [CLK_DDAC+] will be replaced by a net label at location [16929.125mil : 16929.125mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [22047.225mil : 17716.525mil]
+        Warning : P-CAD Port [CLK2_DAC-] will be replaced by a net label at location [19389.75mil : 17716.525mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [22047.225mil : 17519.675mil]
+        Warning : P-CAD Port [CLK2_DAC+] will be replaced by a net label at location [19389.75mil : 17519.675mil]
+        Warning : P-CAD Port [DAT_DDAC-] will be replaced by a net label at location [16929.125mil : 17716.525mil]
+        Warning : P-CAD Port [DAT_DDAC+] will be replaced by a net label at location [16929.125mil : 17519.675mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [22047.225mil : 17125.975mil]
+        Warning : P-CAD Port [DAT2_DAC-] will be replaced by a net label at location [19389.75mil : 17125.975mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [22047.225mil : 16929.125mil]
+        Warning : P-CAD Port [DAT2_DAC+] will be replaced by a net label at location [19389.75mil : 16929.125mil]
+        Warning : P-CAD Port [EA] will be replaced by a net label at location [21850.375mil : 13090.55mil]
+        Warning : P-CAD Port [EA] will be replaced by a net label at location [16830.7mil : 12696.85mil]
+        Warning : P-CAD Port [EA] will be replaced by a net label at location [16830.7mil : 11909.425mil]
+        Warning : P-CAD Port [EB] will be replaced by a net label at location [21850.375mil : 12893.7mil]
+        Warning : P-CAD Port [EB] will be replaced by a net label at location [16830.7mil : 12303.125mil]
+        Warning : P-CAD Port [EB] will be replaced by a net label at location [16830.7mil : 11515.725mil]
+        Warning : P-CAD Port [EN_DDA2] will be replaced by a net label at location [16830.7mil : 16535.425mil]
+        Warning : P-CAD Port [ENRGK] will be replaced by a net label at location [19291.325mil : 16535.425mil]
+        Warning : P-CAD Port [ENRGV] will be replaced by a net label at location [21850.375mil : 16535.425mil]
+        Warning : Port [GND] at location [21850.375mil : 17913.375mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [21850.375mil : 17322.825mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [19311.01mil : 17913.375mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [19291.325mil : 17322.825mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [16929.125mil : 17913.375mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [16929.125mil : 17322.825mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [16889.755mil : 16732.275mil] will be replaced by a power port with the same name
+        Warning : Port [GND] at location [16929.125mil : 14173.225mil] will be replaced by a power port with the same name
+        Warning : P-CAD Port [IMPC-] will be replaced by a net label at location [16929.125mil : 16141.725mil]
+        Warning : P-CAD Port [IMPC+] will be replaced by a net label at location [16929.125mil : 15944.875mil]
+        Warning : P-CAD Port [KA] will be replaced by a net label at location [18307.075mil : 12696.85mil]
+        Warning : P-CAD Port [KB] will be replaced by a net label at location [18307.075mil : 12303.125mil]
+        Warning : P-CAD Port [KN_START] will be replaced by a net label at location [18307.075mil : 13484.25mil]
+        Warning : P-CAD Port [KN_STOP] will be replaced by a net label at location [18307.075mil : 13090.55mil]
+        Warning : P-CAD Port [OVLB] will be replaced by a net label at location [19192.9mil : 9842.5mil]
+        Warning : P-CAD Port [OVLBR] will be replaced by a net label at location [20374mil : 9842.5mil]
+        Warning : P-CAD Port [OVLI,1] will be replaced by a net label at location [19192.9mil : 9055.1mil]
+        Warning : P-CAD Port [OVLI,1R] will be replaced by a net label at location [20374mil : 9055.1mil]
+        Warning : P-CAD Port [OVLI,2] will be replaced by a net label at location [19192.9mil : 8267.7mil]
+        Warning : P-CAD Port [OVLI,2] will be replaced by a net label at location [16830.7mil : 15354.325mil]
+        Warning : P-CAD Port [OVLI,2R] will be replaced by a net label at location [20374mil : 8267.7mil]
+        Warning : P-CAD Port [OVLP] will be replaced by a net label at location [19192.9mil : 9448.8mil]
+        Warning : P-CAD Port [OVLPR] will be replaced by a net label at location [20374mil : 9448.8mil]
+        Warning : P-CAD Port [OVLW] will be replaced by a net label at location [19192.9mil : 8661.4mil]
+        Warning : P-CAD Port [OVLWR] will be replaced by a net label at location [20374mil : 8661.4mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [19192.9mil : 14370.075mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [16830.7mil : 13484.25mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [21850.375mil : 14960.625mil]
+        Warning : P-CAD Port [STOP] will be replaced by a net label at location [19192.9mil : 13976.375mil]
+        Warning : P-CAD Port [STOP] will be replaced by a net label at location [21850.375mil : 14566.925mil]
+        Warning : P-CAD Port [STOP] will be replaced by a net label at location [16830.7mil : 13090.55mil]
+    EndSection
+EndSection
