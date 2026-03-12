@@ -1,0 +1,89 @@
+//ymaps.ready(init);
+
+var myMap;
+
+ymaps.ready(function () {
+    // Параметры карты можно задать в конструкторе.
+	let md = document.getElementById('map');
+	//if (!(md && ymaps && ymaps.Map)) return setTimeout(MAPinit, 100);
+	md.style.height = '100%';
+	md.style.minHeight = '450px';
+    myMap = new ymaps.Map(
+        // ID DOM-элемента, в который будет добавлена карта.
+        'map',
+        // Параметры карты.
+        {
+            // Географические координаты центра отображаемой карты.
+            center: [51.709488, 36.158906],
+            zoom: 14//,
+            // Тип покрытия карты: "Спутник".
+           // type: 'yandex#satellite'
+        }, {
+            // Поиск по организациям.
+            searchControlProvider: 'yandex#search'
+        }
+    );
+	
+/*let myGeoObject = new ymaps.GeoObject({
+            // Описание геометрии.
+            geometry: {
+                type: "Point",
+                coordinates: [51.709488, 36.158906]
+            },
+            // Свойства.
+            properties: {
+                // Контент метки.
+                iconContent: 'OOO "ПАРАМЕРУС"'
+            }
+        }, {
+            // Опции.
+            // Иконка метки будет растягиваться под размер ее содержимого.
+            preset: 'islands#blackStretchyIcon',
+            // Метку можно перемещать.
+            draggable: false
+        });
+		*/
+let myGeoObject2 = new ymaps.GeoObject({
+            // Описание геометрии.
+            geometry: {
+                type: "Point",
+                coordinates: [51.70864, 36.16055] /*[51.70864, 36.15989]*/
+            },
+            // Свойства.
+            properties: {
+                // Контент метки.
+                iconContent: 'OOO "ПАРАМЕРУС"'
+            }
+        }, {
+            // Опции.
+            // Иконка метки будет растягиваться под размер ее содержимого.
+            preset: 'islands#blackStretchyIcon',
+            // Метку можно перемещать.
+            draggable: false
+        });
+ //myMap.geoObjects.add(myGeoObject);
+ myMap.geoObjects.add(myGeoObject2);
+});
+//setTimeout(MAPinit, 100);
+console.log('adgsjhbkl');
+/**
+function setCenter () {
+    myMap.setCenter([57.767265, 40.925358]);
+}
+
+function setBounds () {
+    // Bounds - границы видимой области карты.
+    // Задаются в географических координатах самой юго-восточной и самой северо-западной точек видимой области.
+    myMap.setBounds([[37, 38], [39, 40]]);
+}
+
+function setTypeAndPan () {
+    // Меняем тип карты на "Гибрид".
+    myMap.setType('yandex#hybrid');
+    // Плавное перемещение центра карты в точку с новыми координатами.
+    myMap.panTo([62.915, 34.461], {
+            // Задержка между перемещениями.
+            delay: 1500
+        });
+}
+*/

@@ -1,0 +1,52 @@
+'use strict';
+
+var LANG_MODE = 'ru';
+
+function setup_lang(lang_mode) {
+	console.log('setup_lang( ' + lang_mode + ' )');
+	LANG_MODE = lang_mode;
+	let list = document.getElementsByClassName('lang-hook');
+
+	Array.prototype.forEach.call(list, function(el) {
+		if (el.hasAttribute('data-lang')) {
+			let ki = el.getAttribute('data-lang');
+			if (LANG[ki] && LANG[ki][lang_mode]) el.innerHTML = LANG[ki][lang_mode];
+		} else if (el.hasAttribute('data-place')) {
+			let kp = el.getAttribute('data-place');
+			if (LANG[kp] && LANG[kp][lang_mode]) el.placeholder = LANG[kp][lang_mode];
+		}
+	});
+}
+
+function updateLang() {
+	console.log('update Lang');
+	console.log('LANG_MODE :' + LANG_MODE);
+	console.log('LANG_SET :' + LANG_SET);
+	console.log('lang_v :' + lang_v);
+	console.log('sestime :' + sestime);
+	console.log('session_lang :' + session_lang);
+	//---------------------------------------------
+	if (typeof LANG_SET === 'undefined') return setTimeout(updateLang, 1000);
+	if (LANG_MODE == LANG_SET) return;
+	setup_lang(LANG_SET);
+}
+
+//langSwitcher
+function langSwitcher(lang_mode) {
+	let REQ = getXmlHttp();
+	locationParameters.lang = lang_mode;
+	let params = 'xlang='+lang_mode;
+	let pparams = 'langset='+lang_mode;
+	REQ.open("POST", MAIN_DOMEN + '/langset.php?', true);
+	REQ.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	REQ.onreadystatechange = function() {  if (REQ.readyState == 4) { if (REQ.status == 200) { 
+		LANG_SET = lang_mode;
+		console.log('server lang set to ' + lang_mode);
+	}}}; // etc
+	REQ.send(pparams);
+	
+	setup_lang(lang_mode);
+	//location.assign(location.href + '?' + params);
+}
+setTimeout(updateLang, 50);
+
