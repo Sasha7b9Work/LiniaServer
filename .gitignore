@@ -6,5 +6,7 @@
 *.step
 *.SchDoc
 *.PrjPcb
+*.sldprt
+*.sldasm
 
 archive.zip
