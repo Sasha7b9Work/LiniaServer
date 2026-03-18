@@ -2,5 +2,7 @@
 *.db
 *.dwg
 *.bak
+*.PcbDoc
+*.step
 
 archive.zip
