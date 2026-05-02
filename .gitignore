@@ -2,10 +2,7 @@
 *.db
 *.dwg
 *.bak
-*.PcbDoc
 *.step
-*.SchDoc
-*.PrjPcb
 *.sldprt
 *.sldasm
 
