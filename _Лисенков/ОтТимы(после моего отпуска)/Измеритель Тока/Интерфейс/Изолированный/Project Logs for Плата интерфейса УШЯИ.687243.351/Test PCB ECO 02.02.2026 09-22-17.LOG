@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-4
+Add Pin To Net: Unknown Pin: Pin XS1-6
+Add Pin To Net: Unknown Pin: Pin XS1-7
+Add Pin To Net: Unknown Pin: Pin XS1-8
+Add Pin To Net: Unknown Pin: Pin XS1-9
+Add Pin To Net: Unknown Pin: Pin XS1-10
+Add Pin To Net: Unknown Pin: Pin XS1-12
+Add Pin To Net: Unknown Pin: Pin XS1-14
+Add Pin To Net: Unknown Pin: Pin XS1-15
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=NetXP1_16 Pin=XP1-16
+Added Net: Name=NetXP1_16
+Add Class Member: Failed to add class member : Component XS1 IDC2-16

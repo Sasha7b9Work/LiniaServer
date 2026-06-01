@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=Comparator Member=R41
+Removed Member From Class: ClassName=Comparator Member=R42
+Removed Member From Class: ClassName=PowerSupply Member=R54
+Removed Member From Class: ClassName=PowerSupply Member=R55
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Add Class Member: Failed to add class member : Component C1  10-47ћб-500 ¬-3300 п‘+-10%
+Add Class Member: Failed to add class member : Component C2  10-47ћб-500 ¬-15 н‘ +-10%
+Add Class Member: Failed to add class member : Component C3  10-47ћб-500 ¬-270 п‘ +-10%
+Added Member To Class: ClassName=Amplifier Member=Component C4 1206-X7R-50 B-0,01 мк‘+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C5 0805-C0G-50 ¬-240 п‘ +-5%
+Added Member To Class: ClassName=PowerSupply Member=Component C17 1206-X7R-50 B-10 мк‘+-10%
+Add Class Member: Failed to add class member : Component FV1 газоразр€дник
+Add Class Member: Failed to add class member : Component FV2 газоразр€дник
+Added Member To Class: ClassName=Switches Member=Component R16 1206-51 ќм+-5%
+Added Member To Class: ClassName=Switches Member=Component R18 1206-22 ќм+-5%
+Added Member To Class: ClassName=Switches Member=Component R19 1210-1,1 кќм+-5%
+Added Member To Class: ClassName=Comparator Member=Component R43 1206-470 ќм+-5%
+Added Member To Class: ClassName=Comparator Member=Component R46 1206-470 ќм+-5%
+Added Member To Class: ClassName=Comparator Member=Component R47 1206-2,4 кќм+-5%
+Added Member To Class: ClassName=Comparator Member=Component R55 1206-4,7 кќм+-5%
+Added Member To Class: ClassName=PowerSupply Member=Component R56 1206-1,24 ћќм+-1%
+Added Member To Class: ClassName=PowerSupply Member=Component R57 1206-221 кќм+-1%
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

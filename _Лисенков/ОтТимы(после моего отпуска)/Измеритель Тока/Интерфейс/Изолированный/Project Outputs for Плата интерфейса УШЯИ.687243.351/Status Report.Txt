@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Яырђр шэђх№єхщёр гипШ.687243.351.PrjPcb]
+   Generated File[гипШ 758723.276.GTO]
+   Generated File[гипШ 758723.276.GTP]
+   Generated File[гипШ 758723.276.GTS]
+   Generated File[гипШ 758723.276.GTL]
+   Generated File[гипШ 758723.276.GBL]
+   Generated File[гипШ 758723.276.GBS]
+   Generated File[гипШ 758723.276.GBP]
+   Generated File[гипШ 758723.276.GBO]
+   Generated File[гипШ 758723.276.GG1]
+   Generated File[гипШ 758723.276.GM]
+   Generated File[гипШ 758723.276.EXTREP]
+   Generated File[гипШ 758723.276.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 12:50:02 On 05.05.2026

@@ -1,0 +1,9 @@
+Change component parameters: Designator = "R9" ("R9"); Footprint = "1206"; UniqueID = "\ZVOISOZJ" ("\ZVOISOZJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3" ("VD3"); Footprint = "VSMY2853G"; UniqueID = "\URTPZYRY" ("\URTPZYRY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "SOT-23-3"; UniqueID = "\QRCUQCZL" ("\QRCUQCZL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=OVLI Member=Component VT2 BSS138BK

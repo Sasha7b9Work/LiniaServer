@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=1 Member=VT2
+Removed Member From Class: ClassName=OVLI Member=VT2
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "SOT-23-3"; UniqueID = "\QRCUQCZL" ("\QRCUQCZL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI1"; VariantName = "[No Variations]"
+Added Class: Name=OVLI1
+Added Room: Name=OVLI1

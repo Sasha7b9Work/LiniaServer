@@ -1,0 +1,31 @@
+Added Pin To Net: NetName=NetC6_1_1 Pin=C6_1-1
+Added Pin To Net: NetName=NetC6_1_2 Pin=C6_1-2
+Added Pin To Net: NetName=GND Pin=C7_1-1
+Added Pin To Net: NetName=NetC7_1_2 Pin=C7_1-2
+Added Pin To Net: NetName=NetC6_1_2 Pin=DA6_1-1
+Added Pin To Net: NetName=NetC6_1_1 Pin=DA6_1-2
+Added Pin To Net: NetName=GND Pin=DA6_1-3
+Added Pin To Net: NetName=NetC7_1_2 Pin=DA6_1-5
+Added Pin To Net: NetName=NetDA6_1_6 Pin=DA6_1-6
+Added Pin To Net: NetName=NetDA6_1_6 Pin=DA6_1-6
+Added Pin To Net: NetName=DAT_ADIn Pin=DA6_1-7
+Added Pin To Net: NetName=+5V Pin=DA6_1-8
+Added Pin To Net: NetName=NetC6_1_1 Pin=R7_1-1
+Added Pin To Net: NetName=NetC6_1_2 Pin=R7_1-2
+Added Pin To Net: NetName=NetC6_1_2 Pin=R8_1-1
+Added Pin To Net: NetName=NetC7_1_2 Pin=R8_1-2
+Added Pin To Net: NetName=GND Pin=R9_1-1
+Added Pin To Net: NetName=NetDA6_1_6 Pin=R9_1-2
+Added Pin To Net: NetName=NetDA6_1_6 Pin=R10_1-1
+Added Pin To Net: NetName=DAT_ADIn Pin=R10_1-2
+Added Pin To Net: NetName=GND Pin=VD1_1-1
+Added Pin To Net: NetName=NetC6_1_1 Pin=VD1_1-2
+Add Net: Net with name "+5Vn" already exists
+Added Member To Class: ClassName=U_TIA1 Member=Component C6_1 (C6) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component C7_1 (C7) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component DA6_1 (DA6A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA1 Member=Component R7_1 (R7) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R8_1 (R8) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R9_1 (R9) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R10_1 (R10) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component VD1_1 (VD1) SFH203

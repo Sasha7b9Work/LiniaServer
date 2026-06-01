@@ -1,0 +1,192 @@
+*************************************************************
+FileName = ÓØßÈ 758723.276.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay, Bot Silk
+      File : ÓØßÈ 758723.276.GBO
+
+    Adding Layer      : Bottom Overlay, Bot Silk
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste, Top Paste
+      File : ÓØßÈ 758723.276.GTP
+
+    Adding Layer      : Top Paste, Top Paste
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste, Bot Paste
+      File : ÓØßÈ 758723.276.GBP
+
+    Adding Layer      : Bottom Paste, Bot Paste
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay, Top Silk
+      File : ÓØßÈ 758723.276.GTO
+
+    Adding Layer      : Top Overlay, Top Silk
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder, Top Mask
+      File : ÓØßÈ 758723.276.GTS
+
+    Adding Layer      : Top Solder, Top Mask
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer, Bottom
+      File : ÓØßÈ 758723.276.GBL
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Layer, Top
+      File : ÓØßÈ 758723.276.GTL
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder, Bot Mask
+      File : ÓØßÈ 758723.276.GBS
+
+    Adding Layer      : Bottom Solder, Bot Mask
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ÓØßÈ 758723.276.GG1
+
+    Adding Drill Pair : Top Layer, Top-Bottom Layer, Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ÓØßÈ 758723.276.GM
+
+
+Used DCodes :
+    D50
+*************************************************************
+

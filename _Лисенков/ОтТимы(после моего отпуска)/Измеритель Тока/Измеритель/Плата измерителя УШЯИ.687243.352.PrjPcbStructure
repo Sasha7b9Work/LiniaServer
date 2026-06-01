@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Amplifier.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Comparator.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=PowerSupply.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Amplifier.SchDoc|FileName=Switches.SchDoc|SheetNumber=1

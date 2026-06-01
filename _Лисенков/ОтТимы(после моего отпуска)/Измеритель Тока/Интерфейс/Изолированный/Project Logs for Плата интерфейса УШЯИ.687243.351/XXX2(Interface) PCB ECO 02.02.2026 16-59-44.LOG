@@ -1,0 +1,20 @@
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-4
+Add Pin To Net: Unknown Pin: Pin XS1-6
+Add Pin To Net: Unknown Pin: Pin XS1-7
+Add Pin To Net: Unknown Pin: Pin XS1-8
+Add Pin To Net: Unknown Pin: Pin XS1-9
+Add Pin To Net: Unknown Pin: Pin XS1-10
+Add Pin To Net: Unknown Pin: Pin XS1-12
+Add Pin To Net: Unknown Pin: Pin XS1-14
+Add Pin To Net: Unknown Pin: Pin XS1-15
+Add Pin To Net: Unknown Pin: Pin XS1-16
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=U_TX1 Member=Component R5_1 (R5) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX2 Member=Component R5_2 (R5) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX1 Member=Component VD2_1 (VD2) VSMY2853RG
+Added Member To Class: ClassName=U_TX2 Member=Component VD2_2 (VD2) VSMY2853RG
+Added Member To Class: ClassName=U_TX1 Member=Component VT1_1 (VT1) BSS138BK
+Added Member To Class: ClassName=U_TX2 Member=Component VT1_2 (VT1) BSS138BK
+Add Class Member: Failed to add class member : Component XS1 IDC2-16

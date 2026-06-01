@@ -1,0 +1,220 @@
+*************************************************************
+FileName = UHAI.758723.275.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Solder, Bot Mask
+      File : UHAI.758723.275.GBS
+
+    Adding Layer      : Bottom Solder, Bot Mask
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer, Board
+      File : UHAI.758723.275.GKO
+
+    Adding Layer      : Keep-Out Layer, Board
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay, Top Silk
+      File : UHAI.758723.275.GTO
+
+    Adding Layer      : Top Overlay, Top Silk
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer, Bottom
+      File : UHAI.758723.275.GBL
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D51
+    D52
+    D53
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste, Bot Paste
+      File : UHAI.758723.275.GBP
+
+    Adding Layer      : Bottom Paste, Bot Paste
+
+    Adding Layer      : Bottom Layer, Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder, Top Mask
+      File : UHAI.758723.275.GTS
+
+    Adding Layer      : Top Solder, Top Mask
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Layer, Top
+      File : UHAI.758723.275.GTL
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Paste, Top Paste
+      File : UHAI.758723.275.GTP
+
+    Adding Layer      : Top Paste, Top Paste
+
+    Adding Layer      : Top Layer, Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay, Bot Silk
+      File : UHAI.758723.275.GBO
+
+    Adding Layer      : Bottom Overlay, Bot Silk
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : UHAI.758723.275.GG1
+
+    Adding Drill Pair : Top Layer, Top-Bottom Layer, Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : UHAI.758723.275.GM
+
+
+Used DCodes :
+    D64
+*************************************************************
+

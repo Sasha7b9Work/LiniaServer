@@ -1,0 +1,114 @@
+Change Component DesignItemId : Designator=VD1 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD6 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD7 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD8 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD9 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD10 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD11 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD12 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD13 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD22 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD23 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD24 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=VD25 Old DesignItemId=1N4148 New DesignItemId=1N4148WS
+Change Component DesignItemId : Designator=C5 Old DesignItemId=К10-17б-М47-33 пФ +-10% New DesignItemId=1206-X7R-50 B-33 пФ+-10%
+Change Component Footprint: Designator=VD1 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD6 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD7 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD8 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD9 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD10 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD11 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD12 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD13 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD22 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD23 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD24 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=VD25 Old Footprint=DO-35 New Footprint=SOD-323F
+Change Component Footprint: Designator=C5 Old Footprint=К10-17Б-L5.6 New Footprint=CAP: 1206
+Change Component Comment : Designator=VD1 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD6 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD7 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD8 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD9 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD10 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD11 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD12 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD13 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD22 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD23 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD24 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=VD25 Old Comment=1N4148 New Comment=1N4148WS
+Change Component Comment : Designator=C5 Old Comment=К10-17б-М47-33 пФ +-10% New Comment=
+Change Component Description : Designator=C5 Old Description=К10-17б-М47-33 пФ +-10% New Description=
+Change component parameters: Designator = "C5" ("C5"); Footprint = "К10-17Б-L5.6"; UniqueID = "\YFOTFCZO" ("\YFOTFCZO")
+Change component parameters (AddParameter): Name = "Value"; Value = "33 пФ"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin VD14-1
+Add Pin To Net: Unknown Pin: Pin VD14-2
+Add Pin To Net: Unknown Pin: Pin VD15-1
+Add Pin To Net: Unknown Pin: Pin VD15-2
+Add Pin To Net: Unknown Pin: Pin VD16-1
+Add Pin To Net: Unknown Pin: Pin VD16-2
+Add Pin To Net: Unknown Pin: Pin VD17-1
+Add Pin To Net: Unknown Pin: Pin VD17-2
+Add Pin To Net: Unknown Pin: Pin VD18-1
+Add Pin To Net: Unknown Pin: Pin VD18-2
+Add Pin To Net: Unknown Pin: Pin VD19-1
+Add Pin To Net: Unknown Pin: Pin VD19-2
+Add Pin To Net: Unknown Pin: Pin VD20-1
+Add Pin To Net: Unknown Pin: Pin VD20-2
+Add Pin To Net: Unknown Pin: Pin VD21-1
+Add Pin To Net: Unknown Pin: Pin VD21-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Add Class Member: Failed to add class member : Component C1 К10-47Мб-500 В-3300 пФ+-10%
+Add Class Member: Failed to add class member : Component C2 К10-47Мб-500 В-15 нФ +-10%
+Add Class Member: Failed to add class member : Component C3 К10-47Мб-500 В-270 пФ +-10%
+Add Class Member: Failed to add class member : Component FV1 газоразрядник
+Add Class Member: Failed to add class member : Component FV2 газоразрядник
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component VD14 V1P22
+Add Class Member: Failed to add class member : Component VD15 V1P22
+Add Class Member: Failed to add class member : Component VD16 V1P22
+Add Class Member: Failed to add class member : Component VD17 V1P22
+Add Class Member: Failed to add class member : Component VD18 V1P22
+Add Class Member: Failed to add class member : Component VD19 V1P22
+Add Class Member: Failed to add class member : Component VD20 V1P22
+Add Class Member: Failed to add class member : Component VD21 V1P22
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

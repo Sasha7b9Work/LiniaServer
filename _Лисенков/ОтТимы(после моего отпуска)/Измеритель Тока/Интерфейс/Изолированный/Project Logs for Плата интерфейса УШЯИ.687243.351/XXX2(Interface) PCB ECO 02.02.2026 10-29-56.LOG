@@ -1,0 +1,46 @@
+Added Component: Designator=R5_1(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R5_2(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=VD2_1(VSMY2853G)
+Added Component: Designator=VD2_2(VSMY2853G)
+Added Component: Designator=VT1_1(SOT-23-3)
+Added Component: Designator=VT1_2(SOT-23-3)
+Added Pin To Net: NetName=NetR5_1_1 Pin=R5_1-1
+Added Pin To Net: NetName=+5Vn Pin=R5_1-2
+Added Pin To Net: NetName=NetR5_2_1 Pin=R5_2-1
+Added Pin To Net: NetName=+5Vn Pin=R5_2-2
+Added Pin To Net: NetName=NetR5_1_1 Pin=VD2_1-1
+Added Pin To Net: NetName=NetVD2_1_2 Pin=VD2_1-2
+Added Pin To Net: NetName=NetR5_2_1 Pin=VD2_2-1
+Added Pin To Net: NetName=NetVD2_2_2 Pin=VD2_2-2
+Added Pin To Net: NetName=OVLI,1 Pin=VT1_1-1
+Added Pin To Net: NetName=GND Pin=VT1_1-2
+Added Pin To Net: NetName=NetVD2_1_2 Pin=VT1_1-3
+Added Pin To Net: NetName=DAT_ADI Pin=VT1_2-1
+Added Pin To Net: NetName=GND Pin=VT1_2-2
+Added Pin To Net: NetName=NetVD2_2_2 Pin=VT1_2-3
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-4
+Add Pin To Net: Unknown Pin: Pin XS1-6
+Add Pin To Net: Unknown Pin: Pin XS1-7
+Add Pin To Net: Unknown Pin: Pin XS1-8
+Add Pin To Net: Unknown Pin: Pin XS1-9
+Add Pin To Net: Unknown Pin: Pin XS1-10
+Add Pin To Net: Unknown Pin: Pin XS1-12
+Add Pin To Net: Unknown Pin: Pin XS1-14
+Add Pin To Net: Unknown Pin: Pin XS1-15
+Add Pin To Net: Unknown Pin: Pin XS1-16
+Add Net: Net with name "GND" already exists
+Added Member To Class: ClassName=U_Transmitter1 Member=Component R5_1 (R5) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_Transmitter2 Member=Component R5_2 (R5) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_Transmitter1 Member=Component VD2_1 (VD2) VSMY2853RG
+Added Member To Class: ClassName=U_Transmitter2 Member=Component VD2_2 (VD2) VSMY2853RG
+Added Member To Class: ClassName=U_Transmitter1 Member=Component VT1_1 (VT1) BSS138BK
+Added Member To Class: ClassName=U_Transmitter2 Member=Component VT1_2 (VT1) BSS138BK
+Add Class Member: Failed to add class member : Component XS1 IDC2-16
+Added Room: Name=U_Transmitter1
+Added Room: Name=U_Transmitter2

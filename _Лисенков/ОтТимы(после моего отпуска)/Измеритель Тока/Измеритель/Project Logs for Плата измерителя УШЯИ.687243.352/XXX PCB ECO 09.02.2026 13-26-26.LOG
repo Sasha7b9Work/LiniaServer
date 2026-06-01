@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GNDV Pin=VD19-2
+Removed Pin From Net: NetName=GNDV Pin=VD21-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Added Pin To Net: NetName=NetXP4_3 Pin=VD19-2
+Added Pin To Net: NetName=NetXP4_3 Pin=VD21-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Change Net Name : Old Net Name=NetXP4_3 New Net Name=NetVD19_2
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4

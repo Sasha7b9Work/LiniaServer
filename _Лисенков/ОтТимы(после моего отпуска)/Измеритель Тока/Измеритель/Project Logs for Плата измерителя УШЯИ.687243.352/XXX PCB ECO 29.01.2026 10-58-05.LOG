@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=Switches Member=C5
+Change Component DesignItemId : Designator=R11 Old DesignItemId=1206-100 ־ל+-5% New DesignItemId=1210-100 ־ל+-5%
+Change Component Footprint: Designator=R11 Old Footprint=1206 New Footprint=1210
+Change Component Comment : Designator=R11 Old Comment=1206-100 ־ל+-5% New Comment=1210-100 ־ל+-5%
+Change component parameters: Designator = "R11" ("R11"); Footprint = "1206"; UniqueID = "\PVZGJGTG" ("\PVZGJGTG")
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100 ־ל"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Added Member To Class: ClassName=Switches Member=Component C4 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C6 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C8 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C10 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C12 1206-X7R-50 B-2,2 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C14 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C16 1206-X7R-50 B-2,2 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C18 JRB-25ֲ-1000 לךװ
+Added Member To Class: ClassName=PowerSupply Member=Component C20 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C22 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C23 0805-X7R-25 ֲ-1 לךװ +-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C25 0805-X7R-25 ֲ-1 לךװ +-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C26 1206-X7R-25 B-47לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C28 1206-X7R-25 B-47לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C30 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C32 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Switches Member=Component DA2 TLV9152IDR
+Added Member To Class: ClassName=Amplifier Member=Component DA6 ADG433BR
+Added Member To Class: ClassName=Amplifier Member=Component DA8 AD8031BRZ
+Added Member To Class: ClassName=Amplifier Member=Component DA10 ADG431BR
+Added Member To Class: ClassName=Amplifier Member=Component DA12 TLV9151IDR
+Added Member To Class: ClassName=Comparator Member=Component DA15 TLV1842
+Added Member To Class: ClassName=PowerSupply Member=Component DA17 TPS7A4701
+Added Member To Class: ClassName=Switches Member=Component R13 1206-470 ־ל+-5%
+Added Member To Class: ClassName=Switches Member=Component R14 1206-470 ־ל+-5%
+Added Member To Class: ClassName=Switches Member=Component R15 ׁ2-29ֲ-0,125-332 ך־ל+-0.1%-1,0-ְ
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4

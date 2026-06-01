@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=+5.2V Pin=XP1-1
+Added Pin To Net: NetName=+5.2V Pin=XP1-7
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-3
+Add Pin To Net: Unknown Pin: Pin XS1-4
+Add Pin To Net: Unknown Pin: Pin XS1-5
+Add Pin To Net: Unknown Pin: Pin XS1-6
+Add Pin To Net: Unknown Pin: Pin XS1-7
+Add Pin To Net: Unknown Pin: Pin XS1-8
+Add Pin To Net: Unknown Pin: Pin XS1-9
+Add Pin To Net: Unknown Pin: Pin XS1-11
+Add Pin To Net: Unknown Pin: Pin XS1-12
+Add Pin To Net: Unknown Pin: Pin XS1-13
+Add Pin To Net: Unknown Pin: Pin XS1-14
+Add Pin To Net: Unknown Pin: Pin XS1-15
+Add Pin To Net: Unknown Pin: Pin XS1-16
+Added Pin To Net: NetName=-3.3V Pin=DA1_1-4
+Added Pin To Net: NetName=-3.3V Pin=DA1_2-4
+Added Pin To Net: NetName=-3.3V Pin=DA1_3-4
+Added Pin To Net: NetName=-3.3V Pin=DA1_4-4
+Added Pin To Net: NetName=-3.3V Pin=DA1_5-4
+Added Pin To Net: NetName=-3.3V Pin=R6-2
+Added Pin To Net: NetName=-3.3V Pin=VD3-1
+Added Net: Name=-3.3V
+Add Class Member: Failed to add class member : Component XS1 IDC2-16
+Added Rule: Name=Schematic Supply Nets

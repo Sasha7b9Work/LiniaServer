@@ -1,0 +1,42 @@
+Change Component Comment : Designator=R9 Old Comment=0805-27 Ом+-5% New Comment=1206-27 Ом+-5%
+Change Component Comment : Designator=C2 Old Comment=К10-47Мб-500 В-15 нФ +-10% New Comment=1206-XP7-500 B-15 нФ+-10%
+Change Component Comment : Designator=C3 Old Comment=К10-47Мб-500 В-270 пФ +-10% New Comment=1206-NP0-500 B-270 пФ+-5%
+Change Component Comment : Designator=C1 Old Comment=К10-47Мб-500 В-3300 пФ+-10% New Comment=1206-XP7-630 B-3,3 нФ+-10%
+Change Component Comment : Designator=R7 Old Comment=С2-29В-0,125-4,99 Ом +-0.1%-1,0-А New Comment=1206-4,99 Ом+-0,1%
+Change Component Comment : Designator=R6 Old Comment=С2-29В-0,125-499 Ом +-0.1%-1,0-А New Comment=1206-499 Ом+-0,1%
+Change Component Description : Designator=R6 Old Description=Резисторы постоянные непроволочные прецизионные С2-29В, производитель "АО"НПО"ЭРКОН""АО"НПО"ЭРКОН" New Description=
+Change Component Description : Designator=R7 Old Description=Резисторы постоянные непроволочные прецизионные С2-29В, производитель "АО"НПО"ЭРКОН""АО"НПО"ЭРКОН" New Description=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP: 1206"; UniqueID = "\JATDPPYD" ("\JATDPPYD")
+Change component parameters (AddParameter): Name = "Value"; Value = "3,3 нФ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP: 1206"; UniqueID = "\QAKCPRZS" ("\QAKCPRZS")
+Change component parameters (AddParameter): Name = "Value"; Value = "15 нФ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP: 1206"; UniqueID = "\VXAYJJTY" ("\VXAYJJTY")
+Change component parameters (AddParameter): Name = "Value"; Value = "22 пФ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "1206"; UniqueID = "\OZPCKQUV" ("\OZPCKQUV")
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "499 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "1206"; UniqueID = "\GVRQDYEV" ("\GVRQDYEV")
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4,99 Ом"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "1206"; UniqueID = "\OGANZFXC" ("\OGANZFXC")
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "27 Ом"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=C
+Added Member To Class: ClassName=Switches Member=Component R2 WSL5931L5000FEA
+Added Member To Class: ClassName=Switches Member=Component R7 1206-4,99 Ом+-0,1%
+Added Member To Class: ClassName=Switches Member=Component R8 OAR5-R050FLF
+Added Member To Class: ClassName=Switches Member=Component R9 1206-27 Ом+-5%
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4

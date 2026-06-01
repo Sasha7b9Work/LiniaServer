@@ -1,0 +1,81 @@
+Remove Class Member: Failed to remove class member
+Added Component: Designator=R7_1(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R7_2(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R7_3(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R7_4(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R7_5(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=VD1_1(VSMY2853G)
+Added Component: Designator=VD1_2(VSMY2853G)
+Added Component: Designator=VD1_3(VSMY2853G)
+Added Component: Designator=VD1_4(VSMY2853G)
+Added Component: Designator=VD1_5(VSMY2853G)
+Added Component: Designator=VT1_1(SOT-23-3)
+Added Component: Designator=VT1_2(SOT-23-3)
+Added Component: Designator=VT1_3(SOT-23-3)
+Added Component: Designator=VT1_4(SOT-23-3)
+Added Component: Designator=VT1_5(SOT-23-3)
+Added Pin To Net: NetName=NetR7_1_1 Pin=R7_1-1
+Added Pin To Net: NetName=+5Vn Pin=R7_1-2
+Added Pin To Net: NetName=NetR7_2_1 Pin=R7_2-1
+Added Pin To Net: NetName=+5Vn Pin=R7_2-2
+Added Pin To Net: NetName=NetR7_3_1 Pin=R7_3-1
+Added Pin To Net: NetName=+5Vn Pin=R7_3-2
+Added Pin To Net: NetName=NetR7_4_1 Pin=R7_4-1
+Added Pin To Net: NetName=+5Vn Pin=R7_4-2
+Added Pin To Net: NetName=NetR7_5_1 Pin=R7_5-1
+Added Pin To Net: NetName=+5Vn Pin=R7_5-2
+Added Pin To Net: NetName=NetR7_1_1 Pin=VD1_1-1
+Added Pin To Net: NetName=NetVD1_1_2 Pin=VD1_1-2
+Added Pin To Net: NetName=NetR7_2_1 Pin=VD1_2-1
+Added Pin To Net: NetName=NetVD1_2_2 Pin=VD1_2-2
+Added Pin To Net: NetName=NetR7_3_1 Pin=VD1_3-1
+Added Pin To Net: NetName=NetVD1_3_2 Pin=VD1_3-2
+Added Pin To Net: NetName=NetR7_4_1 Pin=VD1_4-1
+Added Pin To Net: NetName=NetVD1_4_2 Pin=VD1_4-2
+Added Pin To Net: NetName=NetR7_5_1 Pin=VD1_5-1
+Added Pin To Net: NetName=NetVD1_5_2 Pin=VD1_5-2
+Added Pin To Net: NetName=CLK_ADIn Pin=VT1_1-1
+Added Pin To Net: NetName=GNDn Pin=VT1_1-2
+Added Pin To Net: NetName=NetVD1_1_2 Pin=VT1_1-3
+Added Pin To Net: NetName=RUN_ADIn Pin=VT1_2-1
+Added Pin To Net: NetName=GNDn Pin=VT1_2-2
+Added Pin To Net: NetName=NetVD1_2_2 Pin=VT1_2-3
+Added Pin To Net: NetName=ENB_RgIn Pin=VT1_3-1
+Added Pin To Net: NetName=GNDn Pin=VT1_3-2
+Added Pin To Net: NetName=NetVD1_3_2 Pin=VT1_3-3
+Added Pin To Net: NetName=CLK_RgIn Pin=VT1_4-1
+Added Pin To Net: NetName=GNDn Pin=VT1_4-2
+Added Pin To Net: NetName=NetVD1_4_2 Pin=VT1_4-3
+Added Pin To Net: NetName=DAT_RgIn Pin=VT1_5-1
+Added Pin To Net: NetName=GNDn Pin=VT1_5-2
+Added Pin To Net: NetName=NetVD1_5_2 Pin=VT1_5-3
+Added Member To Class: ClassName=U_TX1 Member=Component R7_1 (R7) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX2 Member=Component R7_2 (R7) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX3 Member=Component R7_3 (R7) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX4 Member=Component R7_4 (R7) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX5 Member=Component R7_5 (R7) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX1 Member=Component VD1_1 (VD1) VSMY2853RG
+Added Member To Class: ClassName=U_TX2 Member=Component VD1_2 (VD1) VSMY2853RG
+Added Member To Class: ClassName=U_TX3 Member=Component VD1_3 (VD1) VSMY2853RG
+Added Member To Class: ClassName=U_TX4 Member=Component VD1_4 (VD1) VSMY2853RG
+Added Member To Class: ClassName=U_TX5 Member=Component VD1_5 (VD1) VSMY2853RG
+Added Member To Class: ClassName=U_TX1 Member=Component VT1_1 (VT1) BSS138BK
+Added Member To Class: ClassName=U_TX2 Member=Component VT1_2 (VT1) BSS138BK
+Added Member To Class: ClassName=U_TX3 Member=Component VT1_3 (VT1) BSS138BK
+Added Member To Class: ClassName=U_TX4 Member=Component VT1_4 (VT1) BSS138BK
+Added Member To Class: ClassName=U_TX5 Member=Component VT1_5 (VT1) BSS138BK
+Added Room: Name=U_TX1
+Added Room: Name=U_TX2
+Added Room: Name=U_TX3
+Added Room: Name=U_TX4
+Added Room: Name=U_TX5

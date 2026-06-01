@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=NetDA12_1 Pin=DA12-1
+Removed Pin From Net: NetName=NetDA12_2 Pin=DA12-2
+Removed Pin From Net: NetName=U0 Pin=DA12-3
+Removed Pin From Net: NetName=NetDA13_1 Pin=DA13-1
+Removed Pin From Net: NetName=NetDA13_1 Pin=DA13-2
+Removed Pin From Net: NetName=GND Pin=DA13-3
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Change Component Designator: OldDesignator=DA12 NewDesignator=DA13
+Change Component Designator: OldDesignator=DA13 NewDesignator=DA12
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change Component Designator: OldDesignator=R42 NewDesignator=R41
+Change Component Designator: OldDesignator=R43 NewDesignator=R42
+Change Component Designator: OldDesignator=R44 NewDesignator=R43
+Change Component Designator: OldDesignator=R45 NewDesignator=R44
+Change Component Designator: OldDesignator=R46 NewDesignator=R45
+Change Component Designator: OldDesignator=R47 NewDesignator=R46
+Change Component Designator: OldDesignator=R48 NewDesignator=R47
+Change Component Designator: OldDesignator=R49 NewDesignator=R48
+Change Component Designator: OldDesignator=R50 NewDesignator=R49
+Change Component Designator: OldDesignator=R51 NewDesignator=R50
+Change Component Designator: OldDesignator=R52 NewDesignator=R51
+Change Component Designator: OldDesignator=R53 NewDesignator=R52
+Change Component Designator: OldDesignator=R54 NewDesignator=R53
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=R57 NewDesignator=R56
+Change Component Designator: OldDesignator=R58 NewDesignator=R57
+Change Component Designator: OldDesignator=R59 NewDesignator=R58
+Change Component Designator: OldDesignator=R60 NewDesignator=R59
+Change Component Designator: OldDesignator=R61 NewDesignator=R60
+Change Component Designator: OldDesignator=XT1 NewDesignator=XT2
+Change Component Designator: OldDesignator=XT2 NewDesignator=XT1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=NetDA12_1 Pin=DA12-1
+Added Pin To Net: NetName=NetDA12_2 Pin=DA12-2
+Added Pin To Net: NetName=U0 Pin=DA12-3
+Added Pin To Net: NetName=NetDA13_1 Pin=DA13-1
+Added Pin To Net: NetName=NetDA13_1 Pin=DA13-2
+Added Pin To Net: NetName=GND Pin=DA13-3
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetDA12_6 New Net Name=NetDA13_6
+Change Net Name : Old Net Name=NetDA12_7 New Net Name=NetDA13_7
+Change Net Name : Old Net Name=NetDA13_5 New Net Name=NetDA12_5
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR48_2 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetR51_1 New Net Name=NetR50_1
+Change Net Name : Old Net Name=NetR52_2 New Net Name=NetR51_2
+Add Class Member: Failed to add class member : Component C1 К10-47Мб-500 В-3300 пФ+-10%
+Add Class Member: Failed to add class member : Component C2 К10-47Мб-500 В-15 нФ +-10%
+Add Class Member: Failed to add class member : Component C3 К10-47Мб-500 В-270 пФ +-10%
+Add Class Member: Failed to add class member : Component FV1 газоразрядник
+Add Class Member: Failed to add class member : Component FV2 газоразрядник
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

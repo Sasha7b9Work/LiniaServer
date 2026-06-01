@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic2.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=Измеритель\Измеритель.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic2.MbsDoc|ProjectPath=Измеритель\Измеритель.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic2.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Интерфейс\Изолированный\Изолированный интерфейс.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic2.MbsDoc|ProjectPath=Интерфейс\Изолированный\Изолированный интерфейс.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic2.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Интерфейс\Неизолированный интерфейс\Неизолированный интерфейс.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic2.MbsDoc|ProjectPath=Интерфейс\Неизолированный интерфейс\Неизолированный интерфейс.PrjPcb

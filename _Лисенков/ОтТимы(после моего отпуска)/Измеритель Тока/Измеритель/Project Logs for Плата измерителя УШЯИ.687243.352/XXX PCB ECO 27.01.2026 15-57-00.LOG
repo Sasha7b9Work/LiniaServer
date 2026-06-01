@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=+8V Pin=C25-2
+Removed Pin From Net: NetName=+5.2V Pin=C26-2
+Removed Pin From Net: NetName=-8V Pin=C31-2
+Removed Pin From Net: NetName=-8V Pin=C32-2
+Removed Pin From Net: NetName=+12V Pin=DA7-4
+Removed Pin From Net: NetName=+12V Pin=DA11-4
+Removed Pin From Net: NetName=+8V Pin=DA17-1
+Removed Pin From Net: NetName=+8V Pin=DA17-3
+Removed Pin From Net: NetName=+8V Pin=DA17-20
+Removed Pin From Net: NetName=+5.2V Pin=DA18-1
+Removed Pin From Net: NetName=+5.2V Pin=DA18-3
+Removed Pin From Net: NetName=+5.2V Pin=DA18-20
+Removed Pin From Net: NetName=-8V Pin=DA20-1
+Removed Pin From Net: NetName=-8V Pin=DA20-20
+Removed Pin From Net: NetName=-8V Pin=R56-2
+Removed Pin From Net: NetName=+12V Pin=VD1-2
+Removed Pin From Net: NetName=+8V Pin=VD22-1
+Removed Pin From Net: NetName=+5.2V Pin=VD23-1
+Removed Pin From Net: NetName=-8V Pin=VD25-2
+Added Component: Designator=NT1(RES: 1206)
+Added Component: Designator=NT2(RES: 1206)
+Added Component: Designator=NT3(RES: 1206)
+Added Component: Designator=NT4(RES: 1206)
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Change Net Name : Old Net Name=+12V New Net Name=NetC27_2
+Added Pin To Net: NetName=+12V Pin=DA7-4
+Added Pin To Net: NetName=+12V Pin=DA11-4
+Added Pin To Net: NetName=+12V Pin=NT3-2
+Added Pin To Net: NetName=+12V Pin=VD1-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=DA17-1
+Added Pin To Net: NetName=NetC25_2 Pin=DA17-3
+Added Pin To Net: NetName=NetC25_2 Pin=DA17-20
+Added Pin To Net: NetName=NetC25_2 Pin=NT1-1
+Added Pin To Net: NetName=NetC25_2 Pin=VD22-1
+Added Net: Name=NetC25_2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=DA18-1
+Added Pin To Net: NetName=NetC26_2 Pin=DA18-3
+Added Pin To Net: NetName=NetC26_2 Pin=DA18-20
+Added Pin To Net: NetName=NetC26_2 Pin=NT2-1
+Added Pin To Net: NetName=NetC26_2 Pin=VD23-1
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=C32-2
+Added Pin To Net: NetName=NetC31_2 Pin=DA20-1
+Added Pin To Net: NetName=NetC31_2 Pin=DA20-20
+Added Pin To Net: NetName=NetC31_2 Pin=NT4-1
+Added Pin To Net: NetName=NetC31_2 Pin=R56-2
+Added Pin To Net: NetName=NetC31_2 Pin=VD25-2
+Added Net: Name=NetC31_2
+Added Member To Class: ClassName=PowerSupply Member=Component NT1 NetTie
+Added Member To Class: ClassName=PowerSupply Member=Component NT2 NetTie
+Added Member To Class: ClassName=PowerSupply Member=Component NT3 NetTie
+Added Member To Class: ClassName=PowerSupply Member=Component NT4 NetTie
+Added Member To Class: ClassName=Switches Member=Component R2 0805-27 Îì+-5%
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

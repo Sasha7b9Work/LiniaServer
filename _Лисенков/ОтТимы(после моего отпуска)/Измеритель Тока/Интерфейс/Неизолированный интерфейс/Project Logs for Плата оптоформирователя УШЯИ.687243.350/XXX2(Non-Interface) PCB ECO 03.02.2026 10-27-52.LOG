@@ -1,0 +1,115 @@
+Removed Member From Class: ClassName=U_TIA1 Member=C6_2
+Removed Member From Class: ClassName=U_TIA2 Member=C7_1
+Removed Member From Class: ClassName=U_TIA2 Member=DA6_1
+Removed Member From Class: ClassName=U_TIA2 Member=R7_1
+Removed Member From Class: ClassName=U_TIA2 Member=R8_1
+Removed Member From Class: ClassName=U_TIA1 Member=R9_2
+Removed Member From Class: ClassName=U_TIA2 Member=R10_1
+Removed Member From Class: ClassName=U_TX5 Member=R11_1
+Removed Member From Class: ClassName=U_TX4 Member=R11_2
+Removed Member From Class: ClassName=U_TIA1 Member=VD1_2
+Removed Member From Class: ClassName=U_TX5 Member=VD2_1
+Removed Member From Class: ClassName=U_TX4 Member=VD2_2
+Removed Member From Class: ClassName=U_TX5 Member=VT1_1
+Removed Member From Class: ClassName=U_TX2 Member=VT1_4
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=C7_1_Nets Member=GND
+Removed Member From Class: ClassName=C7_2_Nets Member=GND
+Removed Member From Class: ClassName=DA6_1_Nets Member=GND
+Removed Member From Class: ClassName=DA6_2_Nets Member=GND
+Removed Member From Class: ClassName=R9_1_Nets Member=GND
+Removed Member From Class: ClassName=R9_2_Nets Member=GND
+Removed Member From Class: ClassName=VD1_1_Nets Member=GND
+Removed Member From Class: ClassName=VD1_2_Nets Member=GND
+Removed Member From Class: ClassName=VT1_1_Nets Member=GND
+Removed Member From Class: ClassName=VT1_2_Nets Member=GND
+Removed Member From Class: ClassName=VT1_3_Nets Member=GND
+Removed Member From Class: ClassName=VT1_4_Nets Member=GND
+Removed Member From Class: ClassName=VT1_5_Nets Member=GND
+Removed Member From Class: ClassName=C6_1_Nets Member=NetC6_2_1
+Removed Member From Class: ClassName=DA6_1_Nets Member=NetC6_2_1
+Removed Member From Class: ClassName=R7_1_Nets Member=NetC6_2_1
+Removed Member From Class: ClassName=VD1_1_Nets Member=NetC6_2_1
+Removed Member From Class: ClassName=C6_1_Nets Member=NetC6_2_2
+Removed Member From Class: ClassName=DA6_1_Nets Member=NetC6_2_2
+Removed Member From Class: ClassName=R7_1_Nets Member=NetC6_2_2
+Removed Member From Class: ClassName=R8_1_Nets Member=NetC6_2_2
+Removed Member From Class: ClassName=C7_2_Nets Member=NetC7_1_2
+Removed Member From Class: ClassName=DA6_2_Nets Member=NetC7_1_2
+Removed Member From Class: ClassName=R8_2_Nets Member=NetC7_1_2
+Removed Member From Class: ClassName=DA6_1_Nets Member=NetDA6_2_6
+Removed Member From Class: ClassName=R9_1_Nets Member=NetDA6_2_6
+Removed Member From Class: ClassName=R10_1_Nets Member=NetDA6_2_6
+Removed Member From Class: ClassName=R11_5_Nets Member=NetR11_1_1
+Removed Member From Class: ClassName=VD2_5_Nets Member=NetR11_1_1
+Removed Member From Class: ClassName=R11_2_Nets Member=NetR11_4_1
+Removed Member From Class: ClassName=VD2_2_Nets Member=NetR11_4_1
+Removed Member From Class: ClassName=VD2_5_Nets Member=NetVD2_1_2
+Removed Member From Class: ClassName=VT1_5_Nets Member=NetVD2_1_2
+Removed Member From Class: ClassName=VD2_2_Nets Member=NetVD2_4_2
+Removed Member From Class: ClassName=VT1_2_Nets Member=NetVD2_4_2
+Added Pin To Net: NetName=GNDn Pin=C7_1-1
+Added Pin To Net: NetName=GNDn Pin=C7_2-1
+Added Pin To Net: NetName=GNDn Pin=DA6_1-3
+Added Pin To Net: NetName=GNDn Pin=DA6_2-3
+Added Pin To Net: NetName=GNDn Pin=R9_1-1
+Added Pin To Net: NetName=GNDn Pin=R9_2-1
+Added Pin To Net: NetName=GNDn Pin=VD1_1-1
+Added Pin To Net: NetName=GNDn Pin=VD1_2-1
+Added Pin To Net: NetName=GNDn Pin=VT1_1-2
+Added Pin To Net: NetName=GNDn Pin=VT1_2-2
+Added Pin To Net: NetName=GNDn Pin=VT1_3-2
+Added Pin To Net: NetName=GNDn Pin=VT1_4-2
+Added Pin To Net: NetName=GNDn Pin=VT1_5-2
+Added Pin To Net: NetName=+5Vn Pin=XP1-14
+Added Pin To Net: NetName=+5Vn Pin=XP1-17
+Added Pin To Net: NetName=+5Vn Pin=XP1-19
+Added Member To Class: ClassName=U_TIA1 Member=Component C6_1 (C6) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component C7_2 (C7) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component DA6_2 (DA6A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA2 Member=Component R7_2 (R7) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R8_2 (R8) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R9_1 (R9) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R10_2 (R10) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TX4 Member=Component R11_4 (R11) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TX5 Member=Component R11_5 (R11) 1206-30 Îì+-5%
+Added Member To Class: ClassName=U_TIA1 Member=Component VD1_1 (VD1) SFH203
+Added Member To Class: ClassName=U_TX4 Member=Component VD2_4 (VD2) VSMY2853RG
+Added Member To Class: ClassName=U_TX5 Member=Component VD2_5 (VD2) VSMY2853RG
+Added Member To Class: ClassName=U_TX2 Member=Component VT1_2 (VT1) BSS138BK
+Added Member To Class: ClassName=U_TX5 Member=Component VT1_5 (VT1) BSS138BK
+Added Member To Class: ClassName=C7_1_Nets Member=Wire GNDn
+Added Member To Class: ClassName=C7_2_Nets Member=Wire GNDn
+Added Member To Class: ClassName=DA6_1_Nets Member=Wire GNDn
+Added Member To Class: ClassName=DA6_2_Nets Member=Wire GNDn
+Added Member To Class: ClassName=R9_1_Nets Member=Wire GNDn
+Added Member To Class: ClassName=R9_2_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VD1_1_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VD1_2_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VT1_1_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VT1_2_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VT1_3_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VT1_4_Nets Member=Wire GNDn
+Added Member To Class: ClassName=VT1_5_Nets Member=Wire GNDn
+Added Member To Class: ClassName=C6_1_Nets Member=Wire NetC6_1_1
+Added Member To Class: ClassName=DA6_1_Nets Member=Wire NetC6_1_1
+Added Member To Class: ClassName=R7_1_Nets Member=Wire NetC6_1_1
+Added Member To Class: ClassName=VD1_1_Nets Member=Wire NetC6_1_1
+Added Member To Class: ClassName=C6_1_Nets Member=Wire NetC6_1_2
+Added Member To Class: ClassName=DA6_1_Nets Member=Wire NetC6_1_2
+Added Member To Class: ClassName=R7_1_Nets Member=Wire NetC6_1_2
+Added Member To Class: ClassName=R8_1_Nets Member=Wire NetC6_1_2
+Added Member To Class: ClassName=C7_2_Nets Member=Wire NetC7_2_2
+Added Member To Class: ClassName=DA6_2_Nets Member=Wire NetC7_2_2
+Added Member To Class: ClassName=R8_2_Nets Member=Wire NetC7_2_2
+Added Member To Class: ClassName=DA6_1_Nets Member=Wire NetDA6_1_6
+Added Member To Class: ClassName=R9_1_Nets Member=Wire NetDA6_1_6
+Added Member To Class: ClassName=R10_1_Nets Member=Wire NetDA6_1_6
+Added Member To Class: ClassName=R11_2_Nets Member=Wire NetR11_2_1
+Added Member To Class: ClassName=VD2_2_Nets Member=Wire NetR11_2_1
+Added Member To Class: ClassName=R11_5_Nets Member=Wire NetR11_5_1
+Added Member To Class: ClassName=VD2_5_Nets Member=Wire NetR11_5_1
+Added Member To Class: ClassName=VD2_2_Nets Member=Wire NetVD2_2_2
+Added Member To Class: ClassName=VT1_2_Nets Member=Wire NetVD2_2_2
+Added Member To Class: ClassName=VD2_5_Nets Member=Wire NetVD2_5_2
+Added Member To Class: ClassName=VT1_5_Nets Member=Wire NetVD2_5_2

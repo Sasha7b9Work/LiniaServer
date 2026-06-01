@@ -1,0 +1,73 @@
+Removed Member From Class: ClassName=Amplifier Member=C17
+Removed Member From Class: ClassName=Amplifier Member=C18
+Removed Member From Class: ClassName=Amplifier Member=C19
+Removed Member From Class: ClassName=Amplifier Member=DA15
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Add Class Member: Failed to add class member : Component C1 Ê10-47ּב-500 ֲ-3300 ןװ+-10%
+Add Class Member: Failed to add class member : Component C2 Ê10-47ּב-500 ֲ-15 םװ +-10%
+Add Class Member: Failed to add class member : Component C3 Ê10-47ּב-500 ֲ-270 ןװ +-10%
+Added Member To Class: ClassName=Amplifier Member=Component C4 JRB-50ֲ-4,7לךװ
+Added Member To Class: ClassName=Amplifier Member=Component C5 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C6 0805-X7R-25 ֲ-0,1 לךװ +-10%
+Added Member To Class: ClassName=Amplifier Member=Component C7 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C9 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C11 1206-X7R-50 B-2,2 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C13 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C15 1206-X7R-50 B-2,2 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C20 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C22 0805-X7R-25 ֲ-1 לךװ +-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C24 0805-X7R-25 ֲ-1 לךװ +-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C26 1206-X7R-25 B-47לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C28 JRB-25ֲ-220לךװ
+Added Member To Class: ClassName=PowerSupply Member=Component C29 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C30 0805-X7R-25 ֲ-1 לךװ +-10%
+Added Member To Class: ClassName=Amplifier Member=Component DA4 ADR434BR
+Added Member To Class: ClassName=Amplifier Member=Component DA6 ADG433BR
+Added Member To Class: ClassName=Amplifier Member=Component DA8 AD8031BRZ
+Added Member To Class: ClassName=Amplifier Member=Component DA10 ADG431BR
+Added Member To Class: ClassName=Amplifier Member=Component DA12 TLV9152IDR
+Added Member To Class: ClassName=Comparator Member=Component DA13 TLV9152IDR
+Added Member To Class: ClassName=Comparator Member=Component DA14 TLV9152IDR
+Added Member To Class: ClassName=PowerSupply Member=Component DA16 TPS7A4701
+Added Member To Class: ClassName=PowerSupply Member=Component DA18 TPS7A4701
+Add Class Member: Failed to add class member : Component FV1 דאחמנאחנÿהםטך
+Add Class Member: Failed to add class member : Component FV2 דאחמנאחנÿהםטך
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

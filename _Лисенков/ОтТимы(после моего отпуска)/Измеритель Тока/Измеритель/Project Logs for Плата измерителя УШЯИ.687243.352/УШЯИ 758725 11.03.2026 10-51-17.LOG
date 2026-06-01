@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=-8V Pin=KT1-1
+Removed Pin From Net: NetName=+5.2V Pin=KT2-1
+Removed Pin From Net: NetName=GNDV Pin=KT3-1
+Removed Member From Class: ClassName=Switches Member=KT4
+Removed Member From Class: ClassName=Switches Member=KT5
+Removed Member From Class: ClassName=Switches Member=KT6
+Change Component Designator: OldDesignator=KT4 NewDesignator=KT1
+Change Component Designator: OldDesignator=KT5 NewDesignator=KT2
+Change Component Designator: OldDesignator=KT6 NewDesignator=KT3
+Change Component Designator: OldDesignator=KT7 NewDesignator=KT4
+Change Component Designator: OldDesignator=KT8 NewDesignator=KT5
+Change Component Designator: OldDesignator=KT9 NewDesignator=KT6
+Change Component Designator: OldDesignator=KT10 NewDesignator=KT7
+Change Component Designator: OldDesignator=KT11 NewDesignator=KT8
+Change Component Designator: OldDesignator=KT12 NewDesignator=KT9
+Change Component Designator: OldDesignator=KT13 NewDesignator=KT10
+Change Component Designator: OldDesignator=KT14 NewDesignator=KT11
+Change Component Designator: OldDesignator=KT15 NewDesignator=KT12
+Change Component Designator: OldDesignator=KT16 NewDesignator=KT13
+Change Component Designator: OldDesignator=KT17 NewDesignator=KT14
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Added Component: Designator=KT15(OTV10)
+Added Component: Designator=KT16(OTV10)
+Added Component: Designator=KT17(OTV10)
+Added Component: Designator=KT18(OTV10)
+Added Component: Designator=KT19(OTV10)
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Added Pin To Net: NetName=NetC28_1 Pin=KT15-1
+Added Pin To Net: NetName=NetC37_2 Pin=KT16-1
+Added Pin To Net: NetName=NetC30_1 Pin=KT17-1
+Added Pin To Net: NetName=GNDV Pin=KT18-1
+Added Pin To Net: NetName=GNDV Pin=KT19-1
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Added Member To Class: ClassName=PowerSupply Member=Component KT15 OTV10
+Added Member To Class: ClassName=PowerSupply Member=Component KT16 OTV10
+Added Member To Class: ClassName=PowerSupply Member=Component KT17 OTV10
+Added Member To Class: ClassName=PowerSupply Member=Component KT18 OTV10
+Added Member To Class: ClassName=PowerSupply Member=Component KT19 OTV10
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4

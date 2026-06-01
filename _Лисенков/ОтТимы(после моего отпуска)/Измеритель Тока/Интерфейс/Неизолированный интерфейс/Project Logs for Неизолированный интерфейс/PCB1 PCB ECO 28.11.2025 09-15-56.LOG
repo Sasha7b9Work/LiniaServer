@@ -1,0 +1,22 @@
+Change component parameters: Designator = "R9" ("R9"); Footprint = "1206"; UniqueID = "\ZVOISOZJ" ("\ZVOISOZJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI,1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "1206"; UniqueID = "\AILCXJPN" ("\AILCXJPN")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "ENB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3" ("VD3"); Footprint = "VSMY2853G"; UniqueID = "\URTPZYRY" ("\URTPZYRY")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI,1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD5" ("VD5"); Footprint = "VSMY2853G"; UniqueID = "\KIUVKDLD" ("\KIUVKDLD")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "ENB"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "SOT-23-3"; UniqueID = "\QRCUQCZL" ("\QRCUQCZL")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "OVLI,1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT4" ("VT4"); Footprint = "SOT-23-3"; UniqueID = "\UHYYYSWJ" ("\UHYYYSWJ")
+Change component parameters (AddParameter): Name = "ClassName"; Value = "ENB"; VariantName = "[No Variations]"
+Added Class: Name=1
+Added Class: Name=ENB
+Added Class: Name=OVLI
+Added Room: Name=1
+Added Room: Name=ENB
+Added Room: Name=OVLI

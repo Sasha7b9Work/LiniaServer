@@ -1,0 +1,3 @@
+Remove Class Member: Failed to remove class member
+Change Room Scope: Old Scope=InComponentClass('U_TIA1') New Scope=InComponentClass('U_TIA2')
+Added Room: Name=U_TIA1

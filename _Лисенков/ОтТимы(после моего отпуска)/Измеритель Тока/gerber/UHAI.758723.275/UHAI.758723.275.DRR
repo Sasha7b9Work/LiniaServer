@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UHAI.758723.275.PcbDoc   18.05.26  12:39:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer, Top to Bottom Layer, Bottom
+ASCII Plated RoundHoles File : UHAI.758723.275-Plated.TXT
+ASCII Non-Plated RoundHoles File : UHAI.758723.275-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             44        PTH        17.16inch (435.96mm)
+T2      32mil (0.8mm)                                             Round             12        PTH        10.71inch (272.10mm)
+T3      35mil (0.9mm)                                             Round             20        PTH        1.50inch (38.00mm)
+T4      87mil (2.2mm)                                             Round             3         NPTH       7.87inch (200.00mm)
+T5      118mil (3mm)                                              Round             10        NPTH       15.98inch (405.88mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              89
+
+Total Processing Time (hh:mm:ss) : 00:00:00

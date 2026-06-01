@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=OptoInterface.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=OptoInterface.SchDoc|Designator=OP1|SchDesignator=OP1|FileName=Non-Isolated Interface.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Non-Isolated Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=OptoInterface.SchDoc|Designator=OP2|SchDesignator=OP2|FileName=Isolated Interface.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Isolated Interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

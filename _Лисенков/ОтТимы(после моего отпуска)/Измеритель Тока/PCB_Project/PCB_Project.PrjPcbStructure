@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_OpAmpTIA|SchDesignator=U_OpAmpTIA|FileName=OpAmpTIA.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=OpAmpTIA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=LEDs.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Sheet1.SchDoc|FileName=Sheet3.SchDoc|SheetNumber=4

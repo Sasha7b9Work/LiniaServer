@@ -1,0 +1,75 @@
+Removed Member From Class: ClassName=Amplifier Member=R21
+Removed Member From Class: ClassName=PowerSupply Member=R57
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Add Class Member: Failed to add class member : Component C1  10-47ћб-500 ¬-3300 п‘+-10%
+Add Class Member: Failed to add class member : Component C2  10-47ћб-500 ¬-15 н‘ +-10%
+Add Class Member: Failed to add class member : Component C3  10-47ћб-500 ¬-270 п‘ +-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C23 0805-X7R-25 ¬-1 мк‘ +-10%
+Added Member To Class: ClassName=Comparator Member=Component DA13 TLV9152IDR
+Add Class Member: Failed to add class member : Component FV1 газоразр€дник
+Add Class Member: Failed to add class member : Component FV2 газоразр€дник
+Added Member To Class: ClassName=Switches Member=Component R12 1206-332 кќм+-0,5%
+Added Member To Class: ClassName=Switches Member=Component R14 1206-470 ќм+-5%
+Added Member To Class: ClassName=Switches Member=Component R16 1206-470 ќм+-5%
+Added Member To Class: ClassName=Switches Member=Component R18 1206-470 ќм+-5%
+Added Member To Class: ClassName=Switches Member=Component R20 1206-22 ќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R22 1206-470 ќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R24 1206-20 кќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R26 0805-1 кќм+-0,1%
+Added Member To Class: ClassName=Amplifier Member=Component R28 0805-1 кќм+-0,1%
+Added Member To Class: ClassName=Amplifier Member=Component R30 1206-470 ќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R32 1206-9,09 кќм+-1%
+Added Member To Class: ClassName=Amplifier Member=Component R34 1206-51 ќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R36 1206-4,02 кќм+-0,1%
+Added Member To Class: ClassName=Amplifier Member=Component R38 1206-1 кќм+-0.1%
+Added Member To Class: ClassName=Amplifier Member=Component R40 0805-1 кќм+-0,1%
+Added Member To Class: ClassName=Amplifier Member=Component R42 1206-10 ќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R44 1206-33 ќм+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R46 1206-33 ќм+-5%
+Added Member To Class: ClassName=Comparator Member=Component R48 1206-7,15 кќм+-1%
+Added Member To Class: ClassName=Comparator Member=Component R50 1206-2,4 кќм+-5%
+Added Member To Class: ClassName=Comparator Member=Component R52 0805-1 кќм+-0,1%
+Added Member To Class: ClassName=Comparator Member=Component R54 0805-1 кќм+-0,1%
+Added Member To Class: ClassName=Comparator Member=Component R56 1206-510 кќм+-1%
+Added Member To Class: ClassName=Comparator Member=Component R58 1206-4,7 кќм+-5%
+Added Member To Class: ClassName=PowerSupply Member=Component R59 1206-1,24 ћќм+-1%
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16
+Added Member To Class: ClassName=Switches Member=Component XT2 ”Ўя».685631.123

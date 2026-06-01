@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+8V Pin=Z3-1
+Removed Pin From Net: NetName=NetXP4_3 Pin=Z3-2
+Removed Pin From Net: NetName=GNDV Pin=Z3-4
+Removed Pin From Net: NetName=GNDV Pin=Z3-4
+Removed Pin From Net: NetName=GNDV Pin=Z3-4
+Removed Member From Class: ClassName=PowerSupply Member=Z3
+Added Pin To Net: NetName=+8V Pin=C21-2
+Added Pin To Net: NetName=+8V Pin=DA17-13
+Added Pin To Net: NetName=+8V Pin=DA17-15
+Added Pin To Net: NetName=+8V Pin=DA17-16
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Added Pin To Net: NetName=+8V Pin=VD23-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4

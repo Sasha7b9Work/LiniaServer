@@ -1,0 +1,87 @@
+Added Component: Designator=R5_1(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=R5_2(1206)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30 Îì"; VariantName = "[No Variations]"
+Added Component: Designator=VD2_1(VSMY2853G)
+Added Component: Designator=VD2_2(VSMY2853G)
+Added Component: Designator=VT1_1(SOT-23-3)
+Added Component: Designator=VT1_2(SOT-23-3)
+Added Pin To Net: NetName=OVLI,1 Pin=VT1_1-1
+Added Pin To Net: NetName=GND Pin=VT1_1-2
+Added Pin To Net: NetName=DAT_ADI Pin=VT1_2-1
+Added Pin To Net: NetName=GND Pin=VT1_2-2
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-4
+Add Pin To Net: Unknown Pin: Pin XS1-6
+Add Pin To Net: Unknown Pin: Pin XS1-7
+Add Pin To Net: Unknown Pin: Pin XS1-8
+Add Pin To Net: Unknown Pin: Pin XS1-9
+Add Pin To Net: Unknown Pin: Pin XS1-10
+Add Pin To Net: Unknown Pin: Pin XS1-12
+Add Pin To Net: Unknown Pin: Pin XS1-14
+Add Pin To Net: Unknown Pin: Pin XS1-15
+Add Pin To Net: Unknown Pin: Pin XS1-16
+Added Pin To Net: NetName=+5Vn Pin=R5_1-2
+Added Pin To Net: NetName=+5Vn Pin=R5_2-2
+Added Net: Name=+5Vn
+Add Net: Net with name "GND" already exists
+Added Pin To Net: NetName=NetR5_1_1 Pin=R5_1-1
+Added Pin To Net: NetName=NetR5_1_1 Pin=VD2_1-1
+Added Net: Name=NetR5_1_1
+Added Pin To Net: NetName=NetR5_2_1 Pin=R5_2-1
+Added Pin To Net: NetName=NetR5_2_1 Pin=VD2_2-1
+Added Net: Name=NetR5_2_1
+Added Pin To Net: NetName=NetVD2_1_2 Pin=VD2_1-2
+Added Pin To Net: NetName=NetVD2_1_2 Pin=VT1_1-3
+Added Net: Name=NetVD2_1_2
+Added Pin To Net: NetName=NetVD2_2_2 Pin=VD2_2-2
+Added Pin To Net: NetName=NetVD2_2_2 Pin=VT1_2-3
+Added Net: Name=NetVD2_2_2
+Added Class: Name=U_Transmitter1
+Added Class: Name=U_Transmitter2
+Added Class: Name=Transmitter
+Added Member To Class: ClassName=U_TIA1 Member=Component C1_1 (C1) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component C1_2 (C1) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA3 Member=Component C1_3 (C1) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA4 Member=Component C1_4 (C1) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA5 Member=Component C1_5 (C1) 0805-NP0-50 Â-2,4 ïÔ-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component C2_1 (C2) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component C2_2 (C2) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA3 Member=Component C2_3 (C2) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA4 Member=Component C2_4 (C2) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA5 Member=Component C2_5 (C2) 1206-Ñ0G-50 B-56 ïÔ+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component DA1_1 (DA1A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA2 Member=Component DA1_2 (DA1A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA3 Member=Component DA1_3 (DA1A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA4 Member=Component DA1_4 (DA1A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA5 Member=Component DA1_5 (DA1A) ADA4807-2ARMZ
+Added Member To Class: ClassName=U_TIA1 Member=Component R1_1 (R1) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R1_2 (R1) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA3 Member=Component R1_3 (R1) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA4 Member=Component R1_4 (R1) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA5 Member=Component R1_5 (R1) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R2_1 (R2) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R2_2 (R2) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA3 Member=Component R2_3 (R2) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA4 Member=Component R2_4 (R2) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA5 Member=Component R2_5 (R2) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R3_1 (R3) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R3_2 (R3) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA3 Member=Component R3_3 (R3) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA4 Member=Component R3_4 (R3) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA5 Member=Component R3_5 (R3) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R4_1 (R4) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R4_2 (R4) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA3 Member=Component R4_3 (R4) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA4 Member=Component R4_4 (R4) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA5 Member=Component R4_5 (R4) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component VD1_1 (VD1) SFH203
+Added Member To Class: ClassName=U_TIA2 Member=Component VD1_2 (VD1) SFH203
+Added Member To Class: ClassName=U_TIA3 Member=Component VD1_3 (VD1) SFH203
+Added Member To Class: ClassName=U_TIA4 Member=Component VD1_4 (VD1) SFH203
+Added Member To Class: ClassName=U_TIA5 Member=Component VD1_5 (VD1) SFH203
+Add Class Member: Failed to add class member : Component XS1 IDC2-16
+Added Rule: Name=Schematic Supply Nets

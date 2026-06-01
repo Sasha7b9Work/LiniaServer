@@ -1,0 +1,32 @@
+Added Component: Designator=R6(1210)
+Add component (AddParameter): Name = "ModelPrint"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1,1 êÎì"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SOD-323)
+Added Pin To Net: NetName=+5V Pin=R5_1-2
+Added Pin To Net: NetName=+5V Pin=R5_2-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=-8V Pin=VD3-2
+Add Pin To Net: Unknown Pin: Pin XS1-1
+Add Pin To Net: Unknown Pin: Pin XS1-2
+Add Pin To Net: Unknown Pin: Pin XS1-3
+Add Pin To Net: Unknown Pin: Pin XS1-4
+Add Pin To Net: Unknown Pin: Pin XS1-5
+Add Pin To Net: Unknown Pin: Pin XS1-6
+Add Pin To Net: Unknown Pin: Pin XS1-7
+Add Pin To Net: Unknown Pin: Pin XS1-8
+Add Pin To Net: Unknown Pin: Pin XS1-9
+Add Pin To Net: Unknown Pin: Pin XS1-11
+Add Pin To Net: Unknown Pin: Pin XS1-12
+Add Pin To Net: Unknown Pin: Pin XS1-13
+Add Pin To Net: Unknown Pin: Pin XS1-14
+Add Pin To Net: Unknown Pin: Pin XS1-15
+Add Pin To Net: Unknown Pin: Pin XS1-16
+Change Net Name : Old Net Name=+5V New Net Name=+5.2V
+Added Pin To Net: NetName=IN Pin=R6-2
+Added Pin To Net: NetName=IN Pin=VD3-1
+Added Net: Name=IN
+Added Member To Class: ClassName=U_TIA1 Member=Component DA1_1 (DA1A) ADA4807-2ARMZ
+Added Member To Class: ClassName=Main Member=Component R6 1210-1,1 êÎì+-5%
+Added Member To Class: ClassName=Main Member=Component VD3 BZX384-C4V7
+Add Class Member: Failed to add class member : Component XS1 IDC2-16
+Added Rule: Name=Schematic Supply Nets_1

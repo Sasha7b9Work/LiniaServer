@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=VT1_5_Nets Member=CLK_ADIn
+Remove Class Member: Failed to remove class member
+Removed Member From Class: ClassName=DA6_1_Nets Member=DAT_ADIn
+Removed Member From Class: ClassName=R10_1_Nets Member=DAT_ADIn
+Removed Member From Class: ClassName=VT1_1_Nets Member=DAT_RgIn
+Removed Member From Class: ClassName=DA3_Nets Member=IN_4
+Removed Member From Class: ClassName=VT1_4_Nets Member=IN_4
+Removed Member From Class: ClassName=DA6_2_Nets Member=NetDA6_2_7
+Removed Member From Class: ClassName=DD1_Nets Member=NetDA6_2_7
+Removed Member From Class: ClassName=R10_2_Nets Member=NetDA6_2_7
+Change Component Designator: OldDesignator=C6_1 NewDesignator=C6_2
+Change Component Designator: OldDesignator=C6_2 NewDesignator=C6_1
+Change Component Designator: OldDesignator=C7_1 NewDesignator=C7_2
+Change Component Designator: OldDesignator=C7_2 NewDesignator=C7_1
+Change Component Designator: OldDesignator=DA6_1 NewDesignator=DA6_2
+Change Component Designator: OldDesignator=DA6_2 NewDesignator=DA6_1
+Change Component Designator: OldDesignator=R7_1 NewDesignator=R7_2
+Change Component Designator: OldDesignator=R7_2 NewDesignator=R7_1
+Change Component Designator: OldDesignator=R8_1 NewDesignator=R8_2
+Change Component Designator: OldDesignator=R8_2 NewDesignator=R8_1
+Change Component Designator: OldDesignator=R9_1 NewDesignator=R9_2
+Change Component Designator: OldDesignator=R9_2 NewDesignator=R9_1
+Change Component Designator: OldDesignator=R10_1 NewDesignator=R10_2
+Change Component Designator: OldDesignator=R10_2 NewDesignator=R10_1
+Change Component Designator: OldDesignator=R11_1 NewDesignator=R11_5
+Change Component Designator: OldDesignator=R11_2 NewDesignator=R11_4
+Change Component Designator: OldDesignator=R11_4 NewDesignator=R11_2
+Change Component Designator: OldDesignator=R11_5 NewDesignator=R11_1
+Change Component Designator: OldDesignator=VD1_1 NewDesignator=VD1_2
+Change Component Designator: OldDesignator=VD1_2 NewDesignator=VD1_1
+Change Component Designator: OldDesignator=VD2_1 NewDesignator=VD2_5
+Change Component Designator: OldDesignator=VD2_2 NewDesignator=VD2_4
+Change Component Designator: OldDesignator=VD2_4 NewDesignator=VD2_2
+Change Component Designator: OldDesignator=VD2_5 NewDesignator=VD2_1
+Change Component Designator: OldDesignator=VT1_1 NewDesignator=VT1_5
+Change Component Designator: OldDesignator=VT1_2 NewDesignator=VT1_4
+Change Component Designator: OldDesignator=VT1_4 NewDesignator=VT1_2
+Change Component Designator: OldDesignator=VT1_5 NewDesignator=VT1_1
+Change Net Name : Old Net Name=IN_4 New Net Name=RUN_ADIn
+Change Net Name : Old Net Name=NetC6_1_1 New Net Name=NetC6_2_1
+Change Net Name : Old Net Name=NetC6_1_2 New Net Name=NetC6_2_2
+Change Net Name : Old Net Name=NetC6_2_1 New Net Name=NetC6_1_1
+Change Net Name : Old Net Name=NetC6_2_2 New Net Name=NetC6_1_2
+Change Net Name : Old Net Name=NetC7_1_2 New Net Name=NetC7_2_2
+Change Net Name : Old Net Name=NetC7_2_2 New Net Name=NetC7_1_2
+Change Net Name : Old Net Name=NetDA6_1_6 New Net Name=NetDA6_2_6
+Change Net Name : Old Net Name=NetDA6_2_6 New Net Name=NetDA6_1_6
+Change Net Name : Old Net Name=NetDA6_2_7 New Net Name=NetDA6_1_7
+Change Net Name : Old Net Name=NetR11_1_1 New Net Name=NetR11_5_1
+Change Net Name : Old Net Name=NetR11_2_1 New Net Name=NetR11_4_1
+Change Net Name : Old Net Name=NetR11_4_1 New Net Name=NetR11_2_1
+Change Net Name : Old Net Name=NetR11_5_1 New Net Name=NetR11_1_1
+Change Net Name : Old Net Name=NetVD2_1_2 New Net Name=NetVD2_5_2
+Change Net Name : Old Net Name=NetVD2_2_2 New Net Name=NetVD2_4_2
+Change Net Name : Old Net Name=NetVD2_4_2 New Net Name=NetVD2_2_2
+Change Net Name : Old Net Name=NetVD2_5_2 New Net Name=NetVD2_1_2
+Add Net: Net with name "+5Vn" already exists
+Added Member To Class: ClassName=U_TIA1 Member=Component VD1_1 (VD1) SFH203
+Added Member To Class: ClassName=VT1_1_Nets Member=Wire CLK_ADIn
+Added Member To Class: ClassName=VT1_4_Nets Member=Wire CLK_RGIn
+Added Member To Class: ClassName=DA6_2_Nets Member=Wire DAT_ADIn
+Added Member To Class: ClassName=R10_2_Nets Member=Wire DAT_ADIn
+Added Member To Class: ClassName=VT1_5_Nets Member=Wire DAT_RgIn
+Added Member To Class: ClassName=DA6_1_Nets Member=Wire NetDA6_1_7
+Added Member To Class: ClassName=DD1_Nets Member=Wire NetDA6_1_7
+Added Member To Class: ClassName=R10_1_Nets Member=Wire NetDA6_1_7
+Added Member To Class: ClassName=DA3_Nets Member=Wire RUN_ADIn
+Added Member To Class: ClassName=VT1_2_Nets Member=Wire RUN_ADIn

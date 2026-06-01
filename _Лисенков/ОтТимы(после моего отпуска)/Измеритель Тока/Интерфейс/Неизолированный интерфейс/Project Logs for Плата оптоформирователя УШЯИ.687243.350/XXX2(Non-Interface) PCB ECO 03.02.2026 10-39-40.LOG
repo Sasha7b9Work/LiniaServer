@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=U_TIA1 Member=R7_1
+Removed Member From Class: ClassName=U_TIA2 Member=R7_2
+Removed Member From Class: ClassName=U_TX1 Member=VD2_1
+Removed Member From Class: ClassName=U_TX2 Member=VD2_2
+Remove Class Member: Failed to remove class member
+Added Member To Class: ClassName=U_TIA1 Member=Component R8_1 (R8) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R8_2 (R8) 1206-5,23 êÎì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R9_2 (R9) 1206-140 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R10_1 (R10) 1206-102 Îì+-1%
+Added Member To Class: ClassName=U_TIA1 Member=Component R11_1 (R11) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TIA2 Member=Component R11_2 (R11) 1206-215 Îì+-1%
+Added Member To Class: ClassName=U_TX1 Member=Component VD1_1 (VD1) VSMY2853RG
+Added Member To Class: ClassName=U_TX2 Member=Component VD1_2 (VD1) VSMY2853RG

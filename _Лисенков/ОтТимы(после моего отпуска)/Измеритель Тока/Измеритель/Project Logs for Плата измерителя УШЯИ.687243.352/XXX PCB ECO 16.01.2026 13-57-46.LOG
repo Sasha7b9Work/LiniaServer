@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=NetC17_1 Pin=VD14-2
+Removed Pin From Net: NetName=NetC17_1 Pin=VD15-2
+Removed Pin From Net: NetName=NetC18_1 Pin=VD16-2
+Removed Pin From Net: NetName=NetC18_1 Pin=VD17-2
+Removed Pin From Net: NetName=NetC28_1 Pin=VD18-1
+Removed Pin From Net: NetName=NetC28_1 Pin=VD19-1
+Removed Pin From Net: NetName=GNDV Pin=VD20-1
+Removed Pin From Net: NetName=GNDV Pin=VD21-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Added Pin To Net: NetName=NetC17_1 Pin=VD14-1
+Added Pin To Net: NetName=NetC17_1 Pin=VD15-1
+Added Pin To Net: NetName=NetC18_1 Pin=VD16-1
+Added Pin To Net: NetName=NetC18_1 Pin=VD17-1
+Added Pin To Net: NetName=NetC28_1 Pin=VD18-2
+Added Pin To Net: NetName=NetC28_1 Pin=VD19-2
+Added Pin To Net: NetName=GNDV Pin=VD20-2
+Added Pin To Net: NetName=GNDV Pin=VD21-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Added Pin To Net: NetName=NetVD14_2 Pin=VD14-2
+Added Pin To Net: NetName=NetVD14_2 Pin=VD18-1
+Added Pin To Net: NetName=NetVD14_2 Pin=XP4-1
+Added Net: Name=NetVD14_2
+Added Pin To Net: NetName=NetVD15_2 Pin=VD15-2
+Added Pin To Net: NetName=NetVD15_2 Pin=XP4-2
+Added Net: Name=NetVD15_2
+Added Pin To Net: NetName=NetVD16_2 Pin=VD16-2
+Added Pin To Net: NetName=NetVD16_2 Pin=VD20-1
+Added Pin To Net: NetName=NetVD16_2 Pin=XP4-4
+Added Net: Name=NetVD16_2
+Added Pin To Net: NetName=NetVD17_2 Pin=VD17-2
+Added Pin To Net: NetName=NetVD17_2 Pin=VD21-1
+Added Pin To Net: NetName=NetVD17_2 Pin=XP4-5
+Added Net: Name=NetVD17_2
+Add Class Member: Failed to add class member : Component C1 К10-47Мб-500 В-3300 пФ+-10%
+Add Class Member: Failed to add class member : Component C2 К10-47Мб-500 В-15 нФ +-10%
+Add Class Member: Failed to add class member : Component C3 К10-47Мб-500 В-270 пФ +-10%
+Add Class Member: Failed to add class member : Component FV1 газоразрядник
+Add Class Member: Failed to add class member : Component FV2 газоразрядник
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

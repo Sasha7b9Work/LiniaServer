@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : E:\mnipi\Измеритель Тока\Интерфейс\Неизолированный интерфейс\УШЯИ 758723.275.PcbDoc
+Date     : 05.05.2026
+Time     : 12:25:31
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Un-Connected Pin Constraint ( (All) )
+   Violation between Un-Connected Pin Constraint: Pad DA1-3(37.234mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA1-4(38.504mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA2-3(56.675mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA2-4(57.945mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA3-3(165.888mm,-17.534mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA3-4(165.888mm,-18.804mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA4-3(153.835mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA4-4(155.105mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA5-1(125.295mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DA5-2(126.565mm,-18.812mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DD1-11(87.3mm,-6.2mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DD1-12(86.03mm,-6.2mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad DD1-13(84.76mm,-6.2mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(1.75mm,-40mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(1.75mm,-47.502mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(10mm,-1.75mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(2.498mm,-1.75mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(2.498mm,-9.75mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(209.949mm,-1.822mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(210.25mm,-47.502mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(217.451mm,-1.822mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(218.25mm,-40mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(218.25mm,-47.502mm) on Top Layer, Top 
+   Violation between Un-Connected Pin Constraint: Pad Free-R1(9.75mm,-47.502mm) on Top Layer, Top 
+Rule Violations :24
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=5mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.25mm) (Max=8mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.001mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=2mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 24
+Waived Violations : 0
+Time Elapsed        : 00:00:02

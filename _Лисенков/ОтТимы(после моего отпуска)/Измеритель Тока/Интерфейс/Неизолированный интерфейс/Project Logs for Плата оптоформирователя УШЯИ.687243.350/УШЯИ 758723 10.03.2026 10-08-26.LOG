@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+5Vn Pin=R1-1
+Removed Pin From Net: NetName=+5Vn Pin=R3-1
+Removed Pin From Net: NetName=+5Vn Pin=R5-2
+Removed Pin From Net: NetName=+5Vn Pin=R7-1
+Removed Member From Class: ClassName=R1_Nets Member=+5Vn
+Removed Member From Class: ClassName=R3_Nets Member=+5Vn
+Removed Member From Class: ClassName=R5_Nets Member=+5Vn
+Removed Member From Class: ClassName=R7_Nets Member=+5Vn
+Added Pin To Net: NetName=+3.3Vn Pin=R1-1
+Added Pin To Net: NetName=+3.3Vn Pin=R3-1
+Added Pin To Net: NetName=+3.3Vn Pin=R5-2
+Added Pin To Net: NetName=+3.3Vn Pin=R7-1
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R1 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R2 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R3 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R4 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R5 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R6 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R7 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R8 1206-1 êÎì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R10 1206-100 Îì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R12 1206-100 Îì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R14 0805-10 KÎÌ+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R15 1206-30 Îì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R16 1206-30 Îì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R17 1206-30 Îì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R18 1206-30 Îì+-5%
+Added Member To Class: ClassName=Non-Isolated Interface Member=Component R19 1206-30 Îì+-5%
+Added Member To Class: ClassName=R1_Nets Member=Wire +3.3Vn
+Added Member To Class: ClassName=R3_Nets Member=Wire +3.3Vn
+Added Member To Class: ClassName=R5_Nets Member=Wire +3.3Vn
+Added Member To Class: ClassName=R7_Nets Member=Wire +3.3Vn

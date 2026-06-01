@@ -1,0 +1,157 @@
+Removed Pin From Net: NetName=+12V Pin=C26-1
+Removed Pin From Net: NetName=GNDV Pin=C26-2
+Removed Pin From Net: NetName=GNDV Pin=C28-1
+Removed Pin From Net: NetName=+12V Pin=C28-2
+Removed Pin From Net: NetName=GNDV Pin=C30-1
+Removed Pin From Net: NetName=+4.096V Pin=C30-2
+Removed Pin From Net: NetName=+12V Pin=DA18-2
+Removed Pin From Net: NetName=GNDV Pin=DA18-4
+Removed Pin From Net: NetName=+4.096V Pin=DA18-6
+Removed Member From Class: ClassName=PowerSupply Member=C26
+Removed Member From Class: ClassName=PowerSupply Member=C28
+Removed Member From Class: ClassName=PowerSupply Member=C30
+Removed Member From Class: ClassName=PowerSupply Member=DA18
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C12
+Change Component Designator: OldDesignator=C10 NewDesignator=C13
+Change Component Designator: OldDesignator=C11 NewDesignator=C14
+Change Component Designator: OldDesignator=C12 NewDesignator=C15
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Change Component Designator: OldDesignator=C14 NewDesignator=C17
+Change Component Designator: OldDesignator=C15 NewDesignator=C18
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C17 NewDesignator=C20
+Change Component Designator: OldDesignator=C18 NewDesignator=C21
+Change Component Designator: OldDesignator=C19 NewDesignator=C22
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C25
+Change Component Designator: OldDesignator=C23 NewDesignator=C26
+Change Component Designator: OldDesignator=C24 NewDesignator=C27
+Change Component Designator: OldDesignator=C25 NewDesignator=C28
+Change Component Designator: OldDesignator=C27 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=DA4 NewDesignator=DA5
+Change Component Designator: OldDesignator=DA5 NewDesignator=DA6
+Change Component Designator: OldDesignator=DA6 NewDesignator=DA7
+Change Component Designator: OldDesignator=DA7 NewDesignator=DA8
+Change Component Designator: OldDesignator=DA8 NewDesignator=DA9
+Change Component Designator: OldDesignator=DA9 NewDesignator=DA10
+Change Component Designator: OldDesignator=DA10 NewDesignator=DA11
+Change Component Designator: OldDesignator=DA11 NewDesignator=DA12
+Change Component Designator: OldDesignator=DA12 NewDesignator=DA13
+Change Component Designator: OldDesignator=DA13 NewDesignator=DA14
+Change Component Designator: OldDesignator=DA14 NewDesignator=DA15
+Change Component Designator: OldDesignator=DA15 NewDesignator=DA16
+Change Component Designator: OldDesignator=DA16 NewDesignator=DA17
+Change Component Designator: OldDesignator=DA17 NewDesignator=DA18
+Added Component: Designator=C4(CAP TH ALUM ELEC D5.00mm S2.00mm H11.00mm)
+Added Component: Designator=C5(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 ìêÔ"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: 0805)
+Add component (AddParameter): Name = "Value"; Value = "0,1 ìêÔ"; VariantName = "[No Variations]"
+Added Component: Designator=DA4(8-SOIC)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Added Pin To Net: NetName=+12V Pin=C4-1
+Added Pin To Net: NetName=GNDV Pin=C4-2
+Added Pin To Net: NetName=GNDV Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C5-2
+Added Pin To Net: NetName=GNDV Pin=C6-1
+Added Pin To Net: NetName=+4.096V Pin=C6-2
+Added Pin To Net: NetName=+12V Pin=DA4-2
+Added Pin To Net: NetName=GNDV Pin=DA4-4
+Added Pin To Net: NetName=+4.096V Pin=DA4-6
+Add Pin To Net: Unknown Pin: Pin FV1-1
+Add Pin To Net: Unknown Pin: Pin FV1-2
+Add Pin To Net: Unknown Pin: Pin FV2-1
+Add Pin To Net: Unknown Pin: Pin FV2-2
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Add Pin To Net: Unknown Pin: Pin XP1-1
+Add Pin To Net: Unknown Pin: Pin XP1-2
+Add Pin To Net: Unknown Pin: Pin XP1-3
+Add Pin To Net: Unknown Pin: Pin XP1-4
+Add Pin To Net: Unknown Pin: Pin XP1-5
+Add Pin To Net: Unknown Pin: Pin XP1-6
+Add Pin To Net: Unknown Pin: Pin XP1-7
+Add Pin To Net: Unknown Pin: Pin XP1-8
+Add Pin To Net: Unknown Pin: Pin XP1-9
+Add Pin To Net: Unknown Pin: Pin XP1-10
+Add Pin To Net: Unknown Pin: Pin XP1-11
+Add Pin To Net: Unknown Pin: Pin XP1-12
+Add Pin To Net: Unknown Pin: Pin XP1-13
+Add Pin To Net: Unknown Pin: Pin XP1-14
+Add Pin To Net: Unknown Pin: Pin XP1-15
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC16_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC18_1
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetDA4_2 New Net Name=NetDA5_2
+Change Net Name : Old Net Name=NetDA4_3 New Net Name=NetDA5_3
+Change Net Name : Old Net Name=NetDA4_6 New Net Name=NetDA5_6
+Change Net Name : Old Net Name=NetDA5_2 New Net Name=NetDA6_2
+Change Net Name : Old Net Name=NetDA5_15 New Net Name=NetDA6_15
+Change Net Name : Old Net Name=NetDA6_2 New Net Name=NetDA7_2
+Change Net Name : Old Net Name=NetDA6_5 New Net Name=NetDA7_5
+Change Net Name : Old Net Name=NetDA6_8 New Net Name=NetDA7_8
+Change Net Name : Old Net Name=NetDA8_2 New Net Name=NetDA9_2
+Change Net Name : Old Net Name=NetDA8_3 New Net Name=NetDA9_3
+Change Net Name : Old Net Name=NetDA9_2 New Net Name=NetDA10_2
+Change Net Name : Old Net Name=NetDA9_7 New Net Name=NetDA10_7
+Change Net Name : Old Net Name=NetDA9_10 New Net Name=NetDA10_10
+Change Net Name : Old Net Name=NetDA9_15 New Net Name=NetDA10_15
+Change Net Name : Old Net Name=NetDA10_6 New Net Name=NetDA11_6
+Change Net Name : Old Net Name=NetDA10_7 New Net Name=NetDA11_7
+Change Net Name : Old Net Name=NetDA10_8 New Net Name=NetDA11_8
+Change Net Name : Old Net Name=NetDA11_2 New Net Name=NetDA12_2
+Change Net Name : Old Net Name=NetDA11_6 New Net Name=NetDA12_6
+Change Net Name : Old Net Name=NetDA12_1 New Net Name=NetDA13_1
+Change Net Name : Old Net Name=NetDA12_2 New Net Name=NetDA13_2
+Change Net Name : Old Net Name=NetDA12_5 New Net Name=NetDA13_5
+Change Net Name : Old Net Name=NetDA12_6 New Net Name=NetDA13_6
+Change Net Name : Old Net Name=NetDA13_1 New Net Name=NetDA14_1
+Change Net Name : Old Net Name=NetDA13_6 New Net Name=NetDA14_6
+Change Net Name : Old Net Name=NetDA13_7 New Net Name=NetDA14_7
+Change Net Name : Old Net Name=NetDA14_2 New Net Name=NetDA15_2
+Change Net Name : Old Net Name=NetDA14_6 New Net Name=NetDA15_6
+Add Class Member: Failed to add class member : Component C1 Ê10-47Ìá-500 Â-3300 ïÔ+-10%
+Add Class Member: Failed to add class member : Component C2 Ê10-47Ìá-500 Â-15 íÔ +-10%
+Add Class Member: Failed to add class member : Component C3 Ê10-47Ìá-500 Â-270 ïÔ +-10%
+Added Member To Class: ClassName=Amplifier Member=Component C14 1206-X7R-50 B-2,2 ìêÔ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C15 1206-X7R-50 B-2,2 ìêÔ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C16 1206-X7R-50 B-0,33 ìêÔ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component DA12 TLV9152IDR
+Add Class Member: Failed to add class member : Component FV1 ãàçîðàçðÿäíèê
+Add Class Member: Failed to add class member : Component FV2 ãàçîðàçðÿäíèê
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
+Add Class Member: Failed to add class member : Component XP1 BH2-16

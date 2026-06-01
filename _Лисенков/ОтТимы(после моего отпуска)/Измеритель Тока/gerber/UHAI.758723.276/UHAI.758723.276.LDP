@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\mnipi\Измеритель Тока\gerber\b\UHAI.758723.276.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=uhai.758723.276-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=uhai.758723.276-nonplated.txt|DrillLayers=gtl,gbl

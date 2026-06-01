@@ -1,0 +1,43 @@
+Net Status Report
+Filename     : D:\Work\Линия\Текущая(\Узлы\Измеритель Тока\Интерфейс\Изолированный\PCB3.PcbDoc
+Date         : 30.01.2026
+Time         : 16:01:54
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5V, Signal Layers Only, 0mm
+    +5Vn, Signal Layers Only, 0mm
+    -5V, Signal Layers Only, 0mm
+    CLK_ADI, Signal Layers Only, 0mm
+    CLK_RgI, Signal Layers Only, 0mm
+    DAT_ADI, Signal Layers Only, 0mm
+    DAT_RgI, Signal Layers Only, 0mm
+    ENb_RgI, Signal Layers Only, 3.9971mm
+    GND, Signal Layers Only, 0mm
+    NetC10_2, Signal Layers Only, 4.9971mm
+    NetC1_1, Signal Layers Only, 0mm
+    NetC1_2, Signal Layers Only, 0mm
+    NetC2_1, Signal Layers Only, 0mm
+    NetC2_2, Signal Layers Only, 0mm
+    NetC3_1, Signal Layers Only, 7.943mm
+    NetC3_2, Signal Layers Only, 13.0797mm
+    NetC4_2, Signal Layers Only, 0mm
+    NetC5_2, Signal Layers Only, 0mm
+    NetC6_2, Signal Layers Only, 11.7173mm
+    NetC7_1, Signal Layers Only, 0mm
+    NetC7_2, Signal Layers Only, 0mm
+    NetC8_1, Signal Layers Only, 25.1108mm
+    NetC8_2, Signal Layers Only, 2.5mm
+    NetC9_2, Signal Layers Only, 0mm
+    NetDA1_6, Signal Layers Only, 0mm
+    NetDA2_6, Signal Layers Only, 0mm
+    NetDA3_6, Signal Layers Only, 20.6138mm
+    NetDA4_6, Signal Layers Only, 0mm
+    NetDA5_6, Signal Layers Only, 15.6945mm
+    NetR17_1, Signal Layers Only, 0mm
+    NetR22_1, Signal Layers Only, 0mm
+    NetVD6_2, Signal Layers Only, 0mm
+    NetVD7_2, Signal Layers Only, 0mm
+    OVLI,1, Signal Layers Only, 0mm
+    RUN_ADI, Signal Layers Only, 3.1257mm
+count : 35

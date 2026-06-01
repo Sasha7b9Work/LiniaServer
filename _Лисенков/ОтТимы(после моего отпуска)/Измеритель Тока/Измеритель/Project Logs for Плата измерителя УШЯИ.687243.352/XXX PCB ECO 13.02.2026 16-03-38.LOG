@@ -1,0 +1,113 @@
+Removed Member From Class: ClassName=Switches Member=C9
+Removed Member From Class: ClassName=Switches Member=C15
+Removed Member From Class: ClassName=Amplifier Member=C29
+Removed Member From Class: ClassName=Comparator Member=C34
+Removed Member From Class: ClassName=Amplifier Member=C35
+Removed Member From Class: ClassName=Comparator Member=C36
+Removed Member From Class: ClassName=Comparator Member=C38
+Removed Member From Class: ClassName=Amplifier Member=C39
+Removed Member From Class: ClassName=Amplifier Member=C40
+Removed Member From Class: ClassName=Amplifier Member=C41
+Removed Member From Class: ClassName=Amplifier Member=C42
+Removed Member From Class: ClassName=Amplifier Member=C43
+Change Component Designator: OldDesignator=DA16 NewDesignator=DA19
+Added Component: Designator=C4(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP: 1206)
+Add component (AddParameter): Name = "Value"; Value = "0,1 לךװ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+8V Pin=C4-1
+Added Pin To Net: NetName=GNDV Pin=C4-2
+Added Pin To Net: NetName=GNDV Pin=C5-1
+Added Pin To Net: NetName=-8V Pin=C5-2
+Added Pin To Net: NetName=GNDV Pin=C11-1
+Added Pin To Net: NetName=+8V Pin=C11-2
+Added Pin To Net: NetName=-8V Pin=C12-1
+Added Pin To Net: NetName=GNDV Pin=C12-2
+Added Pin To Net: NetName=+8V Pin=C14-1
+Added Pin To Net: NetName=GNDV Pin=C14-2
+Added Pin To Net: NetName=+8V Pin=C23-1
+Added Pin To Net: NetName=GNDV Pin=C23-2
+Added Pin To Net: NetName=GNDV Pin=C24-1
+Added Pin To Net: NetName=-8V Pin=C24-2
+Added Pin To Net: NetName=+8V Pin=C25-1
+Added Pin To Net: NetName=GNDV Pin=C25-2
+Added Pin To Net: NetName=GNDV Pin=C26-1
+Added Pin To Net: NetName=-8V Pin=C26-2
+Added Pin To Net: NetName=+5.2V Pin=C27-1
+Added Pin To Net: NetName=GNDV Pin=C27-2
+Added Pin To Net: NetName=NetC42_2 Pin=DA19-1
+Added Pin To Net: NetName=NetC42_1 Pin=DA19-3
+Added Pin To Net: NetName=GNDV Pin=DA19-7
+Added Pin To Net: NetName=NetC37_1 Pin=DA19-13
+Added Pin To Net: NetName=NetC41_2 Pin=DA19-14
+Added Pin To Net: NetName=NetC37_1 Pin=DA19-15
+Added Pin To Net: NetName=NetC37_1 Pin=DA19-16
+Added Pin To Net: NetName=GNDV Pin=DA19-17
+Added Pin To Net: NetName=GNDV Pin=DA19-18
+Added Pin To Net: NetName=GNDV Pin=DA19-19
+Added Pin To Net: NetName=NetC42_2 Pin=DA19-20
+Added Pin To Net: NetName=GNDV Pin=DA19-21
+Add Pin To Net: Unknown Pin: Pin K8-1
+Add Pin To Net: Unknown Pin: Pin K8-2
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X3-1
+Added Member To Class: ClassName=Switches Member=Component C4 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Switches Member=Component C5 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Switches Member=Component C6 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C7 JRB-50ֲ-4,7לךװ
+Added Member To Class: ClassName=Amplifier Member=Component C8 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C10 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C11 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C12 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C13 0805-C0G-50 ֲ-240 ןװ +-5%
+Added Member To Class: ClassName=Amplifier Member=Component C14 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C16 1206-X7R-10 B-10 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C17 1206-X7R-50 B-0,01 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C18 1206-X7R-50 B-2,2 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C20 1206-X7R-50 B-2,2 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C22 1206-X7R-50 B-0,33 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C23 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Amplifier Member=Component C24 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Comparator Member=Component C25 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Comparator Member=Component C26 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=Comparator Member=Component C27 1206-X7R-50 B-0,1 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C28 JRB-25ֲ-1000 לךװ
+Added Member To Class: ClassName=PowerSupply Member=Component C30 JRB-35ֲ-470לךװ
+Added Member To Class: ClassName=PowerSupply Member=Component C31 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C32 1206-X7R-50 B-10 לךװ+-10%
+Added Member To Class: ClassName=PowerSupply Member=Component C33 0805-X7R-25 ֲ-1 לךװ +-10%
+Added Member To Class: ClassName=PowerSupply Member=Component DA19 TPS7A3301
+Added Member To Class: ClassName=Switches Member=Component R5 1206-4,99 ־ל+-0,1%
+Added Member To Class: ClassName=Switches Member=Component R7 1206-27 ־ל+-5%
+Added Member To Class: ClassName=Switches Member=Component R8 WSL5931L5000FEA
+Added Member To Class: ClassName=Switches Member=Component R14 ׁ2-29ֲ-0,125-332 ך־ל+-0.1%-1,0-ְ
+Added Member To Class: ClassName=Amplifier Member=Component R21 1206-20 ך־ל+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R22 1206-470 ־ל+-5%
+Added Member To Class: ClassName=Amplifier Member=Component R29 1206-9,09 ך־ל+-1%
+Added Member To Class: ClassName=Amplifier Member=Component R31 1206-470 ־ל+-5%
+Add Class Member: Failed to add class member : Component S1 DRA282G
+Add Class Member: Failed to add class member : Component S2 DRA282G
+Add Class Member: Failed to add class member : Component X1 TR-1,25-4
+Add Class Member: Failed to add class member : Component X2 TR-1,25-4
+Add Class Member: Failed to add class member : Component X3 TR-1,25-4
