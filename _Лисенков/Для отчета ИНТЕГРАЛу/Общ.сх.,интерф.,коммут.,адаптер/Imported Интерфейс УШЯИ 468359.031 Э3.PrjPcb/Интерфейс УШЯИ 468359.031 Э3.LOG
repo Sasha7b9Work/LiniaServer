@@ -1,0 +1,66 @@
+PCAD Importer Log
+Project : Интерфейс УШЯИ 468359.031 Э3.PrjPcb
+
+Section : \\Lisenkov\обмен\Для отчета ИНТЕГРАЛу\Общ.сх.,интерф.,коммут.,адаптер\Интерфейс УШЯИ 468359.031 Э3.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 19621
+        Warning - 1 : Skipping Token defaultPinDes On Line 19629
+        Warning - 1 : Skipping Token defaultPinDes On Line 19666
+        Warning - 1 : Skipping Token defaultPinDes On Line 19674
+        Warning - 1 : Skipping Token defaultPinDes On Line 19682
+        Warning - 1 : Skipping Token defaultPinDes On Line 19690
+        Warning - 1 : Skipping Token defaultPinDes On Line 19698
+        Warning - 1 : Skipping Token defaultPinDes On Line 19723
+        Warning - 1 : Skipping Token defaultPinDes On Line 19731
+        Warning - 1 : Skipping Token defaultPinDes On Line 19771
+        Warning - 1 : Skipping Token defaultPinDes On Line 19779
+        Warning - 1 : Skipping Token defaultPinDes On Line 19819
+        Warning - 1 : Skipping Token defaultPinDes On Line 19827
+        Warning - 1 : Skipping Token defaultPinDes On Line 19863
+        Warning - 1 : Skipping Token defaultPinDes On Line 19871
+        Warning - 1 : Skipping Token defaultPinDes On Line 19893
+        Warning - 1 : Skipping Token defaultPinDes On Line 19901
+        Warning - 1 : Skipping Token defaultPinDes On Line 19909
+        Warning - 1 : Skipping Token defaultPinDes On Line 19917
+        Warning - 1 : Skipping Token defaultPinDes On Line 19925
+        Warning - 1 : Skipping Token defaultPinDes On Line 19933
+        Warning - 1 : Skipping Token defaultPinDes On Line 19941
+        Warning - 1 : Skipping Token defaultPinDes On Line 19949
+        Warning - 1 : Skipping Token defaultPinDes On Line 19984
+        Warning - 1 : Skipping Token defaultPinDes On Line 19999
+        Warning - 1 : Skipping Token defaultPinDes On Line 20007
+        Warning - 1 : Skipping Token defaultPinDes On Line 20015
+        Warning - 1 : Skipping Token defaultPinDes On Line 20023
+        Warning - 1 : Skipping Token defaultPinDes On Line 20031
+        Warning - 1 : Skipping Token defaultPinDes On Line 20039
+        Warning - 1 : Skipping Token gridDfns On Line 20523
+        Warning - 1 : Skipping Token refPointSize On Line 20552
+        Warning - 1 : Skipping Token infoPointSize On Line 20553
+        Warning - 1 : Skipping Token junctionSize On Line 20554
+        Warning - 1 : Skipping Token refPointSizePrint On Line 20555
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 20556
+        Warning - 1 : Skipping Token junctionSizePrint On Line 20557
+        Warning - 1 : Skipping Token PrintRegion On Line 21014
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 21018
+        Warning - 1 : Skipping Token ecoState On Line 21033
+        Warning - 1 : Skipping Token currentTextStyle On Line 21034
+        Warning - 1 : Skipping Token reportSettings On Line 21037
+    EndSection
+
+    Section : Generating SCH Library - Интерфейс УШЯИ 468359.031 Э3.SchLib
+        Warning : Create component variant [TAJB476K10RNJ_VARIANT_1] for component with original name [TAJB476K10RNJ]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+        Warning : P-CAD Port [ГОДЕН/НЕГОДЕН] will be replaced by a net label at location [7578.725mil : 9350.375mil]
+        Warning : P-CAD Port [СТАРТ] will be replaced by a net label at location [7972.425mil : 11811mil]
+        Warning : P-CAD Port [ИЗМЕРЕНИЕ] will be replaced by a net label at location [7874mil : 11417.3mil]
+        Warning : P-CAD Port [GND] will be replaced by a net label at location [11712.575mil : 6988.175mil]
+        Warning : P-CAD Port [WRONG] will be replaced by a net label at location [11712.575mil : 9350.375mil]
+        Warning : P-CAD Port [START] will be replaced by a net label at location [11712.575mil : 11811mil]
+        Warning : P-CAD Port [OT_MENS] will be replaced by a net label at location [11712.575mil : 11417.3mil]
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

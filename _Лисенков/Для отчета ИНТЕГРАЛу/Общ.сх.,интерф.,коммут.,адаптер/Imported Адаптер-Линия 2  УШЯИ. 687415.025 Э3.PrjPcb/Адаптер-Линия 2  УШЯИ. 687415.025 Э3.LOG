@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : јдаптер-Ћини€ 2  ”Ўя». 687415.025 Ё3.PrjPcb
+
+Section : \\Lisenkov\обмен\ƒл€ отчета »Ќ“≈√–јЋу\ќбщ.сх.,интерф.,коммут.,адаптер\јдаптер-Ћини€ 2  ”Ўя». 687415.025 Ё3.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 189674
+        Warning - 1 : Skipping Token defaultPinDes On Line 189690
+        Warning - 1 : Skipping Token gridDfns On Line 189803
+        Warning - 1 : Skipping Token refPointSize On Line 189828
+        Warning - 1 : Skipping Token infoPointSize On Line 189829
+        Warning - 1 : Skipping Token junctionSize On Line 189830
+        Warning - 1 : Skipping Token refPointSizePrint On Line 189831
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 189832
+        Warning - 1 : Skipping Token junctionSizePrint On Line 189833
+        Warning - 1 : Skipping Token PrintRegion On Line 190100
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 190104
+        Warning - 1 : Skipping Token ecoState On Line 190119
+        Warning - 1 : Skipping Token currentTextStyle On Line 190120
+        Warning - 1 : Skipping Token reportSettings On Line 190123
+    EndSection
+
+    Section : Generating SCH Library - јдаптер-Ћини€ 2  ”Ўя». 687415.025 Ё3.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
