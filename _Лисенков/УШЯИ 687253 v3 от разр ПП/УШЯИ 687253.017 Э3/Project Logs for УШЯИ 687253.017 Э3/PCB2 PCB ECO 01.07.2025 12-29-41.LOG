@@ -1,0 +1,537 @@
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 1206
+Add Component: Footprint Not Found CAP: 2220
+Add Component: Footprint Not Found CAP: 2220
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 2220
+Add Component: Footprint Not Found CAP: 2220
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 1206
+Add Component: Footprint Not Found CAP: 1206
+Added Component: Designator=C38(CAP TH ALUM ELEC D5.00mm S2.00mm H11.00mm)
+Add component (AddParameter): Name = "Value"; Value = "4,7 мкФ"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAP TH ALUM ELEC D5.00mm S2.00mm H11.00mm)
+Add component (AddParameter): Name = "Value"; Value = "4,7 мкФ"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAP TH ALUM ELEC D5.00mm S2.00mm H11.00mm)
+Add component (AddParameter): Name = "Value"; Value = "4,7 мкФ"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAP TH ALUM ELEC D13.00mm S5.00mm H26.50mm)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAP TH ALUM ELEC D13.00mm S5.00mm H26.50mm)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found CAP: 1206
+Add Component: Footprint Not Found CAP: 1206
+Add Component: Footprint Not Found CAP: 0805
+Add Component: Footprint Not Found 8-SOIC
+Added Component: Designator=DA2(16-SOIC W)
+Added Component: Designator=DA3(16-SOIC W)
+Add Component: Footprint Not Found 8-SOIC
+Added Component: Designator=DA5(16-SOIC W)
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Added Component: Designator=DA10(10-MSOP)
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 16-SOIC
+Added Component: Designator=DA15(7-DDPAC)
+Added Component: Designator=DA16(7-DDPAC)
+Add Component: Footprint Not Found 16-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 8-SOIC
+Add Component: Footprint Not Found 14-soic
+Add Component: Footprint Not Found 14-SOIC
+Add Component: Footprint Not Found 14-soic
+Added Component: Designator=K1(8-DIP)
+Added Component: Designator=K2(8-DIP)
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Added Component: Designator=R28(С2-33Н-0,125АИ (070.04.0501.08.00))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диапазон значений номинальных сопротивлений"; Value = "от 1 Ом до 3,01 МОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категории качества"; Value = "«ОТК»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальная мощность рассеяния"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ряд сопротивлений"; Value = "Е24, Е96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "ОЖО.467.173 ТУ"; VariantName = "[No Variations]"
+Added Component: Designator=R29(С2-33Н-0,125АИ (070.04.0501.08.00))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диапазон значений номинальных сопротивлений"; Value = "от 1 Ом до 3,01 МОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категории качества"; Value = "«ОТК»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальная мощность рассеяния"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ряд сопротивлений"; Value = "Е24, Е96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "ОЖО.467.173 ТУ"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 2512
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Added Component: Designator=R64(С2-33Н-0,125АИ (070.04.0501.08.00))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диапазон значений номинальных сопротивлений"; Value = "от 1 Ом до 3,01 МОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категории качества"; Value = "«ОТК»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальная мощность рассеяния"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ряд сопротивлений"; Value = "Е24, Е96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "ОЖО.467.173 ТУ"; VariantName = "[No Variations]"
+Added Component: Designator=R65(С2-33Н-0,125АИ (070.04.0501.08.00))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диапазон значений номинальных сопротивлений"; Value = "от 1 Ом до 3,01 МОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категории качества"; Value = "«ОТК»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальная мощность рассеяния"; Value = "0,125 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ряд сопротивлений"; Value = "Е24, Е96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "ОЖО.467.173 ТУ"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 1206
+Add Component: Footprint Not Found 1206
+Added Component: Designator=R68(HS15)
+Add component (AddParameter): Name = "Value"; Value = "4,7 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диапазон значений номинальных сопротивлений"; Value = "от 0,1 Ом до 3,01 МОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категории качества"; Value = "«ОТК»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальная мощность рассеяния"; Value = "0,25 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ряд сопротивлений"; Value = "Е24, Е96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "ОЖО.467.173 ТУ"; VariantName = "[No Variations]"
+Added Component: Designator=R69(HS15)
+Add component (AddParameter): Name = "Value"; Value = "4,7 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Диапазон значений номинальных сопротивлений"; Value = "от 0,1 Ом до 3,01 МОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Категории качества"; Value = "«ОТК»"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальная мощность рассеяния"; Value = "0,25 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ряд сопротивлений"; Value = "Е24, Е96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТУ"; Value = "ОЖО.467.173 ТУ"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(BOUR-3362P)
+Added Component: Designator=RP2(PVG3A)
+Added Component: Designator=RP3(PVG3A)
+Added Component: Designator=VD1(DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD4(DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD5(SOT-23-3)
+Added Component: Designator=VD6(SOT-23-3)
+Added Component: Designator=VD7(DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD8(SOT-23-3)
+Added Component: Designator=VD9(SOT-23-3)
+Added Component: Designator=VD10(WOM)
+Added Component: Designator=VD11(GSIB-5S)
+Added Component: Designator=VD12(DIOD: DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD13(DIOD: DO-35)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23-6)
+Added Component: Designator=VT2(SOT-23-6)
+Added Component: Designator=VT3(TO-220-FP)
+Added Component: Designator=VT4(TO-220-FP)
+Add Component: Footprint Not Found 280370-2
+Add Component: Footprint Not Found 280373-2
+Add Component: Footprint Not Found 280372-2
+Added Component: Designator=КТ1(LEPESTOK7750224)
+Added Component: Designator=КТ2(LEPESTOK7750224)
+Added Component: Designator=КТ3(LEPESTOK7750224)
+Added Component: Designator=КТ4(LEPESTOK7750224)
+Added Component: Designator=КТ5(LEPESTOK7750224)
+Added Component: Designator=КТ6(LEPESTOK7750224)
+Added Net: Name=+3.3n
+Added Pin To Net: NetName=+5n Pin=DA2-16
+Added Pin To Net: NetName=+5n Pin=DA3-16
+Added Pin To Net: NetName=+5n Pin=DA5-16
+Added Net: Name=+5n
+Added Pin To Net: NetName=+5 Pin=C39-1
+Added Pin To Net: NetName=+5 Pin=DA2-1
+Added Pin To Net: NetName=+5 Pin=DA3-1
+Added Pin To Net: NetName=+5 Pin=DA5-1
+Added Pin To Net: NetName=+5 Pin=DA10-8
+Added Net: Name=+5
+Added Pin To Net: NetName=+15 Pin=C38-1
+Added Pin To Net: NetName=+15 Pin=DA16-3
+Added Net: Name=+15
+Added Pin To Net: NetName=+70 Pin=R68-2
+Added Pin To Net: NetName=+70 Pin=R69-2
+Added Pin To Net: NetName=+70 Pin=VT1-5
+Added Net: Name=+70
+Added Pin To Net: NetName=+100 Pin=C41-2
+Added Pin To Net: NetName=+100 Pin=DA15-3
+Added Net: Name=+100
+Added Pin To Net: NetName=-15 Pin=C40-2
+Added Pin To Net: NetName=-15 Pin=DA15-4
+Added Net: Name=-15
+Added Pin To Net: NetName=-70 Pin=VD8-1
+Added Net: Name=-70
+Added Pin To Net: NetName=-100 Pin=C42-1
+Added Pin To Net: NetName=-100 Pin=DA16-4
+Added Net: Name=-100
+Added Pin To Net: NetName=50E+ Pin=K1-3
+Added Net: Name=50E+
+Added Pin To Net: NetName=50E- Pin=K2-3
+Added Net: Name=50E-
+Added Net: Name=50En+
+Added Net: Name=50En-
+Added Pin To Net: NetName=70+ Pin=VD11-1
+Added Net: Name=70+
+Added Pin To Net: NetName=70- Pin=VD11-2
+Added Net: Name=70-
+Added Pin To Net: NetName=CLK_DA2 Pin=DA3-3
+Added Pin To Net: NetName=CLK_DA2 Pin=DA10-4
+Added Net: Name=CLK_DA2
+Added Pin To Net: NetName=DAT_DA2 Pin=DA2-3
+Added Pin To Net: NetName=DAT_DA2 Pin=DA10-5
+Added Net: Name=DAT_DA2
+Added Net: Name=EIMPn
+Added Net: Name=EIMP
+Added Pin To Net: NetName=ENB_DA2 Pin=DA10-6
+Added Net: Name=ENB_DA2
+Added Pin To Net: NetName=GNDN Pin=DA2-9
+Added Pin To Net: NetName=GNDN Pin=DA3-9
+Added Pin To Net: NetName=GNDN Pin=DA5-9
+Added Net: Name=GNDN
+Added Pin To Net: NetName=GNDR Pin=DA2-4
+Added Pin To Net: NetName=GNDR Pin=DA2-5
+Added Pin To Net: NetName=GNDR Pin=DA2-8
+Added Pin To Net: NetName=GNDR Pin=DA3-4
+Added Pin To Net: NetName=GNDR Pin=DA3-5
+Added Pin To Net: NetName=GNDR Pin=DA3-8
+Added Pin To Net: NetName=GNDR Pin=DA5-4
+Added Pin To Net: NetName=GNDR Pin=DA5-5
+Added Pin To Net: NetName=GNDR Pin=DA5-8
+Added Net: Name=GNDR
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=DA10-2
+Added Pin To Net: NetName=GND Pin=DA10-3
+Added Pin To Net: NetName=GND Pin=КТ2-1
+Added Pin To Net: NetName=GND Pin=КТ5-1
+Added Pin To Net: NetName=GND Pin=КТ6-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IMPc Pin=DA5-3
+Added Net: Name=IMPc
+Added Net: Name=LIMITn
+Added Net: Name=LIMIT
+Added Net: Name=LM+
+Added Net: Name=LM-
+Added Pin To Net: NetName=Net2 Pin=VD6-1
+Added Pin To Net: NetName=Net2 Pin=VD7-1
+Added Pin To Net: NetName=Net2 Pin=VD9-3
+Added Pin To Net: NetName=Net2 Pin=VT1-4
+Added Net: Name=Net2
+Added Pin To Net: NetName=Net3 Pin=VD9-1
+Added Net: Name=Net3
+Added Net: Name=Net5
+Added Pin To Net: NetName=Net6 Pin=VD8-3
+Added Pin To Net: NetName=Net6 Pin=VT2-4
+Added Net: Name=Net6
+Added Pin To Net: NetName=Net8 Pin=VD10-1
+Added Net: Name=Net8
+Added Pin To Net: NetName=Net12 Pin=VD10-2
+Added Net: Name=Net12
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=DA2-15
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_1 Pin=DA3-15
+Added Net: Name=NetC4_1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=DA5-15
+Added Net: Name=NetC6_1
+Added Net: Name=NetC7_2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=DA2-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=DA3-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=DA5-2
+Added Net: Name=NetC11_1
+Added Net: Name=NetC12_2
+Added Net: Name=NetC14_2
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_2 Pin=DA10-9
+Added Net: Name=NetC16_2
+Added Net: Name=NetC17_2
+Added Net: Name=NetC18_2
+Added Net: Name=NetC19_2
+Added Net: Name=NetC20_2
+Added Net: Name=NetC21_1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_2 Pin=DA15-2
+Added Pin To Net: NetName=NetC22_2 Pin=VD1-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC23_2 Pin=DA16-2
+Added Pin To Net: NetName=NetC23_2 Pin=VD2-1
+Added Pin To Net: NetName=NetC23_2 Pin=VD4-2
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC24_1 Pin=DA15-1
+Added Pin To Net: NetName=NetC24_1 Pin=VD1-2
+Added Pin To Net: NetName=NetC24_1 Pin=VD3-1
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC25_1 Pin=DA16-1
+Added Pin To Net: NetName=NetC25_1 Pin=VD4-1
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC27_1 Pin=DA15-7
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC27_2 Pin=DA15-6
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetC28_1 Pin=DA16-7
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC28_2 Pin=DA16-6
+Added Net: Name=NetC28_2
+Added Net: Name=NetC34_2
+Added Net: Name=NetC35_2
+Added Net: Name=NetC36_1
+Added Net: Name=NetC37_1
+Added Net: Name=NetC52_1
+Added Net: Name=NetC52_2
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=NetDA2_7 Pin=DA2-7
+Added Net: Name=NetDA2_7
+Added Pin To Net: NetName=NetDA2_12 Pin=DA2-12
+Added Net: Name=NetDA2_12
+Added Pin To Net: NetName=NetDA2_13 Pin=DA2-13
+Added Net: Name=NetDA2_13
+Added Pin To Net: NetName=NetDA3_7 Pin=DA3-7
+Added Net: Name=NetDA3_7
+Added Pin To Net: NetName=NetDA3_12 Pin=DA3-12
+Added Net: Name=NetDA3_12
+Added Pin To Net: NetName=NetDA3_13 Pin=DA3-13
+Added Net: Name=NetDA3_13
+Added Net: Name=NetDA4_2
+Added Pin To Net: NetName=NetDA5_7 Pin=DA5-7
+Added Net: Name=NetDA5_7
+Added Pin To Net: NetName=NetDA5_12 Pin=DA5-12
+Added Net: Name=NetDA5_12
+Added Pin To Net: NetName=NetDA5_13 Pin=DA5-13
+Added Net: Name=NetDA5_13
+Added Pin To Net: NetName=NetDA10_1 Pin=DA10-1
+Added Net: Name=NetDA10_1
+Added Pin To Net: NetName=NetDA10_10 Pin=DA10-10
+Added Net: Name=NetDA10_10
+Added Pin To Net: NetName=NetDA11_1 Pin=RP1-1
+Added Pin To Net: NetName=NetDA11_1 Pin=RP1-2
+Added Net: Name=NetDA11_1
+Added Net: Name=NetDA11_2
+Added Net: Name=NetDA11_6
+Added Net: Name=NetDA11_7
+Added Net: Name=NetDA14_1
+Added Net: Name=NetDA14_8
+Added Net: Name=NetDA14_11
+Added Pin To Net: NetName=NetDA15_5 Pin=DA15-5
+Added Net: Name=NetDA15_5
+Added Pin To Net: NetName=NetDA16_5 Pin=DA16-5
+Added Net: Name=NetDA16_5
+Added Net: Name=NetDA18_1
+Added Net: Name=NetDA18_6
+Added Pin To Net: NetName=NetDA18_7 Pin=R28-2
+Added Net: Name=NetDA18_7
+Added Net: Name=NetDA19_1
+Added Net: Name=NetDA19_6
+Added Pin To Net: NetName=NetDA19_7 Pin=R29-2
+Added Net: Name=NetDA19_7
+Added Net: Name=NetDA20_1
+Added Net: Name=NetDA20_3
+Added Net: Name=NetDA20_6
+Added Net: Name=NetDA20_7
+Added Net: Name=NetDA21_3
+Added Net: Name=NetDD1_3
+Added Net: Name=NetDD1_6
+Added Net: Name=NetDD2_1
+Added Net: Name=NetDD3_3
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Net: Name=NetK1_2
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=NetK1_5 Pin=VD12-2
+Added Net: Name=NetK1_5
+Added Pin To Net: NetName=NetK1_8 Pin=K1-8
+Added Net: Name=NetK1_8
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=NetK2_5 Pin=K2-5
+Added Net: Name=NetK2_5
+Added Pin To Net: NetName=NetK2_8 Pin=K2-8
+Added Net: Name=NetK2_8
+Added Pin To Net: NetName=NetR1_2 Pin=КТ1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR10_2 Pin=RP1-3
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR14_1 Pin=RP2-3
+Added Pin To Net: NetName=NetR14_1 Pin=RP3-3
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR16_1 Pin=RP2-1
+Added Pin To Net: NetName=NetR16_1 Pin=RP3-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR21_1 Pin=RP2-2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=RP3-2
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR24_2 Pin=R28-1
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_2 Pin=R29-1
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR30_2 Pin=VT1-3
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=NetR31_2 Pin=VD5-1
+Added Pin To Net: NetName=NetR31_2 Pin=VT2-3
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR36_2 Pin=VT2-5
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR37_2 Pin=VD7-2
+Added Net: Name=NetR37_2
+Added Net: Name=NetR44_2
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=NetR46_1 Pin=VD10-4
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR47_1 Pin=VD10-3
+Added Net: Name=NetR47_1
+Added Pin To Net: NetName=NetR61_2 Pin=VT3-1
+Added Net: Name=NetR61_2
+Added Pin To Net: NetName=NetR62_1 Pin=R65-1
+Added Pin To Net: NetName=NetR62_1 Pin=VD11-3
+Added Pin To Net: NetName=NetR62_1 Pin=VD12-1
+Added Pin To Net: NetName=NetR62_1 Pin=VT4-3
+Added Net: Name=NetR62_1
+Added Pin To Net: NetName=NetR62_2 Pin=VT4-1
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetR64_1 Pin=VD11-4
+Added Pin To Net: NetName=NetR64_1 Pin=VT3-2
+Added Net: Name=NetR64_1
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetR64_2 Pin=R68-1
+Added Pin To Net: NetName=NetR64_2 Pin=VD13-1
+Added Pin To Net: NetName=NetR64_2 Pin=VT3-3
+Added Net: Name=NetR64_2
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetR65_2 Pin=R69-1
+Added Pin To Net: NetName=NetR65_2 Pin=VT4-2
+Added Net: Name=NetR65_2
+Added Net: Name=OVLI,2n
+Added Net: Name=OVLI,2
+Added Net: Name=S+
+Added Net: Name=S-
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Class: Name=Sheet3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25
+Added Rule: Name=Schematic Supply Nets_26
+Added Rule: Name=Schematic Supply Nets_27
+Added Rule: Name=Schematic Supply Nets_28
+Added Rule: Name=Schematic Supply Nets_29
+Added Rule: Name=Schematic Supply Nets_30
+Added Rule: Name=Schematic Supply Nets_31

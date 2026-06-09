@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+E:\неизвестные платы\МНИПИ\Источник 200 А\УШЯИ 687253.018\УШЯИ 687253.018\Project Outputs for УШЯИ 687253.018 Э3\Pick Place for УШЯИ 687253.018.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28.07.25
+Time:       14:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator   Comment                  Layer    Footprint                        Center-X(mm) Center-Y(mm) Rotation Description                                                                                    
+XP1          280373-2                 TopLayer 280373-2                         3.4000mm     82.8300mm    270      Connector                                                                                      
+R6           OAR3-R005FI              TopLayer OAR3                             26.8200mm    47.0000mm    0        ""                                                                                             
+R5           OAR3-R005FI              TopLayer OAR3                             28.8200mm    78.5000mm    180      ""                                                                                             
+R4           OAR3-R005FI              TopLayer OAR3                             26.8200mm    42.7000mm    0        ""                                                                                             
+R3           OAR3-R005FI              TopLayer OAR3                             28.8200mm    74.7000mm    180      ""                                                                                             
+R2           "С2-33Н-0,5-24 кОм +-5%" TopLayer С2-33Н-0,5АИ_(070.04.0601.14.00) 28.3000mm    38.0000mm    180      "Резисторы постоянные непроволочные общего применения С2-33Н АИ, производитель "АО"НПО"ЭРКОН"" 
+R1           "С2-33Н-0,5-24 кОм +-5%" TopLayer С2-33Н-0,5АИ_(070.04.0601.14.00) 29.0000mm    82.7000mm    0        "Резисторы постоянные непроволочные общего применения С2-33Н АИ, производитель "АО"НПО"ЭРКОН"" 
+C4           B43640A2228M000          TopLayer B43640A2228M000                  27.0000mm    20.0000mm    90       "Capacitor Polarised, 2200uF, 30x55"                                                           
+C3           B43640A2228M000          TopLayer B43640A2228M000                  60.0000mm    87.0000mm    0        "Capacitor Polarised, 2200uF, 30x55"                                                           
+C2           B43640A2228M000          TopLayer B43640A2228M000                  60.0000mm    30.0000mm    90       "Capacitor Polarised, 2200uF, 30x55"                                                           
+C1           B43640A2228M000          TopLayer B43640A2228M000                  27.0000mm    102.0000mm   90       "Capacitor Polarised, 2200uF, 30x55"                                                           
+Designator19 Comment                  TopLayer Screw_M3                         5.0000mm     5.0000mm     180      ""                                                                                             
+Designator20 Comment                  TopLayer Screw_M3                         73.0000mm    5.0000mm     180      ""                                                                                             
+Designator21 Comment                  TopLayer Screw_M3                         73.0000mm    61.0000mm    180      ""                                                                                             
+Designator22 Comment                  TopLayer Screw_M3                         73.0000mm    117.0000mm   180      ""                                                                                             
+Designator23 Comment                  TopLayer Screw_M3                         5.0000mm     117.0000mm   180      ""                                                                                             
+Designator24 Comment                  TopLayer Screw_M3                         5.0000mm     61.0000mm    180      ""                                                                                             
