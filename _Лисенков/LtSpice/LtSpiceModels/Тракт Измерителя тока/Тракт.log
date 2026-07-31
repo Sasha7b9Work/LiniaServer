@@ -1,0 +1,217 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\Тракт.net
+Start Time: Tue Dec 23 16:13:08 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+Gmin = 1.15292
+Gmin = 0.123794
+Gmin = 0.0132923
+Gmin = 0.00142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 0.000575385
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 0.000585937
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+Gmin = 0.000587222
+vernier = 0.000488281
+vernier = 0.000651042
+Gmin = 0.000586625
+vernier = 0.000868055
+vernier = 0.00115741
+Gmin = 0.000585332
+vernier = 0.00154321
+Gmin = 0.000583304
+vernier = 0.00205761
+vernier = 0.00274348
+Gmin = 0.000579914
+vernier = 0.00365797
+vernier = 0.0048773
+Gmin = 0.00057455
+vernier = 0.00650306
+Gmin = 0.00056621
+vernier = 0.00867074
+vernier = 0.011561
+Gmin = 0.000552487
+vernier = 0.0154146
+vernier = 0.0205529
+Gmin = 0.000531302
+vernier = 0.0274038
+Gmin = 0.000499628
+vernier = 0.0365384
+vernier = 0.0487178
+Gmin = 0.000450736
+vernier = 0.0649571
+vernier = 0.0866095
+Gmin = 0.00038267
+vernier = 0.115479
+Gmin = 0.000296108
+vernier = 0.153972
+vernier = 0.205296
+Gmin = 0.000193233
+vernier = 0.273728
+vernier = 0.364971
+Gmin = 9.86925e-05
+vernier = 0.486628
+Gmin = 3.49493e-05
+vernier = 0.648837
+vernier = 0.865116
+vernier = 0.432558
+Gmin = 9.58662e-06
+vernier = 0.216279
+vernier = 0.10814
+vernier = 0.0540698
+vernier = 0.0270349
+vernier = 0.0135174
+vernier = 0.00675872
+vernier = 0.00337936
+vernier = 0.00168968
+vernier = 0.00084484
+vernier = 0.00042242
+Gmin = 9.58662e-06
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.118371%
+Source Step = 0.236742%
+Source Step = 0.355114%
+Source Step = 0.473485%
+Source Step = 0.591856%
+vernier = 0.00585938
+Source Step = 0.73982%
+Source Step = 0.917377%
+Source Step = 1.09493%
+Source Step = 1.27249%
+Source Step = 1.45005%
+vernier = 0.00878906
+Source Step = 1.66312%
+Source Step = 1.92945%
+Source Step = 2.19579%
+Source Step = 2.46212%
+Source Step = 2.72846%
+vernier = 0.0131836
+Source Step = 3.03474%
+Source Step = 3.43424%
+Source Step = 3.83375%
+Source Step = 4.23325%
+Source Step = 4.63275%
+vernier = 0.0197754
+Source Step = 5.07221%
+Source Step = 5.67146%
+Source Step = 6.27071%
+Source Step = 6.86997%
+Source Step = 7.46922%
+vernier = 0.0296631
+Source Step = 8.09844%
+Source Step = 8.84002%
+vernier = 0.00185394
+Source Step = 8.87373%
+Source Step = 8.92991%
+Source Step = 8.98609%
+Source Step = 9.04227%
+Source Step = 9.09845%
+vernier = 0.00278091
+Source Step = 9.16305%
+Source Step = 9.24732%
+Source Step = 9.33159%
+Source Step = 9.41586%
+Source Step = 9.50013%
+vernier = 0.00417137
+Source Step = 9.59283%
+Source Step = 9.71924%
+Source Step = 9.84564%
+Source Step = 9.97205%
+Source Step = 10.0985%
+vernier = 0.00625706
+Source Step = 10.2312%
+Source Step = 10.4208%
+Source Step = 10.6104%
+Source Step = 10.8%
+Source Step = 10.9896%
+Source Step = 11.1792%
+vernier = 0.00938559
+Source Step = 11.4636%
+Source Step = 11.748%
+Source Step = 12.0325%
+Source Step = 12.3169%
+Source Step = 12.6013%
+vernier = 0.0140784
+Source Step = 13.0137%
+Source Step = 13.4403%
+Source Step = 13.8669%
+Source Step = 14.2935%
+Source Step = 14.7201%
+vernier = 0.0211176
+Source Step = 15.3174%
+Source Step = 15.9573%
+Source Step = 16.5973%
+Source Step = 17.2372%
+Source Step = 17.8771%
+vernier = 0.0316764
+Source Step = 18.741%
+Source Step = 19.7009%
+Source Step = 20.6608%
+Source Step = 21.6207%
+Source Step = 22.5806%
+vernier = 0.0475145
+Source Step = 23.8284%
+Source Step = 25.2683%
+Source Step = 26.7081%
+Source Step = 28.1479%
+Source Step = 29.5878%
+vernier = 0.0712718
+Source Step = 31.3876%
+Source Step = 33.5473%
+Source Step = 35.7071%
+Source Step = 37.8668%
+Source Step = 40.0266%
+vernier = 0.106908
+Source Step = 42.6183%
+Source Step = 45.8579%
+Source Step = 49.0975%
+Source Step = 52.3371%
+Source Step = 55.5768%
+vernier = 0.160362
+Source Step = 59.3023%
+Source Step = 64.1618%
+Source Step = 69.0212%
+Source Step = 73.8807%
+Source Step = 78.7401%
+vernier = 0.240542
+Source Step = 84.0855%
+Source Step = 91.3746%
+Source Step = 91.3917%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 96.9815%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 2.09717 s.
+Total elapsed time: 5.447 seconds.
+
+Files loaded:
+D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\Тракт.net
+D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\ada4941.cir
+C:\Users\User\AppData\Local\LTspice\lib\sub\ADI1.lib
+D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\tlv9152.lib
+

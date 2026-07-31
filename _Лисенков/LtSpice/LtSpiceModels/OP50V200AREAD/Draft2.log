@@ -1,0 +1,76 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\Work\Линия\Текущая(\LtSpiceModels\OP50V200AREAD\Draft2.net
+Start Time: Thu Jul 23 12:00:49 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+D:\Work\Линия\Текущая(\LtSpiceModels\OP50V200AREAD\Draft2.net(12): WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton. Increasing period to 0.00010002.
+
+V5 0 N004 PULSE(0 {Uout/10} 5s 10n 10n 100u 0 1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WARNING: Node n013 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.10559
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.04709
+vernier = 0.0078125
+vernier = 0.0104167
+Gmin = 1.02619
+vernier = 0.00520833
+vernier = 0.00694444
+vernier = 0.00347222
+Gmin = 1.02042
+vernier = 0.00462963
+vernier = 0.00231481
+Gmin = 1.01483
+vernier = 0.00308642
+vernier = 0.00154321
+vernier = 0.00205761
+vernier = 0.00102881
+Gmin = 1.01261
+vernier = 0.00137174
+vernier = 0.00068587
+Gmin = 1.01053
+vernier = 0.000914493
+vernier = 0.000457247
+Gmin = 1.00886
+vernier = 0.000609662
+Gmin = 1.00751
+vernier = 0.000812882
+vernier = 0.000406441
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00685
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00603
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 6.07244%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 11.8678 s.
+Total elapsed time: 0.502 seconds.
+
+Files loaded:
+D:\Work\Линия\Текущая(\LtSpiceModels\OP50V200AREAD\Draft2.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\User\AppData\Local\LTspice\lib\sub\ADI.lib
+C:\Users\User\Documents\LTspice\PA340_Berkeley.LIB
+

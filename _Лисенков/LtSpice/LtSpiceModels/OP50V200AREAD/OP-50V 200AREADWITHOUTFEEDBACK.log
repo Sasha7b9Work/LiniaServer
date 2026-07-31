@@ -1,0 +1,64 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\Work\Линия\Текущая(\LtSpiceModels\OP50V200AREAD\OP-50V 200AREADWITHOUTFEEDBACK.net
+Start Time: Mon Jul 27 17:00:07 2026
+Options: reltol=0.01  abstol=1u  vntol=1m
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+abstol = 1e-06
+reltol = 0.01
+volttol = 0.001
+D:\Work\Линия\Текущая(\LtSpiceModels\OP50V200AREAD\OP-50V 200AREADWITHOUTFEEDBACK.net(32): WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton. Increasing period to 0.00010002.
+
+V7 N001 0 PULSE(0 -4 40u 10n 10n 100u 0 1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Instance "u2:M222": Length shorter than recommended for a level 1 MOSFET.
+Instance "u2:M111": Length shorter than recommended for a level 1 MOSFET.
+Instance "u3:M222": Length shorter than recommended for a level 1 MOSFET.
+Instance "u3:M111": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 1.5325e-05
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+.step uout=0.3
+.step uout=0.5
+.step uout=1
+.step uout=2
+Total elapsed time: 0.989 seconds.
+
+Files loaded:
+D:\Work\Линия\Текущая(\LtSpiceModels\OP50V200AREAD\OP-50V 200AREADWITHOUTFEEDBACK.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\User\Documents\LTspice\PA340_Berkeley.LIB
+C:\Users\User\AppData\Local\LTspice\lib\sub\IXFN210N30P3.lib
+

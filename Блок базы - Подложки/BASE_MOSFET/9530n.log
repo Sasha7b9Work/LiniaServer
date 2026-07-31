@@ -1,0 +1,4 @@
+Stray ".ends" card: .ends 9530n
+Circuit: .SUBCKT 9530n 1 2 3
+
+Fatal Error: No analysis request found.

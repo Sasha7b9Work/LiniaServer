@@ -1,0 +1,16 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\Work\Emmiter, Photodiode\Draft1.net
+Start Time: Wed Nov 19 11:33:17 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.098 seconds.
+
+Files loaded:
+D:\Work\Emmiter, Photodiode\Draft1.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+

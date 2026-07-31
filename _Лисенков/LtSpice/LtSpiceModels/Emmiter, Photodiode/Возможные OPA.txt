@@ -1,0 +1,5 @@
+OPA858IDS   29рублей Transimpedance Amplifiers 5.5 GHz Gain Bandwidth Product, Decompensated Transimpedance Amplifier with FET Input 8-WSON -40 to 125
+LMH6629SD   29рублей OP-AMP, SINGLE, 900MHZ, 1.6KV/US, WSON-8; Nbre d'amplificateurs:1 amplificateur; Bande passante:900MHz; Vitesse de balayage:1.6kV/Вµs; Gamme de tension d'alimentation:2.7V Г 5.5V; Type de boГ®tier d'amplificateur:WSON; Nom
+OPA856IDSGR 29рублей Трансимпедансные усилители 1.1-GHz unity-gain bandwidth, 0.9 nV/vHz, bipolar input amplifier
+OPA855      13рублей 3 dB Bandwidth:	2.5 GHz 0.98 nV/sqrt Hz GBP - Gain Bandwidth Product:	8 GHz
+OPA859IDSGR 32рубля  Операционные усилители 1.8 GHz Unity-Gain Bandwidth, 3.3 nV/square root Hz, FET Input Amplifier 8-WSON -40 to 125

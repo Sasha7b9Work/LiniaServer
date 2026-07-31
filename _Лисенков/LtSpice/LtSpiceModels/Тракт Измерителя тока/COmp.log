@@ -1,0 +1,82 @@
+LTspice 24.1.9 for Windows
+Circuit: D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\COmp.net
+Start Time: Wed Jan 14 13:47:54 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+Gmin = 1.15292
+Gmin = 0.123794
+Gmin = 0.0132923
+Gmin = 0.00142725
+vernier = 0.5
+Gmin = 0.000239452
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 0.000200326
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+Gmin = 0.000199741
+vernier = 0.00260417
+Gmin = 0.000198606
+vernier = 0.00347222
+vernier = 0.00462963
+Gmin = 0.000196763
+vernier = 0.00617283
+vernier = 0.00823044
+Gmin = 0.000193876
+vernier = 0.0109739
+Gmin = 0.000189283
+vernier = 0.0146319
+vernier = 0.0195092
+Gmin = 0.000181999
+vernier = 0.0260122
+vernier = 0.034683
+Gmin = 0.000171037
+vernier = 0.046244
+Gmin = 0.000154661
+vernier = 0.0616586
+vernier = 0.0822114
+Gmin = 0.000131227
+vernier = 0.109615
+vernier = 0.146154
+Gmin = 0.000101271
+vernier = 0.194871
+Gmin = 6.67212e-05
+vernier = 0.259828
+vernier = 0.346438
+Gmin = 3.39932e-05
+vernier = 0.461917
+vernier = 0.615889
+Gmin = 1.19181e-05
+vernier = 0.821185
+Gmin = 2.28961e-06
+vernier = 1
+Gmin = 2.54963e-07
+Gmin = 2.73764e-08
+Gmin = 2.93952e-09
+Gmin = 3.15629e-10
+Gmin = 3.38904e-11
+Gmin = 3.63895e-12
+Gmin = 3.90729e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.763 seconds.
+
+Files loaded:
+D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\COmp.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\User\Documents\LTspice\tlv1841.lib
+D:\Work\Линия\Текущая(\LtSpiceModels\Тракт Измерителя тока\tlv9152.lib
+

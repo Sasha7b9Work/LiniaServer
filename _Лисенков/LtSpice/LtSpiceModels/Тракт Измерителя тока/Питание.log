@@ -1,0 +1,897 @@
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(35): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(36): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc3e7902f4d1721967
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(37): Expected node name here.
+ab135741b2e827a01f625d87cb26a35b4e7d9ca30829d6d285adfc654f0e0d5b8fe1aec0698a9b90870d2c9715a687987ece07edc320c7555d423c0de2fdc972
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(37): Expected directive or device instantiation here.
+ab135741b2e827a01f625d87cb26a35b4e7d9ca30829d6d285adfc654f0e0d5b8fe1aec0698a9b90870d2c9715a687987ece07edc320c7555d423c0de2fdc972
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(38): Expected directive or device instantiation here.
+cd080d6014ef79b45b21fcbb5127d82b1a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad624924a9e730ad9768b10a0a1a8a2b95c8e96988b2add10388
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(39): Expected directive or device instantiation here.
+8073f4534314666725fe7e7c761c4c92dc0745283a910a9d9e8856df7bc2a6ed61e298ae229694c5824af20461d9d8554106da4e4de3f1a39507e7c6c6c76876
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(40): Expected directive or device instantiation here.
+c6501597af0c03cbf6ac43e363a1109551e1f615050d18dff34ec68407032d55f46b8333fa2d4573644126c9831a96bdb189ca3a4e25f01f3484933fa0c9fd6e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(41): Expected directive or device instantiation here.
+c6501597af0c03cb8548215614db6af351e1f615050d18dff34ec68407032d5549697cc94175490f644126c9831a96bdb189ca3a4e25f01f3484933fa0c9fd6e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(42): Expected node name here.
+ab135741b2e827a0789bb85ef7fe9f234e7d9ca30829d6d26412ff14cb7de5e08492e52ca9907137be7b72e16c425c0c79e3fafb95be1f52dc5d890726f92a60
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(42): Expected directive or device instantiation here.
+ab135741b2e827a0789bb85ef7fe9f234e7d9ca30829d6d26412ff14cb7de5e08492e52ca9907137be7b72e16c425c0c79e3fafb95be1f52dc5d890726f92a60
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(43): Expected node name here.
+bf1ee911780421dd6aa5125b191ee5e3b054b5d396dfd6c3cf9c074e0ec99d31331b54061e46c7d287de24f62ee4c4f03242ee199d15672a5ee70697e51996b7
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(43): Expected directive or device instantiation here.
+bf1ee911780421dd6aa5125b191ee5e3b054b5d396dfd6c3cf9c074e0ec99d31331b54061e46c7d287de24f62ee4c4f03242ee199d15672a5ee70697e51996b7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(44): Expected directive or device instantiation here.
+48031809158c1c39332d0871becd6440682b8f2e520ffd47e73070a45f1d549c37a5f6671c8d6e19803b3f273130aedc50d9488da7f72d691765c05d83f14ebf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(45): Expected node name here.
+ab135741b2e827a05f51ba6f8e7829dc4e7d9ca30829d6d2763d73e9d3a8d5e06146d6a0c4941a25f5b8a1a626179c9bfcdff44f046d00710181485815ae9c64
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(45): Expected directive or device instantiation here.
+ab135741b2e827a05f51ba6f8e7829dc4e7d9ca30829d6d2763d73e9d3a8d5e06146d6a0c4941a25f5b8a1a626179c9bfcdff44f046d00710181485815ae9c64
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(46): Expected directive or device instantiation here.
+60ce78456749ac2766f9df056a16ed55f6c57157062f5a99b189ca3a4e25f01faee2d84ab520bdbc80ffcbc3bb55b6cfd69fe97d87d285ddef507a72dfa8824e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(47): Expected node name here.
+aa3996e99201019a1a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad624924a9e730ad9768b10a0a1a8a2b95c88cf57259f8798a3a7392fc53d2bfa77f
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(47): Expected directive or device instantiation here.
+aa3996e99201019a1a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad624924a9e730ad9768b10a0a1a8a2b95c88cf57259f8798a3a7392fc53d2bfa77f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(48): Expected directive or device instantiation here.
+522452f7fde0d87b7c7e0323fb6cb06b49b0b3dd540e22583d1a96345bca769f05074bef90988cd3e73070a45f1d549c37a5f6671c8d6e19c761279beb5f60e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(49): Expected directive or device instantiation here.
+6dcfb6d5e8929f04706b807646b8037163d5b3d1eb7a26368afa1b7880a1cb055a5ab70989cde280b5d921a6de38d0779bfb7b0bed056835c1dc47dfe7ee6905
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(50): Expected node name here.
+a3ce589fda26bc39706b807646b80371d93b309cf35a8da07ad01f6c26ba5a6ad1c69418dcc24b519e8856df7bc2a6ed61e298ae229694c5e84b3d5fd0105a06
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(50): Expected directive or device instantiation here.
+a3ce589fda26bc39706b807646b80371d93b309cf35a8da07ad01f6c26ba5a6ad1c69418dcc24b519e8856df7bc2a6ed61e298ae229694c5e84b3d5fd0105a06
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(51): Expected node name here.
+b67df0d3ab862a12706b807646b8037186df364799542985f2a44e373c0358e7bf1ee911780421dd6aa5125b191ee5e3b054b5d396dfd6c38063925bd3c8fe01
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(51): Expected directive or device instantiation here.
+b67df0d3ab862a12706b807646b8037186df364799542985f2a44e373c0358e7bf1ee911780421dd6aa5125b191ee5e3b054b5d396dfd6c38063925bd3c8fe01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(52): Expected directive or device instantiation here.
+99849e08200474c301b7f995e31ece5ccf3f926d58a0a36a81dc5fa34f68ae3fa2b6dd1a2c8ca3adec4b067b002b306780ecf5c52b9904e6297f2391fb363970
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(53): Expected node name here.
+f28257b2a3730294706b807646b80371b048aa6f8e960f230eb2d276ffc3636517f79dea6a69f668bf1ee911780421dd6aa5125b191ee5e3f9096803d58bf0b3
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(53): Expected directive or device instantiation here.
+f28257b2a3730294706b807646b80371b048aa6f8e960f230eb2d276ffc3636517f79dea6a69f668bf1ee911780421dd6aa5125b191ee5e3f9096803d58bf0b3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(54): Expected directive or device instantiation here.
+22cc75479b3d980a706b807646b8037186df3647995429853db60e25353de23c644126c9831a96bdb189ca3a4e25f01faee2d84ab520bdbcba3900cba9790722
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(55): Expected directive or device instantiation here.
+1e36f10390632b7b706b807646b8037172d521aeed0f1b801360e5b6a06aa1e21a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad623ea7b45adae96d82
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(56): Expected node name here.
+a5d158a0fc11634f706b807646b80371f76e1180296ec957cd8d5aa71221a2a3a1b6477d10b74a42b5d921a6de38d0779bfb7b0bed056835c1dc47dfe7ee6905
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(56): Expected directive or device instantiation here.
+a5d158a0fc11634f706b807646b80371f76e1180296ec957cd8d5aa71221a2a3a1b6477d10b74a42b5d921a6de38d0779bfb7b0bed056835c1dc47dfe7ee6905
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(57): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(61): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(62): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc3e7902f4d1721967
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(63): Expected directive or device instantiation here.
+2f9e3a467dff98e7706b807646b80371ef07e5d008174b276a1c6d711f7b7e6f80ecf5c52b9904e6db371778564c4238a013c570a775f9290134e723ac1d9fd5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(64): Expected directive or device instantiation here.
+36582e6d87af1dcf706b807646b80371e6bf571035d54014b5d921a6de38d0779bfb7b0bed05683572d45c558d95a747ba0757337dcfe48ac560e1616b8baf8e
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A3301.lib(65): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(48): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(49): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(50): Expected directive or device instantiation here.
+61f0acdd6f1a2e998d23324c429dcbc5041760c3ad23639278b54ce720b1001e7cdcf61de42ce3d848c4805203a5c137bb94ab8b621d25b744b3e577e3e6200f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(51): Expected directive or device instantiation here.
+c0ff0c48b49f7f334b287e2ddf171aeb8642addd14132015c63d6251c38ced2ed37750f413b01fab710f626c2faf14a6874161b4b08ee839170e5ea941d53a62
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(52): Expected directive or device instantiation here.
+90124f6cbed1c8c0706b807646b80371ffc373d0dda82e24cf362d684e943818cdd6c3d82d863cfa50cf35a77aea0df2354a9f7efae6beef6238b8a84aa8e77c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(53): Expected directive or device instantiation here.
+900387b6be7bb9922531ce9df5eb06035fcfcd372a14162902bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(54): Expected directive or device instantiation here.
+5637fcfd860683a94b287e2ddf171aebd27b14fe33bb3ea26e1010d8c44ec47b478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(55): Expected directive or device instantiation here.
+2dbdd1f19d21f2c62531ce9df5eb06031d07299ef8719fc32dd28d0be6f8bd2a24fdfd9bb2e10b07c813c3a9b2cb81331feae932eed1b01a2f1c8d9c49301452
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(56): Expected directive or device instantiation here.
+ccf621fa30119fd33b62d48b60b90731a4ec8492bd0ecc91c61763014b86640d2768936f8552a9a631c384e3f9814687874161b4b08ee839170e5ea941d53a62
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(57): Expected directive or device instantiation here.
+86ad213343ec82a92c4cbab0291893203ce9cec0b01d2be1643b5c7edb4c041b62d766f77596a54b55b189f2f30686bf399e1aeaf4f83f36a08b59f821337504
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(58): Expected directive or device instantiation here.
+904e90e8e5b2fbfdb9d15c5be4e02d4918754e13dba8dbd33fcc20578536d17e644126c9831a96bd50cf35a77aea0df2354a9f7efae6beef6238b8a84aa8e77c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(59): Expected node name here.
+f1b71296a16c9ee02531ce9df5eb0603fd20b78a39bb7d0602bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(59): Expected directive or device instantiation here.
+f1b71296a16c9ee02531ce9df5eb0603fd20b78a39bb7d0602bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(60): Expected directive or device instantiation here.
+2f646e0e8d7ca9fb860341bb47536c89d3c6f4cd3b9e53669f7df7e1d8537137e2fba141ee696f51a770ffc06755e0b9ec5a74e222fe87b1222dcdb2f7c7888b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(61): Expected node name here.
+db4ada8ba367b7122531ce9df5eb06032d27a0b10314dd9cd5f63240b1d09a3c2333a016061f78ba24fdfd9bb2e10b07c813c3a9b2cb8133476e757e400654be
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(61): Expected directive or device instantiation here.
+db4ada8ba367b7122531ce9df5eb06032d27a0b10314dd9cd5f63240b1d09a3c2333a016061f78ba24fdfd9bb2e10b07c813c3a9b2cb8133476e757e400654be
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(62): Expected directive or device instantiation here.
+5dde899679de79ab1aabf11df8bc7d168348d7854a9af865b2b0bff6184c43bb24fdfd9bb2e10b07c813c3a9b2cb81331feae932eed1b01a2f1c8d9c49301452
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(63): Expected directive or device instantiation here.
+9e5134779ded21112531ce9df5eb0603a20e95a974984f6902bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(64): Expected node name here.
+bedb4c285028d38910a5fcbe7a8691e3083ee8af2c4e47f9b4da617ea7d06be89e92269ee3608b324d5b1b73307b1303c813c3a9b2cb8133476e757e400654be
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(64): Expected directive or device instantiation here.
+bedb4c285028d38910a5fcbe7a8691e3083ee8af2c4e47f9b4da617ea7d06be89e92269ee3608b324d5b1b73307b1303c813c3a9b2cb8133476e757e400654be
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(65): Expected directive or device instantiation here.
+c43ca65fb3926f3b26c880f485e2ca3443e01674667ecbfebfd36ceb5c1ed9c0bb94ab8b621d25b73981526f2283636625de98ab873d2f69cff05168eb849c72
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(66): Expected node name here.
+a40072fa2b99fd1b706b807646b803712c8fce4fe11cffed06893d1f608340c31a57e3204fc8087fc96625c45fc81f376908c46321d64a826653698ee93a71da
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(66): Expected directive or device instantiation here.
+a40072fa2b99fd1b706b807646b803712c8fce4fe11cffed06893d1f608340c31a57e3204fc8087fc96625c45fc81f376908c46321d64a826653698ee93a71da
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(67): Expected node name here.
+fa68f365a2a9a9bbf60ecfe3dff4fab2c813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982e89e8c85294b86e2c8e7c4168989caf7
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(67): Expected directive or device instantiation here.
+fa68f365a2a9a9bbf60ecfe3dff4fab2c813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982e89e8c85294b86e2c8e7c4168989caf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(68): Expected directive or device instantiation here.
+cdaa385411811e27bfd81d659a09e4b32637e9cac2aa5cea2cecad1ebf804c4bf467148f06ca8e43874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(69): Expected directive or device instantiation here.
+6dcfb6d5e8929f04706b807646b8037110fe20894a82e47899b87aceb23e86970c7e012bffe34f9d2fd4a791317eac0155b189f2f30686bf5981470e8a2fd282
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(70): Expected directive or device instantiation here.
+3c455c8eadf1ad051e1b600ce93c723d78f789cb26703065f6c57157062f5a9950cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b11e013cbf789c338
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(71): Expected directive or device instantiation here.
+54653036f112a7e5706b807646b803710e1d0d69cc09017f008dd3578f4a1956bda456e8ba5dde02653b5dcfa0c8c8ae042f0c0c78bb0deb4b9eed85b9f0547a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(72): Expected directive or device instantiation here.
+2671091ba70d1568706b807646b8037112d5414bf961bf12e560c959dcca8cd6cc9e50a5228845a085acf12f6f0fcf80fafedb6f15b9ec2484b7cd99a9050813
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(73): Expected directive or device instantiation here.
+8c980e460c4bd26685ca69fda8cf338aec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(74): Expected directive or device instantiation here.
+cdaa385411811e27bfd81d659a09e4b32637e9cac2aa5cea2cecad1ebf804c4bf467148f06ca8e43874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(75): Expected node name here.
+a5d158a0fc11634f706b807646b80371c1d303cdb19fdcef2b9fd23fad97521a56bfede5d11cc7cabb94ab8b621d25b73981526f22836366ae6ccc4a892438fe
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(75): Expected directive or device instantiation here.
+a5d158a0fc11634f706b807646b80371c1d303cdb19fdcef2b9fd23fad97521a56bfede5d11cc7cabb94ab8b621d25b73981526f22836366ae6ccc4a892438fe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(76): Expected directive or device instantiation here.
+8df0563ff6b12bcb706b807646b80371c40db3808310b146fe15b243b09feb8655b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae22bb379085745a57f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(77): Expected directive or device instantiation here.
+5aa875be979324eb706b807646b8037106893d1f608340c3b606ca3ef9965128bb94ab8b621d25b73981526f2283636625de98ab873d2f69cff05168eb849c72
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(78): Expected directive or device instantiation here.
+7e6fddfd8efbb9b02688e0dfc494de0f2e93b007841ec5e4231d13e21c1c89ce669dcc18007ac437a8328c5ceb7e512eec5a74e222fe87b1222dcdb2f7c7888b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(79): Expected directive or device instantiation here.
+1e36f10390632b7b706b807646b8037179b5fc69eef026a75699b53886fa29b6bb94ab8b621d25b73981526f2283636625de98ab873d2f69cff05168eb849c72
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(80): Expected directive or device instantiation here.
+07b8b607253a07a2706b807646b80371e560c959dcca8cd625a084edf9a537bf00877b91cd4279f39377af7e54bb163f9e3e4f75c74b8b1af6c8b208a55c3008
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(81): Expected node name here.
+d962aae2699d2242706b807646b80371e560c959dcca8cd66ccb7829f21026e466eaeb9fc4cc8ae11b6eedaaa044140848c4805203a5c137c51571341cb80ca1
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(81): Expected directive or device instantiation here.
+d962aae2699d2242706b807646b80371e560c959dcca8cd66ccb7829f21026e466eaeb9fc4cc8ae11b6eedaaa044140848c4805203a5c137c51571341cb80ca1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(82): Expected node name here.
+a3ce589fda26bc39706b807646b803710e1d0d69cc09017fa1509de14db0b9ecc461ed845e42362900d3e0b087c73744bb94ab8b621d25b744b3e577e3e6200f
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(82): Expected directive or device instantiation here.
+a3ce589fda26bc39706b807646b803710e1d0d69cc09017fa1509de14db0b9ecc461ed845e42362900d3e0b087c73744bb94ab8b621d25b744b3e577e3e6200f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(83): Expected directive or device instantiation here.
+4130590ac940df72706b807646b8037195cfd33ccd56f2c7aef5faa9b9d114588de691ddd4293588a32a9f5de4fdf71d60a188d940e604c1ecf22f43cd602b91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(84): Expected directive or device instantiation here.
+44286f328a01b55967d2eff95da56274ec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(85): Expected directive or device instantiation here.
+4b6085f2012636678ee5eab1ce21437be7e129a8b28a870c63285b290822439150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b11e013cbf789c338
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(86): Expected directive or device instantiation here.
+6dcc2999c2dfe559706b807646b803715848080d04576310931deb2ad43d855b292a2eef74255eb0c813c3a9b2cb81331feae932eed1b01a2f1c8d9c49301452
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(87): Expected directive or device instantiation here.
+0be1bd08545f4ec3706b807646b803710d704e2319f4426ee6e2fe81ffba5c8d691018eed3b49c365076052931337bd286338c09bc43f8a755bc3451c8d7424f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(88): Expected directive or device instantiation here.
+385bb969478bc1fd7509c136893a3e2ef672b2d4f1a1cf4e1bc3c1f91ac6051d192fb0130cd26ef276343c4b811d5b1825de056dc0163598e48430210fc6a266
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(89): Expected 2 node names here.
+e9a753e11a291736a2f400a6d73320a22e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0bc35dd275e89ac3df33c4e2641747c3c4
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(90): Expected directive or device instantiation here.
+68635f80bdd8741ce73070a45f1d549cc813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982e89e8c85294b86e2c8e7c4168989caf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(91): Expected directive or device instantiation here.
+69ff18044fae7c89706b807646b803710e1d0d69cc09017fafd61fdb0c92ecf851682c163372e1e6c813c3a9b2cb81331feae932eed1b01a2f1c8d9c49301452
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(92): Expected directive or device instantiation here.
+02dac6cba784505e706b807646b8037179b5fc69eef026a7da91f89291855a7d62d766f77596a54b55b189f2f30686bf399e1aeaf4f83f36a08b59f821337504
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(93): Expected directive or device instantiation here.
+2e46a4870b64e3eb706b807646b80371d364ef7377498d971c1dbb572a8269125d930e16f512efada32a9f5de4fdf71d60a188d940e604c1ecf22f43cd602b91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(94): Expected directive or device instantiation here.
+44286f328a01b55967d2eff95da56274ec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(95): Expected directive or device instantiation here.
+4b6085f2012636678ee5eab1ce21437bc242e3940f146a5c63285b290822439150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b11e013cbf789c338
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(96): Expected directive or device instantiation here.
+9e700d1bd10bd6d1706b807646b80371bdd414664f472b8066d837958b36832cec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177aa4968e1107fd7a2c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(97): Expected node name here.
+f28257b2a3730294706b807646b80371c1d303cdb19fdcef2b9fd23fad97521a5699b53886fa29b6bb94ab8b621d25b73981526f22836366ae6ccc4a892438fe
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(97): Expected directive or device instantiation here.
+f28257b2a3730294706b807646b80371c1d303cdb19fdcef2b9fd23fad97521a5699b53886fa29b6bb94ab8b621d25b73981526f22836366ae6ccc4a892438fe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(98): Expected 2 node names here.
+e9f419af62bfe95ebc27f931268b4061819f482ced2d14da2c71c45202431155ce5ec34e6f8ad1cac13ffc8b6ae5cb2e4a2edc29a53e23e5909669e0b73a8f95
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(99): Expected directive or device instantiation here.
+5d078000650a8fa54ef0dc8567d6d4ea1d8239f2d1a53635e60e6d4808ee42280794cbd97559f929ec5a74e222fe87b1bf7e0e03f8e7bfb935bcae0ed633f1e1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(100): Expected 2 node names here.
+e9f419af62bfe95ecc0121b5e20e2076819f482ced2d14dab26871b2b1938100ce5ec34e6f8ad1caf93f7b40a8e2bd31b4845772c03f2736956711648fdaafb1
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(101): Expected directive or device instantiation here.
+0a74212461f65cb9c0313f4b89f5b9a390d894e2512433315b102e47ac4eb17ebb94ab8b621d25b73981526f2283636625de98ab873d2f69cff05168eb849c72
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(102): Expected node name here.
+bc8ee2299b220803beda7935c8aeca8d90d894e251243331dc0745283a910a9dec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177aa4968e1107fd7a2c
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(102): Expected directive or device instantiation here.
+bc8ee2299b220803beda7935c8aeca8d90d894e251243331dc0745283a910a9dec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177aa4968e1107fd7a2c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(103): Expected 2 node names here.
+e9f419af62bfe95edca29065f7b4a684572c580f8d64b068749d13634498f34b6f49004d18e3f79a89fd2dbce48485be2c5148952770d95d2a8883530361f654
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(104): Expected directive or device instantiation here.
+45e48c6c20775a076d2aa86b77a26c95691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(105): Expected directive or device instantiation here.
+3e2f6d3b6fa1f79ebb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9ff8bef7babe97e28175239964220d9838f9a46707ac3bd95a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(106): Expected node name here.
+dbf12f0360092c45957673035b26e32bb5c12396ded4191b8492e52ca990713792b35fbc4ba24d2de568cb08a10acd6db59a2f8e0588fbb386f7b10d3437c98b
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(106): Expected directive or device instantiation here.
+dbf12f0360092c45957673035b26e32bb5c12396ded4191b8492e52ca990713792b35fbc4ba24d2de568cb08a10acd6db59a2f8e0588fbb386f7b10d3437c98b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(107): Expected directive or device instantiation here.
+63412f1273bcca59a4d99d6675bdb5aae71f71e18758417150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b95f9692c4c213be032df1b1d8e5e8f28
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(108): Expected directive or device instantiation here.
+065d26286aaf2f122531ce9df5eb0603cdb79a754752616577946fa90ac97f1623b782b3d6a37df12e1d983a8ee1d9aa42d98f8f6053d8d22fac98e46c3970ff
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(109): Expected 2 node names here.
+e8686e014b15db76f45310c19b6b8ee5cf432022a5951a4f4ebedf1affe729ad710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(110): Expected directive or device instantiation here.
+171d979aaf3d706b8036d105784414182421587c0f57824db579b96787cce3a13a138ccd9fc8efe7691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(111): Expected node name here.
+ae4adb31e6cc5e902531ce9df5eb060364966b11ce6c5db62dd28d0be6f8bd2a24fdfd9bb2e10b07c813c3a9b2cb81331feae932eed1b01a2f1c8d9c49301452
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(111): Expected directive or device instantiation here.
+ae4adb31e6cc5e902531ce9df5eb060364966b11ce6c5db62dd28d0be6f8bd2a24fdfd9bb2e10b07c813c3a9b2cb81331feae932eed1b01a2f1c8d9c49301452
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(112): Expected directive or device instantiation here.
+c9df73872fc6045030b213c3dfbde7188036d10578441418c3b36018e345e16e217cfa47ad28c0fa7abc488e44ba878bec5a74e222fe87b1222dcdb2f7c7888b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(113): Expected directive or device instantiation here.
+6f9764b062a618460dfb5ee43f9ea2bfb9282d298a39248d78b54ce720b1001ed301d68314c6f1e063aa57a5251886dc55b189f2f30686bf5981470e8a2fd282
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(114): Expected directive or device instantiation here.
+2a76c18f665e8c272c4cbab029189320d042b92eba138a7c9f7df7e1d8537137dc26028ef70590f4b5f1c17ee7956303874161b4b08ee839170e5ea941d53a62
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(115): Expected directive or device instantiation here.
+94fab6a88c3a1cac1fc67ec68dbc352e1884bbb618feeb0e0b87729e81e77cd4478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(116): Expected node name here.
+b052355e65d40bda4d945ab16ce19c1cf94f38472446ffb0a7a1b5ab1436a9bfad4eb80921fac8afe96826b1b8137c4ac813c3a9b2cb8133476e757e400654be
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(116): Expected directive or device instantiation here.
+b052355e65d40bda4d945ab16ce19c1cf94f38472446ffb0a7a1b5ab1436a9bfad4eb80921fac8afe96826b1b8137c4ac813c3a9b2cb8133476e757e400654be
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(117): Expected directive or device instantiation here.
+316c4e958281b8050abfc569c2f15564b686a80b117e185d78b54ce720b1001e5b9f79f666c8fe0048c4805203a5c137bb94ab8b621d25b744b3e577e3e6200f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(118): Expected directive or device instantiation here.
+40ff64b82c572c4924e7be9ed344e53e8642addd14132015acf557eeb816448f478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(119): Expected directive or device instantiation here.
+3b59b36ad64eb5864b287e2ddf171aebabe91e3431c54d4795e2aa28dfba4433d37750f413b01fab710f626c2faf14a6874161b4b08ee839170e5ea941d53a62
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(120): Expected directive or device instantiation here.
+93d3808648446fd760c210771409cb2e6d636f62dc811967b531fdb8889633b4bf1ee911780421dd874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(121): Expected 2 node names here.
+e32412d8e97ecf0c2531ce9df5eb06031823d59ee274b27102bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(122): Expected node name here.
+b090b65fdd16a27ff06c08b3bb5fde7f44d26b93beddf244c135595c14d7756d042f0c0c78bb0debec5a74e222fe87b1bf7e0e03f8e7bfb935bcae0ed633f1e1
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(122): Expected directive or device instantiation here.
+b090b65fdd16a27ff06c08b3bb5fde7f44d26b93beddf244c135595c14d7756d042f0c0c78bb0debec5a74e222fe87b1bf7e0e03f8e7bfb935bcae0ed633f1e1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(123): Expected directive or device instantiation here.
+9afa1f10a7f457ea0abfc569c2f15564328c0ca9c9577ddb5d57e03628cc09e33bfc0ce7f97e07f1bb94ab8b621d25b73981526f22836366ae6ccc4a892438fe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(124): Expected directive or device instantiation here.
+102778d1f868b7a49e6b95464fb772f3f67259042900919200877b91cd4279f3e858241bec91ac595fe78cc882e6c6f3e71f71e187584171eca645f9cc241a2d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(125): Expected node name here.
+b9ed3e04d2a79329173315f2c15a8ab69f9607621393273d59d9a940a81205ea478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(125): Expected directive or device instantiation here.
+b9ed3e04d2a79329173315f2c15a8ab69f9607621393273d59d9a940a81205ea478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(126): Expected node name here.
+b0eb42ca922cce592fbfcc2b872ff94636ea5db477834f11ce5ec34e6f8ad1ca4a00a148cfaed3410d0123120ac936d82594fc6756c8b3f583a3a146f650f598
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(126): Expected directive or device instantiation here.
+b0eb42ca922cce592fbfcc2b872ff94636ea5db477834f11ce5ec34e6f8ad1ca4a00a148cfaed3410d0123120ac936d82594fc6756c8b3f583a3a146f650f598
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(127): Expected directive or device instantiation here.
+5417092b8533b4a1dbb8d18b4799e7f8e71f71e18758417150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b95f9692c4c213be032df1b1d8e5e8f28
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(128): Expected 2 node names here.
+e2a940f3b8cefa3755b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae236d4e187ba0433bdf80291ebc8de027e2591104e17a473eeba872e12fbea9d98
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(129): Expected 2 node names here.
+e0bee0f3fadd672460c210771409cb2e6d636f62dc811967f24bf58ddadd36c75fbceec05a2e4b3f7d7f15953a32e2dc691018eed3b49c361d94ccc80095203d
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(130): Expected directive or device instantiation here.
+705d459f50f7a08ca2f169dd7cb88344af02b8d90c64a20083463dd640f012e500d3e0b087c73744bb94ab8b621d25b73981526f22836366ae6ccc4a892438fe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(131): Expected directive or device instantiation here.
+3e9e5fdcd7dc3d569ed675755dc333978d5b93a323f7ddf9173c66ffe70e6c91f407879655999ad4075b0d53f6c54d0fec5a74e222fe87b1222dcdb2f7c7888b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(132): Expected directive or device instantiation here.
+0a74212461f65cb9c0313f4b89f5b9a390d894e2512433315b102e47ac4eb17ebb94ab8b621d25b73981526f2283636625de98ab873d2f69cff05168eb849c72
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(133): Expected node name here.
+bc8ee2299b220803beda7935c8aeca8d90d894e251243331dc0745283a910a9dec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177aa4968e1107fd7a2c
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(133): Expected directive or device instantiation here.
+bc8ee2299b220803beda7935c8aeca8d90d894e251243331dc0745283a910a9dec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177aa4968e1107fd7a2c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(134): Expected directive or device instantiation here.
+39b56735282d8973173315f2c15a8ab6d5a00120c670e40959d9a940a81205ea478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(135): Expected node name here.
+b8b56863f55c875e94fbbbfac28a5c5cb686a80b117e185d78b54ce720b1001e5702f8045be5988d48c4805203a5c137bb94ab8b621d25b744b3e577e3e6200f
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(135): Expected directive or device instantiation here.
+b8b56863f55c875e94fbbbfac28a5c5cb686a80b117e185d78b54ce720b1001e5702f8045be5988d48c4805203a5c137bb94ab8b621d25b744b3e577e3e6200f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(136): Expected directive or device instantiation here.
+42cad0d02e943b3c2531ce9df5eb06033ed3418e4631b89102bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(137): Expected node name here.
+b90e0c5fe970b38760c210771409cb2e148a45651d59bf765852fa615e2c04705d57e03628cc09e34d25a4d6d4c345ea1232df971c732ff1c51571341cb80ca1
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(137): Expected directive or device instantiation here.
+b90e0c5fe970b38760c210771409cb2e148a45651d59bf765852fa615e2c04705d57e03628cc09e34d25a4d6d4c345ea1232df971c732ff1c51571341cb80ca1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(138): Expected directive or device instantiation here.
+48a94d11d238250fc83805c2174809e8820b456f51dadbb8ffc373d0dda82e24217cfa47ad28c0fad5160768786b5c96ec5a74e222fe87b1222dcdb2f7c7888b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(139): Expected directive or device instantiation here.
+062e5f2e0baf1b674597b28a3abd98801becf4d9e84b204300877b91cd4279f392b35fbc4ba24d2d4abf8c78d186723686d7aaf8286905381ad9878f38e70f81
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(140): Expected node name here.
+b5f1c17ee7956303874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b86206430572056fa6499c674625515bcfcd212e7c733cfec4
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(140): Expected directive or device instantiation here.
+b5f1c17ee7956303874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b86206430572056fa6499c674625515bcfcd212e7c733cfec4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(141): Expected node name here.
+a34eb0be5ea600af2531ce9df5eb0603dd96138975f7d32f02bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(141): Expected directive or device instantiation here.
+a34eb0be5ea600af2531ce9df5eb0603dd96138975f7d32f02bf04ddcbe6d479710f626c2faf14a6874161b4b08ee8391387c1d3ab14d5100ccaa48363c238e8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(142): Expected directive or device instantiation here.
+717cdf892ff6b6ffa60fd3951de4fe94f62cc45356863029bf1ee911780421dd874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f93365c834ee8b7a637
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(143): Expected directive or device instantiation here.
+4b806d573178e57f85bc466a8d7f027a1fdbdcc2e52a1ee68f50ff48303752a4c38f643c70aa348f32a2c5270fa1970ebb94ab8b621d25b744b3e577e3e6200f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(144): Expected directive or device instantiation here.
+4036fe3bb1fccadc4b287e2ddf171aebf54db16019460b2fb6373f5f5e0fed32478a87bc5b8e6cf9691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(145): Expected directive or device instantiation here.
+2cfd781695004e38724e9b544413cad7d407bba7849acf63c8f941eea37e77297929540a291d962a83a38749bc5fc337c0e9ae7cbd41021dd38aff4e12555a5d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(146): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(150): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(151): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(152): Expected directive or device instantiation here.
+345e8d0fbe6aa629706b807646b803714f11897f11707f10452fa7016a955ae22e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd2a7b15388d6a04449
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(153): Expected directive or device instantiation here.
+2408cd2faf173f04706b807646b80371074b3250af40d54e55b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae236d4e187ba0433bd1cc75ea47c9ccc6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(154): Expected directive or device instantiation here.
+1e7e75f62a07f7b1bbcb463bf6330e44cd94196517c869978da9d0385456e17bce0882f152d59bb426c4639be54aeef7624026ab62cb6810bfe4c60b92c2ddce
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(155): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(159): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(160): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(161): Expected node name here.
+a2c6d4276581f43b31820e631d1d1d74e2b5c77e8ecaba96691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(161): Expected directive or device instantiation here.
+a2c6d4276581f43b31820e631d1d1d74e2b5c77e8ecaba96691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(162): Expected directive or device instantiation here.
+9c9fc54f66c2cffa6f31076d2b37e96b3a7bc5327c69eeafbb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9fa4425723e932d599
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(163): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(167): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(168): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(169): Expected node name here.
+ae601cf82fbefc0c31820e631d1d1d74872d6da6e74e75ee691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(169): Expected directive or device instantiation here.
+ae601cf82fbefc0c31820e631d1d1d74872d6da6e74e75ee691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(170): Expected directive or device instantiation here.
+969b68e4450fa8bd6f31076d2b37e96b3a7bc5327c69eeafbb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9fa4425723e932d599
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(171): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(175): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(176): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(177): Expected directive or device instantiation here.
+c21144fd15b2c61331820e631d1d1d7423f284e2e346bfb8691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(178): Expected 2 node names here.
+e07b7a6acd4bf43c6f31076d2b37e96baa35006d782c6ce9bb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9fa4425723e932d599
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(179): Expected directive or device instantiation here.
+1e7e75f62a07f7b1bbcb463bf6330e44eff574bcdcb677aa0ffb76e2ddf4497b5d0b29274ab7aaa98f182a59499ce6408797abf02fb635290f6691c12875d46b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(180): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(184): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(185): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(186): Expected directive or device instantiation here.
+44f117741689d59131820e631d1d1d749e35700c7913e939691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(187): Expected directive or device instantiation here.
+3c76beba9b808c126f31076d2b37e96baa35006d782c6ce9bb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9fa4425723e932d599
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(188): Expected directive or device instantiation here.
+1e7e75f62a07f7b1bbcb463bf6330e447b3ba2fd65dbf9050ffb76e2ddf4497bc57cfae156c3adf48e5e1fe45d9e77f1e95ccae7279650a8d3b55e518a88efc0
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(189): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(193): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(194): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(195): Expected node name here.
+fc17c4fb021d75b331820e631d1d1d74e07c8571b0ef4410691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(195): Expected directive or device instantiation here.
+fc17c4fb021d75b331820e631d1d1d74e07c8571b0ef4410691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(196): Expected directive or device instantiation here.
+40b4a0ebea843b5a6f31076d2b37e96b3a7bc5327c69eeafbb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9fa4425723e932d599
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(197): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(201): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(202): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(203): Expected directive or device instantiation here.
+9132b7121104d4358be44c41ab888f41b6e3a1568843d867691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(204): Expected directive or device instantiation here.
+70d49a25931fcad5af5f0f227a33dfc56b574213c15e8d8904d73209bd6cb354e07469d76c73f504727902e71a3e75d8bb77e20fe987edd8d38aff4e12555a5d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(205): Expected node name here.
+d1579de13894cc53749d13634498f34b2814ec203481f38f6485690991963efc688dc2cfc32ec3a9609956094a2f05290f82827fc36822f074fb7cf2e7c9f235
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(205): Expected directive or device instantiation here.
+d1579de13894cc53749d13634498f34b2814ec203481f38f6485690991963efc688dc2cfc32ec3a9609956094a2f05290f82827fc36822f074fb7cf2e7c9f235
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(206): Expected directive or device instantiation here.
+c985c90e830fff9457e2c5aa80851370874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b86206430572056fa6242e7b4ddf37ed34
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(207): Expected directive or device instantiation here.
+1fdb31c906bbcd7763285b290822439150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b95f9692c4c213be0162c750cd48a715aa1067c33e9fff5ef
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(208): Expected directive or device instantiation here.
+13142c038a62aa150aa66cfdd7abddd755b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae236d4e187ba0433bdf80291ebc8de027e56504e79f023bc71
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(209): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(213): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(214): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(215): Expected node name here.
+b3390a098a7d87064e46dd92806239d2874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b86206430572056fa6242e7b4ddf37ed34
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(215): Expected directive or device instantiation here.
+b3390a098a7d87064e46dd92806239d2874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b86206430572056fa6242e7b4ddf37ed34
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(216): Expected node name here.
+d7072740a938f0e752008c48b90a111404d36cec99b77dc0a7f03d1e581742ea8b798ad314fde7ff78bb0ee6e0e668e4ec5a74e222fe87b1222dcdb2f7c7888b
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(216): Expected directive or device instantiation here.
+d7072740a938f0e752008c48b90a111404d36cec99b77dc0a7f03d1e581742ea8b798ad314fde7ff78bb0ee6e0e668e4ec5a74e222fe87b1222dcdb2f7c7888b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(217): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(221): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(222): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(223): Expected node name here.
+f305b7cfa0765161b7a8d0a5fa27600f87c337a6226f9c259ce2376dcef929e055e2d3dce1717d717ca80a2ba8175d7ecf49909a32f1b23ec51571341cb80ca1
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(223): Expected directive or device instantiation here.
+f305b7cfa0765161b7a8d0a5fa27600f87c337a6226f9c259ce2376dcef929e055e2d3dce1717d717ca80a2ba8175d7ecf49909a32f1b23ec51571341cb80ca1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(224): Expected directive or device instantiation here.
+7e21bb79cbca9f8ce0c67063107b52eb691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(225): Expected node name here.
+bd9831b9881f0b92004c220067cfdabf57e2c5aa80851370874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b808f314cce3229728
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(225): Expected directive or device instantiation here.
+bd9831b9881f0b92004c220067cfdabf57e2c5aa80851370874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b808f314cce3229728
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(226): Expected directive or device instantiation here.
+99cb3fa3ad4040ee39d350e60ca2338a43558a6d1f49bc89691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc18776c1ecb945c16e653
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(227): Expected node name here.
+f305b7cfa0765161c36180965553170d8da13727b91264449ce2376dcef929e07d4a1829490ab8db9b0e7c0027d2abb9e6efecb6122f9b38d38aff4e12555a5d
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(227): Expected directive or device instantiation here.
+f305b7cfa0765161c36180965553170d8da13727b91264449ce2376dcef929e07d4a1829490ab8db9b0e7c0027d2abb9e6efecb6122f9b38d38aff4e12555a5d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(228): Expected directive or device instantiation here.
+7e21bb79cbca9f8ce0c67063107b52eb691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(229): Expected directive or device instantiation here.
+8d3568177ac8ace9a0338d780f826fc655b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae236d4e187ba0433bdf80291ebc8de027e56504e79f023bc71
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(230): Expected directive or device instantiation here.
+042d1e8ae349b80f5801d29f353ff668bb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9ff8bef7babe97e28143d8bb327ad14245
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(231): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(235): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(236): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(237): Expected node name here.
+f305b7cfa07651615a9037c8c42a602b94aebb18efc1b73c4a0534bc16c6b751d67091752c09698a1541fe9d381cc675621f57e8bf9b586ec51571341cb80ca1
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(237): Expected directive or device instantiation here.
+f305b7cfa07651615a9037c8c42a602b94aebb18efc1b73c4a0534bc16c6b751d67091752c09698a1541fe9d381cc675621f57e8bf9b586ec51571341cb80ca1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(238): Expected directive or device instantiation here.
+ce312808b0a91175dcf306adebf133c01a6c7500361cb5a45652e10015a645e7e71f71e18758417150cf35a77aea0df2354a9f7efae6beef6238b8a84aa8e77c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(239): Expected node name here.
+bd9831b9881f0b92e8f02e93fcf213a8ec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(239): Expected directive or device instantiation here.
+bd9831b9881f0b92e8f02e93fcf213a8ec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(240): Expected directive or device instantiation here.
+02f2959404528fbd9ad2dc2e0af5de0ec813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982e89e8c85294b86e2c8e7c4168989caf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(241): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(245): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(246): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(247): Expected directive or device instantiation here.
+08e147163f37b483eb1553db51121b0af03ffeaf6f4cc2495403a992dada814087dbbe4c721b28118ac3abcaf6d8f63e75c06ff6952a82ffe54dea19fa791efd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(248): Expected directive or device instantiation here.
+030b252e024c556c2e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0bc35dd275e89ac3dfeb78a17e2b12a73ef7448f9e651b8932
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(249): Expected node name here.
+a405048fcac30c1a77b95916f96d463b691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(249): Expected directive or device instantiation here.
+a405048fcac30c1a77b95916f96d463b691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(250): Expected node name here.
+b75a50bb44e3b503f2667b5cb330c5cf7d9a27b91a009a4aec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff967be6293e1b5f9cf
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(250): Expected directive or device instantiation here.
+b75a50bb44e3b503f2667b5cb330c5cf7d9a27b91a009a4aec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff967be6293e1b5f9cf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(251): Expected directive or device instantiation here.
+1033be605ac86fd802147ff4d5c4cb2f4f8181b227c1b6b5bb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9fa4425723e932d599
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(252): Expected directive or device instantiation here.
+4d7ee7dde33e9387d311a5de088d45a555b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae236d4e187ba0433bdf80291ebc8de027e56504e79f023bc71
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(253): Expected node name here.
+df95d7fdcea3a2180d504e4cc1a75a093ae2468b9ecaccb92e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0b731a3c583bbf6f59
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(253): Expected directive or device instantiation here.
+df95d7fdcea3a2180d504e4cc1a75a093ae2468b9ecaccb92e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0b731a3c583bbf6f59
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(254): Expected directive or device instantiation here.
+193c989aae9fedb66f74756715268570bf1ee911780421dd874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b808f314cce3229728
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(255): Expected directive or device instantiation here.
+99fafaa2580fb990086c1f20d6d180eb303d7240d8c3139d874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b808f314cce3229728
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(256): Expected node name here.
+b8c0b98b8ee14d0e86fb6fea0644b392d2bbd7e847d638e1e776e9b255bda08c858b231094abeea61f9a9c561ad56bf1e3c1957d735cf1403eb0abf7d3e723a6
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(256): Expected directive or device instantiation here.
+b8c0b98b8ee14d0e86fb6fea0644b392d2bbd7e847d638e1e776e9b255bda08c858b231094abeea61f9a9c561ad56bf1e3c1957d735cf1403eb0abf7d3e723a6
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(257): Expected directive or device instantiation here.
+5c58db27c3805ea579ec59d2010a8d85c813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982e89e8c85294b86e2c8e7c4168989caf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(258): Expected directive or device instantiation here.
+7e2980978c86958c5a2203ebe700ca122e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0bc35dd275e89ac3df33c4e2641747c3c4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(259): Expected directive or device instantiation here.
+161224ee3eeadb9c8492e52ca99071370aa8feaa9dcff1516e87bca1c6f42fe3e8a5dce5e40df7ad937cd11398766dd32a641aaab1b9ab4474fb7cf2e7c9f235
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(260): Expected directive or device instantiation here.
+04db544825bf7de1ee259b687a060a572e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0bc35dd275e89ac3df33c4e2641747c3c4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(261): Expected directive or device instantiation here.
+97c9333151ea8fa7c28a4c769cde9ef7691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(262): Expected directive or device instantiation here.
+8f7b8724f31a9e8c1250a7e9a95e2aa3691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(263): Expected directive or device instantiation here.
+cb3de6a18d5d6014b511a41d3b9c21e6608e5066341ff6bd874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b808f314cce3229728
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(264): Expected node name here.
+d7072740a938f0e76796778f313a81b5bcf1ee82bdd45fd86d0ad17b3ef49a3d2ed4e03f3e56f24b8cef131fcf4336b72e1d983a8ee1d9aabcf1fa23383bdefb
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(264): Expected directive or device instantiation here.
+d7072740a938f0e76796778f313a81b5bcf1ee82bdd45fd86d0ad17b3ef49a3d2ed4e03f3e56f24b8cef131fcf4336b72e1d983a8ee1d9aabcf1fa23383bdefb
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(265): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(269): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(270): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(271): Expected node name here.
+f305b7cfa07651615a9037c8c42a602b94aebb18efc1b73c4a0534bc16c6b751d67091752c09698a1541fe9d381cc675a36c87e87e29573113519a8a855bad68
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(271): Expected directive or device instantiation here.
+f305b7cfa07651615a9037c8c42a602b94aebb18efc1b73c4a0534bc16c6b751d67091752c09698a1541fe9d381cc675a36c87e87e29573113519a8a855bad68
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(272): Expected directive or device instantiation here.
+608e5066341ff6bd874161b4b08ee8391387c1d3ab14d5105e2e6ae9c8e01f939c1346c93f2616b86206430572056fa6499c674625515bcfcd212e7c733cfec4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(273): Expected node name here.
+bd9831b9881f0b921b3d46da13888b1e2e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0bc35dd275e89ac3df33c4e2641747c3c4
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(273): Expected directive or device instantiation here.
+bd9831b9881f0b921b3d46da13888b1e2e1d983a8ee1d9aa42d98f8f6053d8d23edf00d761ddbfd26d98a8ba131dbc0bc35dd275e89ac3df33c4e2641747c3c4
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(274): Expected directive or device instantiation here.
+02f2959404528fbd5dd00b2186f9e93dbb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9ff8bef7babe97e28143d8bb327ad14245
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(275): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(279): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(280): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(281): Expected node name here.
+f305b7cfa0765161b7a8d0a5fa27600f87c337a6226f9c259ce2376dcef929e055e2d3dce1717d717ca80a2ba8175d7e413573ed95ba9f7070f497b56ae5be13
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(281): Expected directive or device instantiation here.
+f305b7cfa0765161b7a8d0a5fa27600f87c337a6226f9c259ce2376dcef929e055e2d3dce1717d717ca80a2ba8175d7e413573ed95ba9f7070f497b56ae5be13
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(282): Expected directive or device instantiation here.
+1eb5da1b1b220fdbbb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9ff8bef7babe97e28175239964220d9838f9a46707ac3bd95a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(283): Expected node name here.
+bd9831b9881f0b92004c220067cfdabf680d2d7c8463c02ac813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982fb8faa6b3da48e41
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(283): Expected directive or device instantiation here.
+bd9831b9881f0b92004c220067cfdabf680d2d7c8463c02ac813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982fb8faa6b3da48e41
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(284): Expected directive or device instantiation here.
+99cb3fa3ad4040ee39d350e60ca2338a85bb0abd135c8ea4b2c8ac76a93edd4cc813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc83d7f0b868803d73d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(285): Expected node name here.
+f305b7cfa0765161c36180965553170d8da13727b91264449ce2376dcef929e07d4a1829490ab8db9b0e7c0027d2abb96587de49e2c863ff5e776786199801a3
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(285): Expected directive or device instantiation here.
+f305b7cfa0765161c36180965553170d8da13727b91264449ce2376dcef929e07d4a1829490ab8db9b0e7c0027d2abb96587de49e2c863ff5e776786199801a3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(286): Expected node name here.
+f477875b6b57c386691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda55492055fc1c057932d43ac0302c47569bc862
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(286): Expected directive or device instantiation here.
+f477875b6b57c386691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda55492055fc1c057932d43ac0302c47569bc862
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(287): Expected directive or device instantiation here.
+8d3568177ac8ace91f72e5a2e8c9f624691018eed3b49c365076052931337bd286338c09bc43f8a7787efcdd0dbc1877b22f05afda554920c95a866e0555f2fa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(288): Expected directive or device instantiation here.
+042d1e8ae349b80fea1cd9c752f58bf3ec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(289): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(293): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(294): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(295): Expected directive or device instantiation here.
+324d0b28bd3976fec3fa3d1e401a4503c7cd3c6de157579e2a235350161d1bcb644126c9831a96bd50cf35a77aea0df2354a9f7efae6beef6238b8a84aa8e77c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(296): Expected directive or device instantiation here.
+31a245cc4f39b9f1af5040d5c61521d091d34273a8fcd1de55b189f2f30686bf399e1aeaf4f83f36e195c21c6d278ae236d4e187ba0433bd1cc75ea47c9ccc6f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(297): Expected directive or device instantiation here.
+3b7f5ebe940d64624170694978eb4cf8c813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982e89e8c85294b86e2c8e7c4168989caf7
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(298): Expected node name here.
+b076ff8d9576189163285b290822439150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b95f9692c4c213be0162c750cd48a715aa1067c33e9fff5ef
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(298): Expected directive or device instantiation here.
+b076ff8d9576189163285b290822439150cf35a77aea0df2354a9f7efae6beefafaaf23c3141707b95f9692c4c213be0162c750cd48a715aa1067c33e9fff5ef
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(299): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(303): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(304): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc1e6533586e21519a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(305): Expected node name here.
+b6d5b66f8b4b5cf5995173ffa2c92685fe0ee20d803d68fea521d13c841eb6f03f0bb91cb2b56dec691018eed3b49c365076052931337bd2d003cfc67501eb9a
+                                                                                                                                ^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(305): Expected directive or device instantiation here.
+b6d5b66f8b4b5cf5995173ffa2c92685fe0ee20d803d68fea521d13c841eb6f03f0bb91cb2b56dec691018eed3b49c365076052931337bd2d003cfc67501eb9a
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(306): Expected directive or device instantiation here.
+8ea6da70e16040ae7d85def2175d53d9afede746215e6972c813c3a9b2cb81331feae932eed1b01ae70aa3c5e282bbc8710f7f514c3f8982fb8faa6b3da48e41
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(307): Expected directive or device instantiation here.
+423567d797b12d728884162488a37977ec5a74e222fe87b1bf7e0e03f8e7bfb9134537f5a25a177af412d938e0b15ff918427fe5083e5f336c1fba7083c827ec
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(308): Expected directive or device instantiation here.
+4224ba0683c7aee525d36cd23bc3bcb1bb94ab8b621d25b73981526f2283636625de98ab873d2f69978bd855680e2c9ff8bef7babe97e28143d8bb327ad14245
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\User\Documents\LTspice\TPS7A4700_TRANS.LIB(309): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
