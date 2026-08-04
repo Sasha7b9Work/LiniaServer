@@ -1,0 +1,25 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -16 0 -32 0
+LINE Normal -16 32 -16 -32
+LINE Normal 16 -32 -16 -16
+LINE Normal 16 -48 16 -32
+LINE Normal 16 32 -16 16
+LINE Normal 16 48 16 32
+LINE Normal -16 -16 -4 -18
+LINE Normal -16 -16 -7 -24
+LINE Normal -7 -24 -4 -18
+WINDOW 0 -4 -98 Bottom 2
+WINDOW 3 -5 93 Top 2
+SYMATTR Value tip147
+SYMATTR Prefix X
+SYMATTR ModelFile TIP147.cir
+PIN 16 -48 BOTTOM 8
+PINATTR PinName 3
+PINATTR SpiceOrder 1
+PIN -32 0 RIGHT 8
+PINATTR PinName 1
+PINATTR SpiceOrder 2
+PIN 16 48 TOP 8
+PINATTR PinName 2
+PINATTR SpiceOrder 3

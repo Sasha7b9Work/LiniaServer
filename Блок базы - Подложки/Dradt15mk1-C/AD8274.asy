@@ -1,0 +1,29 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -80 -72 80 72
+WINDOW 0 0 -72 Bottom 2
+WINDOW 3 0 72 Top 2
+SYMATTR Prefix X
+SYMATTR Value AD8274
+SYMATTR ModelFile C:\Users\User\Downloads\ad8274.cir
+PIN -80 -32 LEFT 8
+PINATTR PinName Pin
+PINATTR SpiceOrder 1
+PIN -80 0 LEFT 8
+PINATTR PinName Nin
+PINATTR SpiceOrder 2
+PIN -80 32 LEFT 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 3
+PIN 80 -48 RIGHT 8
+PINATTR PinName Vee
+PINATTR SpiceOrder 4
+PIN 80 -16 RIGHT 8
+PINATTR PinName Out
+PINATTR SpiceOrder 5
+PIN 80 16 RIGHT 8
+PINATTR PinName Ref
+PINATTR SpiceOrder 6
+PIN 80 48 RIGHT 8
+PINATTR PinName Sense
+PINATTR SpiceOrder 7

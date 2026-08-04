@@ -1,0 +1,25 @@
+LTspice 24.1.9 for Windows
+Circuit: \\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\Draft18.net
+Start Time: Tue Aug  4 10:54:18 2026
+Options: itl4=50
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\my_model.txt(2): Syntax error (unexpected input).
++ Ne=1.241 Ise=2.511f Ikf=.3495 Xtb=1.5 Br=3.24 Nc=2 Isc=0 Ikr=0 + Rc=1 Cjc=4.883p Mjc=.3047 Vjc=.75 Fc=.5 Cje=18.79p Mje=.3416
+                                                                     ^^
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\my_model.txt(3): Syntax error (unexpected input).
++ Vje=.75 Tr=1.212n Tf=560.1p Itf=50m Vtf=5 Xtf=8 Rb=10 Vceo=150 + Icrating=600m mfg=Fairchild)
+                                                                           ^^^^^
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\my_model.txt(2): No such parameter defined.
++ Ne=1.241 Ise=2.511f Ikf=.3495 Xtb=1.5 Br=3.24 Nc=2 Isc=0 Ikr=0 + Rc=1 Cjc=4.883p Mjc=.3047 Vjc=.75 Fc=.5 Cje=18.79p Mje=.3416
+                                                                   ^^
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\my_model.txt(8): Syntax error (unexpected input).
++ Mje=.3777  Vje=.75 Tr=1.476n Tf=641.9p Itf=0 Vtf=0 Xtf=0 Rb=10 + Vceo=150  Icrating=600m mfg=Fairchild)
+                                                                       ^^^^
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\my_model.txt(8): No such parameter defined.
++ Mje=.3777  Vje=.75 Tr=1.476n Tf=641.9p Itf=0 Vtf=0 Xtf=0 Rb=10 + Vceo=150  Icrating=600m mfg=Fairchild)
+                                                                   ^^^^
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\Draft18.net(26): Undefined model "2n5401".
+Q2 N017 P001 N002 0 2N5401
+                    ^^^^^^
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Dradt15_Test-A\Draft18.net(29): Undefined model "2n5550".
+Q1 N004 P002 N002 0 2N5550
+                    ^^^^^^

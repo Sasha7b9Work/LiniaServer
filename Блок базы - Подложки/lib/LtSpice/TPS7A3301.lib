@@ -1,0 +1,67 @@
+**$ENCRYPTED_LIB
+**$INTERFACE
+* TPS7A3301 Model
+***************************************************************************
+** This product is designed as an aid for customers of Texas Instruments.**
+** No warranties, either expressed or implied, with respect to this third**
+** party software (if any) or with respect to its fitness for any        **
+** particular purpose is claimed by Texas Instruments or the author. The **
+** software (if any) is provided soley on an "as is" basis. The entire   **
+** risk as to its quality and performance is with the customer           **
+********************************************************************************
+* 
+* (C) Copyright 2011 Texas Instruments Incorporated  . All rights reserved.
+*
+* Released by: Analog e-Lab Design Center, Texas Instruments Inc.
+* Part: TPS7A3301
+* Date: 12/5/2011
+* Model Type: TRANSIENT
+* Simulator: PSPICE
+* EVM Order Number: TPS7A3301EVM-061
+* EVM Users Guide: SLVU602
+* Datasheet: SBVS169 - DECEMBER 2011
+*
+*****************************************************************************
+*
+* Updates:
+*
+* Final 1.00
+* Release to Web.
+*
+*********************************************************************************
+* source TPS7A3301
+*$
+.SUBCKT TPS7A3301 IN EN NR_SS GND FB OUT
+$CDNENCSTART
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc3e7902f4d1721967
+ab135741b2e827a01f625d87cb26a35b4e7d9ca30829d6d285adfc654f0e0d5b8fe1aec0698a9b90870d2c9715a687987ece07edc320c7555d423c0de2fdc972
+cd080d6014ef79b45b21fcbb5127d82b1a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad624924a9e730ad9768b10a0a1a8a2b95c8e96988b2add10388
+8073f4534314666725fe7e7c761c4c92dc0745283a910a9d9e8856df7bc2a6ed61e298ae229694c5824af20461d9d8554106da4e4de3f1a39507e7c6c6c76876
+c6501597af0c03cbf6ac43e363a1109551e1f615050d18dff34ec68407032d55f46b8333fa2d4573644126c9831a96bdb189ca3a4e25f01f3484933fa0c9fd6e
+c6501597af0c03cb8548215614db6af351e1f615050d18dff34ec68407032d5549697cc94175490f644126c9831a96bdb189ca3a4e25f01f3484933fa0c9fd6e
+ab135741b2e827a0789bb85ef7fe9f234e7d9ca30829d6d26412ff14cb7de5e08492e52ca9907137be7b72e16c425c0c79e3fafb95be1f52dc5d890726f92a60
+bf1ee911780421dd6aa5125b191ee5e3b054b5d396dfd6c3cf9c074e0ec99d31331b54061e46c7d287de24f62ee4c4f03242ee199d15672a5ee70697e51996b7
+48031809158c1c39332d0871becd6440682b8f2e520ffd47e73070a45f1d549c37a5f6671c8d6e19803b3f273130aedc50d9488da7f72d691765c05d83f14ebf
+ab135741b2e827a05f51ba6f8e7829dc4e7d9ca30829d6d2763d73e9d3a8d5e06146d6a0c4941a25f5b8a1a626179c9bfcdff44f046d00710181485815ae9c64
+60ce78456749ac2766f9df056a16ed55f6c57157062f5a99b189ca3a4e25f01faee2d84ab520bdbc80ffcbc3bb55b6cfd69fe97d87d285ddef507a72dfa8824e
+aa3996e99201019a1a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad624924a9e730ad9768b10a0a1a8a2b95c88cf57259f8798a3a7392fc53d2bfa77f
+522452f7fde0d87b7c7e0323fb6cb06b49b0b3dd540e22583d1a96345bca769f05074bef90988cd3e73070a45f1d549c37a5f6671c8d6e19c761279beb5f60e8
+6dcfb6d5e8929f04706b807646b8037163d5b3d1eb7a26368afa1b7880a1cb055a5ab70989cde280b5d921a6de38d0779bfb7b0bed056835c1dc47dfe7ee6905
+a3ce589fda26bc39706b807646b80371d93b309cf35a8da07ad01f6c26ba5a6ad1c69418dcc24b519e8856df7bc2a6ed61e298ae229694c5e84b3d5fd0105a06
+b67df0d3ab862a12706b807646b8037186df364799542985f2a44e373c0358e7bf1ee911780421dd6aa5125b191ee5e3b054b5d396dfd6c38063925bd3c8fe01
+99849e08200474c301b7f995e31ece5ccf3f926d58a0a36a81dc5fa34f68ae3fa2b6dd1a2c8ca3adec4b067b002b306780ecf5c52b9904e6297f2391fb363970
+f28257b2a3730294706b807646b80371b048aa6f8e960f230eb2d276ffc3636517f79dea6a69f668bf1ee911780421dd6aa5125b191ee5e3f9096803d58bf0b3
+22cc75479b3d980a706b807646b8037186df3647995429853db60e25353de23c644126c9831a96bdb189ca3a4e25f01faee2d84ab520bdbcba3900cba9790722
+1e36f10390632b7b706b807646b8037172d521aeed0f1b801360e5b6a06aa1e21a45e19a4d1125f4828ad1abd9abf9e0d836d31f2c1fad623ea7b45adae96d82
+a5d158a0fc11634f706b807646b80371f76e1180296ec957cd8d5aa71221a2a3a1b6477d10b74a42b5d921a6de38d0779bfb7b0bed056835c1dc47dfe7ee6905
+$CDNENCFINISH
+.ENDS TPS7A3301
+*$
+.subckt TPS7A30_U1_F1 1 2 3 4  
+$CDNENCSTART
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc3e7902f4d1721967
+2f9e3a467dff98e7706b807646b80371ef07e5d008174b276a1c6d711f7b7e6f80ecf5c52b9904e6db371778564c4238a013c570a775f9290134e723ac1d9fd5
+36582e6d87af1dcf706b807646b80371e6bf571035d54014b5d921a6de38d0779bfb7b0bed05683572d45c558d95a747ba0757337dcfe48ac560e1616b8baf8e
+$CDNENCFINISH
+.ends TPS7A30_U1_F1
+*$
