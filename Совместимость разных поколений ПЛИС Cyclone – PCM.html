@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://pcm4all.ru/cyclone_compatibility/ -->
+<html class="avada-html-layout-boxed avada-html-header-position-top avada-has-page-background-pattern ua-windows_nt ua-windows_nt-10 ua-windows_nt-10-0 ua-chrome ua-chrome-109 ua-chrome-109-0 ua-chrome-109-0-0 ua-chrome-109-0-0-0 ua-desktop ua-desktop-windows ua-webkit ua-webkit-537 ua-webkit-537-36 js no-applicationcache geolocation history postmessage websockets localstorage sessionstorage websqldatabase webworkers hashchange audio canvas canvastext video webgl cssgradients multiplebgs opacity rgba inlinesvg hsla supports svgclippaths smil no-touchevents fontface generatedcontent textshadow cssanimations backgroundsize borderimage borderradius boxshadow flexbox cssreflections csstransforms csstransforms3d csstransitions" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" data-useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Совместимость разных поколений ПЛИС Cyclone – PCM</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="PCM » Feed" href="https://pcm4all.ru/feed/">
+<link rel="alternate" type="application/rss+xml" title="PCM » Comments Feed" href="https://pcm4all.ru/comments/feed/">
+		
+		
+		
+		
+		
+		
+		<meta property="og:title" content="Совместимость разных поколений ПЛИС Cyclone">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://pcm4all.ru/cyclone_compatibility/">
+		<meta property="og:site_name" content="PCM">
+		<meta property="og:description" content="Процесс разработки кодера стартовал на базе ПЛИС фирмы Altera Cyclone IV E EP4CE6E22C8N. Выбор модели был очень прост - именно с этим чипом была в наличии отладочная плата. Удивительно, но для реализации всего необходимого функционала кодера, Cyclone IV E оказалось не просто достаточно, а даже некоторые опции были добавлены потому, что для них оставалось достаточно">
+
+									<meta property="og:image" content="http://pcm4all.ru/wp-content/uploads/2021/08/PCM_logo4-1.png">
+									<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pcm4all.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.13"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/wp-emoji-release.min.js.Без названия" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="layerslider-css" href="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/layerslider.css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel="stylesheet" id="fusion-dynamic-css-css" href="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/5fb71b854a0eeec8dceb6eebd271d49a.min.css" type="text/css" media="all">
+<script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var slide_in = {"demo_dir":"https:\/\/pcm4all.ru\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/jquery.min.js.Без названия" id="jquery-core-js"></script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/jquery-migrate.min.js.Без названия" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="layerslider-utils-js-extra">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.8","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/layerslider.utils.js.Без названия" id="layerslider-utils-js"></script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/layerslider.kreaturamedia.jquery.js.Без названия" id="layerslider-js"></script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/layerslider.transitions.js.Без названия" id="layerslider-transitions-js"></script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/rbtools.min.js.Без названия" id="tp-tools-js"></script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/rs6.min.js.Без названия" id="revmin-js"></script>
+<meta name="generator" content="Powered by LayerSlider 6.11.8 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.">
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://pcm4all.ru/wp-json/"><link rel="alternate" type="application/json" href="https://pcm4all.ru/wp-json/wp/v2/pages/319"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pcm4all.ru/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pcm4all.ru/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.13">
+<link rel="canonical" href="https://pcm4all.ru/cyclone_compatibility/">
+<link rel="shortlink" href="https://pcm4all.ru/?p=319">
+<link rel="alternate" type="application/json+oembed" href="https://pcm4all.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpcm4all.ru%2Fcyclone_compatibility%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://pcm4all.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpcm4all.ru%2Fcyclone_compatibility%2F&amp;format=xml">
+
+<link rel="preload" href="https://pcm4all.ru/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff" as="font" type="font/woff" crossorigin=""><link rel="preload" href="https://pcm4all.ru/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin=""><link rel="preload" href="https://pcm4all.ru/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin=""><link rel="preload" href="https://pcm4all.ru/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin=""><style type="text/css" id="css-fb-visibility">@media screen and (max-width: 800px){.fusion-no-small-visibility{display:none !important;}body:not(.fusion-builder-ui-wireframe) .sm-text-align-center{text-align:center !important;}body:not(.fusion-builder-ui-wireframe) .sm-text-align-left{text-align:left !important;}body:not(.fusion-builder-ui-wireframe) .sm-text-align-right{text-align:right !important;}body:not(.fusion-builder-ui-wireframe) .sm-mx-auto{margin-left:auto !important;margin-right:auto !important;}body:not(.fusion-builder-ui-wireframe) .sm-ml-auto{margin-left:auto !important;}body:not(.fusion-builder-ui-wireframe) .sm-mr-auto{margin-right:auto !important;}body:not(.fusion-builder-ui-wireframe) .fusion-absolute-position-small{position:absolute;top:auto;width:100%;}}@media screen and (min-width: 801px) and (max-width: 1024px){.fusion-no-medium-visibility{display:none !important;}body:not(.fusion-builder-ui-wireframe) .md-text-align-center{text-align:center !important;}body:not(.fusion-builder-ui-wireframe) .md-text-align-left{text-align:left !important;}body:not(.fusion-builder-ui-wireframe) .md-text-align-right{text-align:right !important;}body:not(.fusion-builder-ui-wireframe) .md-mx-auto{margin-left:auto !important;margin-right:auto !important;}body:not(.fusion-builder-ui-wireframe) .md-ml-auto{margin-left:auto !important;}body:not(.fusion-builder-ui-wireframe) .md-mr-auto{margin-right:auto !important;}body:not(.fusion-builder-ui-wireframe) .fusion-absolute-position-medium{position:absolute;top:auto;width:100%;}}@media screen and (min-width: 1025px){.fusion-no-large-visibility{display:none !important;}body:not(.fusion-builder-ui-wireframe) .lg-text-align-center{text-align:center !important;}body:not(.fusion-builder-ui-wireframe) .lg-text-align-left{text-align:left !important;}body:not(.fusion-builder-ui-wireframe) .lg-text-align-right{text-align:right !important;}body:not(.fusion-builder-ui-wireframe) .lg-mx-auto{margin-left:auto !important;margin-right:auto !important;}body:not(.fusion-builder-ui-wireframe) .lg-ml-auto{margin-left:auto !important;}body:not(.fusion-builder-ui-wireframe) .lg-mr-auto{margin-right:auto !important;}body:not(.fusion-builder-ui-wireframe) .fusion-absolute-position-large{position:absolute;top:auto;width:100%;}}</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.4.11 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="https://pcm4all.ru/wp-content/uploads/2021/06/cropped-pcm-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://pcm4all.ru/wp-content/uploads/2021/06/cropped-pcm-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://pcm4all.ru/wp-content/uploads/2021/06/cropped-pcm-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://pcm4all.ru/wp-content/uploads/2021/06/cropped-pcm-270x270.jpg">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<script type="text/javascript">
+			var doc = document.documentElement;
+			doc.setAttribute( 'data-useragent', navigator.userAgent );
+		</script>
+		
+	<style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+
+<body class="page-template-default page page-id-319 custom-background fusion-image-hovers fusion-pagination-sizing fusion-button_size-large fusion-button_type-flat fusion-button_span-no avada-image-rollover-circle-yes avada-image-rollover-yes avada-image-rollover-direction-left fusion-body ltr no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-mobile-totop avada-has-rev-slider-styles fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-boxed-mode avada-has-boxed-modal-shadow- layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-left mobile-menu-design-classic fusion-show-pagination-text fusion-header-layout-v4 avada-responsive avada-footer-fx-none avada-menu-highlight-style-bottombar fusion-search-form-clean fusion-main-menu-search-overlay fusion-avatar-circle avada-dropdown-styles avada-blog-layout-large avada-blog-archive-layout-large avada-header-shadow-no avada-menu-icon-position-left avada-has-megamenu-shadow avada-has-mobile-menu-search avada-has-breadcrumb-mobile-hidden avada-has-titlebar-bar_and_content avada-has-header-bg-image avada-header-bg-no-repeat avada-has-header-bg-full avada-has-pagination-width_height avada-flyout-menu-direction-fade avada-ec-views-v1 do-animate fusion-no-touch" style="--viewportWidth:1680;">
+		<a class="skip-link screen-reader-text" href="https://pcm4all.ru/cyclone_compatibility/#content">Skip to content</a>
+
+	<div id="boxed-wrapper">
+		<div class="fusion-sides-frame"></div>
+		<div id="wrapper" class="fusion-wrapper">
+			<div id="home" style="position:relative;top:-1px;"></div>
+			
+				
+			<header class="fusion-header-wrapper">
+				<div class="fusion-header-v4 fusion-logo-alignment fusion-logo-left fusion-sticky-menu- fusion-sticky-logo- fusion-mobile-logo- fusion-sticky-menu-only fusion-header-menu-align-left fusion-mobile-menu-design-classic">
+					<div class="fusion-header-sticky-height"></div>
+<div class="fusion-sticky-header-wrapper"> <!-- start fusion sticky header wrapper -->
+	<div class="fusion-header">
+		<div class="fusion-row">
+							<div class="fusion-logo" data-margin-top="0px" data-margin-bottom="0px" data-margin-left="0px" data-margin-right="0px">
+			<a class="fusion-logo-link" href="https://pcm4all.ru/">
+
+						<!-- standard logo -->
+			<img src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/PCM_logo4-1.png" srcset="https://pcm4all.ru/wp-content/uploads/2021/08/PCM_logo4-1.png 1x" width="233" height="70" alt="PCM Logo" data-retina_logo_url="" class="fusion-standard-logo">
+
+			
+					</a>
+		
+<div class="fusion-header-content-3-wrapper">
+			<div class="fusion-secondary-menu-search">
+					<form role="search" class="searchform fusion-search-form  fusion-search-form-clean" method="get" action="https://pcm4all.ru/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required="" aria-required="true" aria-label="Search...">
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" aria-label="Search" value="">
+									</div>
+
+				
+			</div>
+
+
+			
+		</form>
+				</div>
+	</div>
+</div>
+										
+					</div>
+	</div>
+	<div class="fusion-secondary-main-menu">
+		<div class="fusion-row">
+			<nav class="fusion-main-menu" aria-label="Main Menu"><div class="fusion-overlay-search">		<form role="search" class="searchform fusion-search-form  fusion-search-form-clean" method="get" action="https://pcm4all.ru/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required="" aria-required="true" aria-label="Search...">
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" aria-label="Search" value="">
+									</div>
+
+				
+			</div>
+
+
+			
+		</form>
+		<div class="fusion-search-spacer"></div><a href="https://pcm4all.ru/cyclone_compatibility/#" role="button" aria-label="Close Search" class="fusion-close-search"></a></div><ul id="menu-main-menu" class="fusion-menu"><li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151" data-item-id="151"><a href="https://pcm4all.ru/home/" class="fusion-bottombar-highlight"><span class="menu-text">HOME</span></a></li><li id="menu-item-175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-175" data-item-id="175"><a href="https://pcm4all.ru/blog/category/news/" class="fusion-bottombar-highlight"><span class="menu-text">NEWS</span></a></li><li id="menu-item-1096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1096 fusion-dropdown-menu" data-item-id="1096"><a href="https://pcm4all.ru/pcm_prj_begin/" class="fusion-bottombar-highlight" aria-haspopup="true"><span class="menu-text">BLOG</span></a><ul class="sub-menu"><li id="menu-item-1030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030 fusion-dropdown-submenu"><a href="https://pcm4all.ru/pcm_prj_begin/" class="fusion-bottombar-highlight"><span>Реверс-инжиниринг Sony PCM-10</span></a></li><li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1094 fusion-dropdown-submenu"><a href="https://pcm4all.ru/pcm_coder_dev/" class="fusion-bottombar-highlight"><span>Разработка PCM-кодера</span></a></li><li id="menu-item-1150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150 fusion-dropdown-submenu"><a href="https://pcm4all.ru/coders_batch/" class="fusion-bottombar-highlight"><span>Небольшая серия кодеров</span></a></li><li id="menu-item-1429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429 fusion-dropdown-submenu"><a href="https://pcm4all.ru/addon/" class="fusion-bottombar-highlight"><span>Дополнение к кодеру</span></a></li></ul></li><li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196" data-item-id="196"><a href="https://pcm4all.ru/?page_id=193" class="fusion-bottombar-highlight"><span class="menu-text">SONY PCM-10</span></a></li><li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-265 fusion-dropdown-menu" data-item-id="265"><a href="https://pcm4all.ru/" class="fusion-bottombar-highlight" aria-haspopup="true"><span class="menu-text">PCM CODER</span></a><ul class="sub-menu"><li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-555 fusion-dropdown-submenu"><a href="https://pcm4all.ru/" class="fusion-bottombar-highlight"><span>Обзор</span></a></li><li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520 fusion-dropdown-submenu"><a href="https://pcm4all.ru/clock/" class="fusion-bottombar-highlight"><span>Формирование опорных частот</span></a></li><li id="menu-item-494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494 fusion-dropdown-submenu"><a href="https://pcm4all.ru/pseudo_video_out/" class="fusion-bottombar-highlight"><span>Псевдо-видео выход</span></a></li><li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282 fusion-dropdown-submenu"><a href="https://pcm4all.ru/dither/" class="fusion-bottombar-highlight"><span>Дизеринг</span></a></li><li id="menu-item-958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-958 fusion-dropdown-submenu"><a href="https://pcm4all.ru/m2/" class="fusion-bottombar-highlight"><span>Format M2</span></a></li><li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638 fusion-dropdown-submenu"><a href="https://pcm4all.ru/time_codes/" class="fusion-bottombar-highlight"><span>Индекс и тайм-коды</span></a></li><li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-319 current_page_item menu-item-322 fusion-dropdown-submenu"><a href="https://pcm4all.ru/cyclone_compatibility/" class="fusion-bottombar-highlight"><span>Совместимость разных поколений ПЛИС Cyclone</span></a></li><li id="menu-item-866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866 fusion-dropdown-submenu"><a href="https://pcm4all.ru/manual/" class="fusion-bottombar-highlight"><span>Инструкция по эксплуатации</span></a></li><li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331 fusion-dropdown-submenu"><a href="https://pcm4all.ru/assembly/" class="fusion-bottombar-highlight"><span>Инструкция по сборке</span></a></li><li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431 fusion-dropdown-submenu"><a href="https://pcm4all.ru/firmware_update/" class="fusion-bottombar-highlight"><span>Обновление встроенного ПО</span></a></li><li id="menu-item-1270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1270 fusion-dropdown-submenu"><a href="https://pcm4all.ru/service_mode/" class="fusion-bottombar-highlight"><span>Сервисный режим</span></a></li></ul></li><li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876" data-item-id="876"><a href="https://pcm4all.ru/library/" class="fusion-bottombar-highlight"><span class="menu-text">LIBRARY</span></a></li><li id="menu-item-127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127" data-item-id="127"><a target="_blank" rel="noopener noreferrer" href="https://forum.fagear.ru/viewtopic.php?t=88" class="fusion-bottombar-highlight"><span class="menu-text">FORUM</span></a></li></ul></nav><div class="fusion-mobile-navigation"><ul id="menu-main-menu-1" class="fusion-mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151" data-item-id="151"><a href="https://pcm4all.ru/home/" class="fusion-bottombar-highlight"><span class="menu-text">HOME</span></a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-175" data-item-id="175"><a href="https://pcm4all.ru/blog/category/news/" class="fusion-bottombar-highlight"><span class="menu-text">NEWS</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1096 fusion-dropdown-menu" data-item-id="1096"><a href="https://pcm4all.ru/pcm_prj_begin/" class="fusion-bottombar-highlight"><span class="menu-text">BLOG</span></a><ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030 fusion-dropdown-submenu"><a href="https://pcm4all.ru/pcm_prj_begin/" class="fusion-bottombar-highlight"><span>Реверс-инжиниринг Sony PCM-10</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1094 fusion-dropdown-submenu"><a href="https://pcm4all.ru/pcm_coder_dev/" class="fusion-bottombar-highlight"><span>Разработка PCM-кодера</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150 fusion-dropdown-submenu"><a href="https://pcm4all.ru/coders_batch/" class="fusion-bottombar-highlight"><span>Небольшая серия кодеров</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429 fusion-dropdown-submenu"><a href="https://pcm4all.ru/addon/" class="fusion-bottombar-highlight"><span>Дополнение к кодеру</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196" data-item-id="196"><a href="https://pcm4all.ru/?page_id=193" class="fusion-bottombar-highlight"><span class="menu-text">SONY PCM-10</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-265 fusion-dropdown-menu" data-item-id="265"><a href="https://pcm4all.ru/" class="fusion-bottombar-highlight"><span class="menu-text">PCM CODER</span></a><ul class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-555 fusion-dropdown-submenu"><a href="https://pcm4all.ru/" class="fusion-bottombar-highlight"><span>Обзор</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520 fusion-dropdown-submenu"><a href="https://pcm4all.ru/clock/" class="fusion-bottombar-highlight"><span>Формирование опорных частот</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-494 fusion-dropdown-submenu"><a href="https://pcm4all.ru/pseudo_video_out/" class="fusion-bottombar-highlight"><span>Псевдо-видео выход</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282 fusion-dropdown-submenu"><a href="https://pcm4all.ru/dither/" class="fusion-bottombar-highlight"><span>Дизеринг</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-958 fusion-dropdown-submenu"><a href="https://pcm4all.ru/m2/" class="fusion-bottombar-highlight"><span>Format M2</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638 fusion-dropdown-submenu"><a href="https://pcm4all.ru/time_codes/" class="fusion-bottombar-highlight"><span>Индекс и тайм-коды</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-319 current_page_item menu-item-322 fusion-dropdown-submenu"><a href="https://pcm4all.ru/cyclone_compatibility/" class="fusion-bottombar-highlight"><span>Совместимость разных поколений ПЛИС Cyclone</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866 fusion-dropdown-submenu"><a href="https://pcm4all.ru/manual/" class="fusion-bottombar-highlight"><span>Инструкция по эксплуатации</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331 fusion-dropdown-submenu"><a href="https://pcm4all.ru/assembly/" class="fusion-bottombar-highlight"><span>Инструкция по сборке</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-431 fusion-dropdown-submenu"><a href="https://pcm4all.ru/firmware_update/" class="fusion-bottombar-highlight"><span>Обновление встроенного ПО</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1270 fusion-dropdown-submenu"><a href="https://pcm4all.ru/service_mode/" class="fusion-bottombar-highlight"><span>Сервисный режим</span></a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-876" data-item-id="876"><a href="https://pcm4all.ru/library/" class="fusion-bottombar-highlight"><span class="menu-text">LIBRARY</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127" data-item-id="127"><a target="_blank" rel="noopener noreferrer" href="https://forum.fagear.ru/viewtopic.php?t=88" class="fusion-bottombar-highlight"><span class="menu-text">FORUM</span></a></li></ul></div>
+<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Main Menu Mobile"><button class="fusion-mobile-selector" aria-expanded="false" aria-controls="mobile-menu-main-menu-1"><span>Go to...</span><div class="fusion-selector-down"></div></button><ul id="mobile-menu-main-menu-1" class="fusion-mobile-menu"><li class="fusion-mobile-nav-item" data-item-id="151" style=""><a href="https://pcm4all.ru/home/" class="fusion-bottombar-highlight"><span class="menu-text">HOME</span></a></li><li class="fusion-mobile-nav-item" data-item-id="175" style=""><a href="https://pcm4all.ru/blog/category/news/" class="fusion-bottombar-highlight"><span class="menu-text">NEWS</span></a></li><li class="fusion-mobile-nav-item menu-item-has-children" data-item-id="1096" style=""><a href="https://pcm4all.ru/pcm_prj_begin/" class="fusion-bottombar-highlight"><span class="menu-text">BLOG</span></a><button href="#" aria-label="Open submenu of BLOG" aria-expanded="false" class="fusion-open-submenu"></button><ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/pcm_prj_begin/" class="fusion-bottombar-highlight"><span>Реверс-инжиниринг Sony PCM-10</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/pcm_coder_dev/" class="fusion-bottombar-highlight"><span>Разработка PCM-кодера</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/coders_batch/" class="fusion-bottombar-highlight"><span>Небольшая серия кодеров</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/addon/" class="fusion-bottombar-highlight"><span>Дополнение к кодеру</span></a></li></ul></li><li class="fusion-mobile-nav-item" data-item-id="196" style=""><a href="https://pcm4all.ru/?page_id=193" class="fusion-bottombar-highlight"><span class="menu-text">SONY PCM-10</span></a></li><li class="fusion-mobile-nav-item fusion-mobile-current-nav-item menu-item-has-children" data-item-id="265" style=""><a href="https://pcm4all.ru/" class="fusion-bottombar-highlight"><span class="menu-text">PCM CODER</span></a><button href="#" aria-label="Open submenu of PCM CODER" aria-expanded="false" class="fusion-open-submenu"></button><ul class="sub-menu" style="display: none;"><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/" class="fusion-bottombar-highlight"><span>Обзор</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/clock/" class="fusion-bottombar-highlight"><span>Формирование опорных частот</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/pseudo_video_out/" class="fusion-bottombar-highlight"><span>Псевдо-видео выход</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/dither/" class="fusion-bottombar-highlight"><span>Дизеринг</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/m2/" class="fusion-bottombar-highlight"><span>Format M2</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/time_codes/" class="fusion-bottombar-highlight"><span>Индекс и тайм-коды</span></a></li><li class="fusion-mobile-nav-item fusion-mobile-current-nav-item" style=""><a href="https://pcm4all.ru/cyclone_compatibility/" class="fusion-bottombar-highlight"><span>Совместимость разных поколений ПЛИС Cyclone</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/manual/" class="fusion-bottombar-highlight"><span>Инструкция по эксплуатации</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/assembly/" class="fusion-bottombar-highlight"><span>Инструкция по сборке</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/firmware_update/" class="fusion-bottombar-highlight"><span>Обновление встроенного ПО</span></a></li><li class="fusion-mobile-nav-item" style=""><a href="https://pcm4all.ru/service_mode/" class="fusion-bottombar-highlight"><span>Сервисный режим</span></a></li></ul></li><li class="fusion-mobile-nav-item" data-item-id="876" style=""><a href="https://pcm4all.ru/library/" class="fusion-bottombar-highlight"><span class="menu-text">LIBRARY</span></a></li><li class="fusion-mobile-nav-item" data-item-id="127" style=""><a target="_blank" rel="noopener noreferrer" href="https://forum.fagear.ru/viewtopic.php?t=88" class="fusion-bottombar-highlight"><span class="menu-text">FORUM</span></a></li></ul></nav>
+
+			
+<div class="fusion-clearfix"></div>
+<div class="fusion-mobile-menu-search">
+			<form role="search" class="searchform fusion-search-form  fusion-search-form-clean" method="get" action="https://pcm4all.ru/">
+			<div class="fusion-search-form-content">
+
+				
+				<div class="fusion-search-field search-field">
+					<label><span class="screen-reader-text">Search for:</span>
+													<input type="search" value="" name="s" class="s" placeholder="Search..." required="" aria-required="true" aria-label="Search...">
+											</label>
+				</div>
+				<div class="fusion-search-button search-button">
+					<input type="submit" class="fusion-search-submit searchsubmit" aria-label="Search" value="">
+									</div>
+
+				
+			</div>
+
+
+			
+		</form>
+		</div>
+		</div>
+	</div>
+</div> <!-- end fusion sticky header wrapper -->
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+							
+						<div id="sliders-container" class="fusion-slider-visibility">
+					</div>
+				
+				
+			
+			<div class="avada-page-titlebar-wrapper" role="banner">
+	<div class="fusion-page-title-bar fusion-page-title-bar-breadcrumbs fusion-page-title-bar-center">
+		<div class="fusion-page-title-row">
+			<div class="fusion-page-title-wrapper">
+				<div class="fusion-page-title-captions">
+
+																							<h1 class="entry-title">Совместимость разных поколений ПЛИС Cyclone</h1>
+
+											
+																
+				</div>
+
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+						<main id="main" class="clearfix ">
+				<div class="fusion-row" style="">
+<section id="content" style="width: 100%;">
+					<div id="post-319" class="post-319 page type-page status-publish hentry">
+			<span class="entry-title rich-snippet-hidden">Совместимость разных поколений ПЛИС Cyclone</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://pcm4all.ru/blog/author/mihail2501/" title="Posts by mihail2501" rel="author">mihail2501</a></span></span><span class="updated rich-snippet-hidden">2023-02-11T20:37:16+03:00</span>
+			
+			<div class="post-content">
+				<p>Процесс разработки кодера стартовал на базе ПЛИС фирмы Altera Cyclone IV E EP4CE6E22C8N. Выбор модели был очень прост – именно с этим чипом была в наличии отладочная плата. Удивительно, но для реализации всего необходимого функционала кодера, Cyclone IV E оказалось не просто достаточно, а даже некоторые опции были добавлены потому, что для них оставалось достаточно ресурсов чипа.</p>
+<p><img class="aligncenter size-fusion-800 wp-image-362" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/IMG_0779-800x533.jpg" alt="" width="800" height="533" srcset="https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-200x133.jpg 200w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-300x200.jpg 300w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-400x267.jpg 400w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-600x400.jpg 600w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-768x512.jpg 768w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-800x533.jpg 800w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-1024x682.jpg 1024w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-1200x800.jpg 1200w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-1536x1024.jpg 1536w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_0779-scaled.jpg 2560w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<p>Первая ревизия кодера выпущена именно на базе Cyclone IV E. Но при подготовке к нашей небольшой серии кодеров нужно было провести анализ их доступности на рынке по приемлемой цене. К сожалению, результат оказался неутешительным. В Китае под наш бюджет купить можно только б/у ПЛИС с неизвестной работоспособностью. Мы приобрели на пробу два чипа, проверили их, и хоть они вполне адекватно работали, такой источник не дает никакой гарантии. Российские поставщики не могли дать нам достаточно низкий ценник. Поэтому мы стали просматривать другие модели ПЛИС. Выбор осложнялся тем, что требовались чипы в корпусе EQFP, удобном для ручной пайки. Среди относительно новых моделей ПЛИС такие нашлись – это Cyclone 10 LP. Его функционал и характеристики повторяет Cyclone IV E, но эта модель выпускалась уже на 60 нм техпроцессе. Открыв документацию модели 10CL006YE144C8G и ее распиновку, мы сильно удивились – 138 из 144 выводов повторяли распиновку EP4CE6E22C8N, а оставшиеся несколько портов ввода вывода стали выводами GND. А самое главное, что эта модель нашлась у Терраэлектроники по “вкусной” цене. Мы минимально скорректировали схему и плату так, что на нее можно стало установить обе модели ПЛИС. Позже мы провели эксперимент – прошивка от Cyclone IV E подходила и работала на Cyclone 10 LP. То есть по архитектуре они очень близки друг к другу, а, скорее всего, полностью идентичны.</p>
+<p>Ради интереса мы стали сравнивать остальные младшие модели семейства Cyclone между собой. Cyclone V не подходил совсем, т.к. не выпускался в корпусе EQFP. А вот Cyclone III EP3C5E144C8N также по функционалу и распиновке соответствовал Cyclone IV E за исключением трех выводов. Более старые чипы первого и второго семейств Cyclone, к сожалению, уже совсем не подходили как по распиновке, так и по доступному функционалу.</p>
+<p>Сравнительная таблица отличий между Cyclone III, Cyclone IV E и Cyclone 10 LP:</p>
+<table class=" aligncenter" border="1" width="600" cellspacing="2" cellpadding="2">
+<tbody>
+<tr>
+<td width="240"><strong>Номер вывода EQFP-144</strong></td>
+<td width="120"><strong>Cyclone III</strong></td>
+<td width="120"><strong>Cyclone IV E</strong></td>
+<td width="120"><strong>Cyclone 10 LP</strong></td>
+</tr>
+<tr>
+<td>4</td>
+<td>IO</td>
+<td>GND</td>
+<td>GND</td>
+</tr>
+<tr>
+<td>12</td>
+<td>DCLK</td>
+<td>DCLK</td>
+<td>IO</td>
+</tr>
+<tr>
+<td>22</td>
+<td>CLK0</td>
+<td>GND</td>
+<td>CLK0</td>
+</tr>
+<tr>
+<td>30</td>
+<td>IO</td>
+<td>IO</td>
+<td>GND</td>
+</tr>
+<tr>
+<td>64</td>
+<td>IO</td>
+<td>IO</td>
+<td>GND</td>
+</tr>
+<tr>
+<td>79</td>
+<td>IO</td>
+<td>GND</td>
+<td>GND</td>
+</tr>
+<tr>
+<td>104</td>
+<td>IO</td>
+<td>IO</td>
+<td>GND</td>
+</tr>
+<tr>
+<td>110</td>
+<td>IO</td>
+<td>IO</td>
+<td>GND</td>
+</tr>
+</tbody>
+</table>
+<p><span id="more-319"></span></p>
+<p>Таким образом, платформой кодера стала ПЛИС Cyclone 10 LP 10CL006YE144C8G от фирмы Intel (Intel купил фирму Altera в 2015 году). А с заменой прошивки можно установить Cyclone IV E и даже Cyclone III, правда последний вариант нами не проверялся. В реалиях продолжающегося кризиса полупроводников это может стать необходимо.</p>
+<p><img class="aligncenter size-fusion-800 wp-image-591" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/IMG_1118-e1629964584388-800x500.png" alt="" width="800" height="500" srcset="https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-200x125.png 200w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-300x188.png 300w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-400x250.png 400w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-600x375.png 600w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-768x480.png 768w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-800x500.png 800w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-1024x640.png 1024w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-1200x750.png 1200w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388-1536x960.png 1536w, https://pcm4all.ru/wp-content/uploads/2021/08/IMG_1118-e1629964584388.png 5184w" sizes="(max-width: 800px) 100vw, 800px"></p>
+<span class="cp-load-after-post"></span>							</div>
+																													</div>
+	</section>
+						
+					</div>  <!-- fusion-row -->
+				</main>  <!-- #main -->
+				
+				
+								
+					
+		<div class="fusion-footer">
+					
+	<footer class="fusion-footer-widget-area fusion-widget-area">
+		<div class="fusion-row">
+			<div class="fusion-columns fusion-columns-4 fusion-widget-area">
+				
+																									<div class="fusion-column col-lg-3 col-md-3 col-sm-3">
+													</div>
+																										<div class="fusion-column col-lg-3 col-md-3 col-sm-3">
+													</div>
+																										<div class="fusion-column col-lg-3 col-md-3 col-sm-3">
+													</div>
+																										<div class="fusion-column fusion-column-last col-lg-3 col-md-3 col-sm-3">
+													</div>
+																											
+				<div class="fusion-clearfix"></div>
+			</div> <!-- fusion-columns -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- fusion-footer-widget-area -->
+
+	
+	<footer id="footer" class="fusion-footer-copyright-area">
+		<div class="fusion-row">
+			<div class="fusion-copyright-content">
+
+				<div class="fusion-copyright-notice">
+		<div>
+		Copyright 2021 - 2023 | <a href="https://www.youtube.com/@VCDid" target="_blank">VCD</a>, mihail2501 and <a href="http://eep-lab.ru/" target="_blank">Mikhail Tsaryov</a> | All Rights Reserved	</div>
+</div>
+<div class="fusion-social-links-footer">
+	<div class="fusion-social-networks"><div class="fusion-social-networks-wrapper"><a class="fusion-social-network-icon fusion-tooltip fusion-discord awb-icon-discord" style="" data-placement="top" data-title="Discord" data-toggle="tooltip" title="" href="https://discordapp.com/invite/tgjaGaw" target="_blank" rel="noopener noreferrer" data-original-title="Discord"><span class="screen-reader-text">Discord</span></a></div></div></div>
+
+			</div> <!-- fusion-fusion-copyright-content -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- #footer -->
+		</div> <!-- fusion-footer -->
+
+		
+					<div class="fusion-sliding-bar-wrapper">
+											</div>
+
+												</div> <!-- wrapper -->
+		</div> <!-- #boxed-wrapper -->
+		<div class="fusion-top-frame"></div>
+		<div class="fusion-bottom-frame"></div>
+		<div class="fusion-boxed-shadow"></div>
+		<a class="fusion-one-page-text-link fusion-page-load-link" tabindex="-1" href="https://pcm4all.ru/cyclone_compatibility/#" aria-hidden="true"></a>
+
+		<div class="avada-footer-scripts">
+						<script type="text/javascript" id="modal">
+				document.addEventListener("DOMContentLoaded", function(){
+					startclock();
+				});
+				function stopclock (){
+					if(timerRunning) clearTimeout(timerID);
+					timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1782116852 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="info-bar">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1782116852 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="slidein">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1782116852 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				<script type="text/javascript">var fusionNavIsCollapsed=function(e){var t;window.innerWidth<=e.getAttribute("data-breakpoint")?(e.classList.add("collapse-enabled"),e.classList.contains("expanded")||(e.setAttribute("aria-expanded","false"),window.dispatchEvent(new Event("fusion-mobile-menu-collapsed",{bubbles:!0,cancelable:!0})))):(null!==e.querySelector(".menu-item-has-children.expanded .fusion-open-nav-submenu-on-click")&&e.querySelector(".menu-item-has-children.expanded .fusion-open-nav-submenu-on-click").click(),e.classList.remove("collapse-enabled"),e.setAttribute("aria-expanded","true"),null!==e.querySelector(".fusion-custom-menu")&&e.querySelector(".fusion-custom-menu").removeAttribute("style")),e.classList.add("no-wrapper-transition"),clearTimeout(t),t=setTimeout(()=>{e.classList.remove("no-wrapper-transition")},400),e.classList.remove("loading")},fusionRunNavIsCollapsed=function(){var e,t=document.querySelectorAll(".fusion-menu-element-wrapper");for(e=0;e<t.length;e++)fusionNavIsCollapsed(t[e])};function avadaGetScrollBarWidth(){var e,t,n,s=document.createElement("p");return s.style.width="100%",s.style.height="200px",(e=document.createElement("div")).style.position="absolute",e.style.top="0px",e.style.left="0px",e.style.visibility="hidden",e.style.width="200px",e.style.height="150px",e.style.overflow="hidden",e.appendChild(s),document.body.appendChild(e),t=s.offsetWidth,e.style.overflow="scroll",t==(n=s.offsetWidth)&&(n=e.clientWidth),document.body.removeChild(e),t-n}fusionRunNavIsCollapsed(),window.addEventListener("fusion-resize-horizontal",fusionRunNavIsCollapsed);</script><script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/wp-embed.min.js.Без названия" id="wp-embed-js"></script>
+<script type="text/javascript" src="./Совместимость разных поколений ПЛИС Cyclone – PCM_files/79c73b79c5a73c80c5924f7689a6486c.min.js.Без названия" id="fusion-scripts-js"></script>
+				<script type="text/javascript">
+				jQuery( document ).ready( function() {
+					var ajaxurl = 'https://pcm4all.ru/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+						});
+					}
+				});
+								</script>
+						</div>
+
+			<div class="to-top-container to-top-right">
+		<a href="https://pcm4all.ru/cyclone_compatibility/#" id="toTop" class="fusion-top-top-link fusion-to-top-active">
+			<span class="screen-reader-text">Go to Top</span>
+		</a>
+	</div>
+		
+
+</body></html>
