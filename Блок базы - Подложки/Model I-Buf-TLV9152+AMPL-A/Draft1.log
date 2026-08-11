@@ -1,0 +1,98 @@
+Circuit: * F:\1-LTSpice\Model U-Draft17\Draft1.asc
+
+WARNING: Node NC_03 is floating.
+WARNING: Node NC_06 is floating.
+
+WARNING: Less than two connections to node IN.  This node is used by R1.
+WARNING: Less than two connections to node NC_01.  This node is used by Q7.
+WARNING: Less than two connections to node NC_02.  This node is used by Q7.
+WARNING: Less than two connections to node NC_03.  This node is used by Q7.
+WARNING: Less than two connections to node NC_04.  This node is used by Q10.
+WARNING: Less than two connections to node NC_05.  This node is used by Q10.
+WARNING: Less than two connections to node NC_06.  This node is used by Q10.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+Gmin = 10.7374
+Gmin = 1.15292
+vernier = 0.5
+vernier = 0.666667
+Gmin = 0.4029
+vernier = 0.888888
+vernier = 1
+Gmin = 0.06089
+Gmin = 0.00653801
+Gmin = 0.000702013
+Gmin = 7.53781e-005
+Gmin = 8.09366e-006
+Gmin = 8.6905e-007
+Gmin = 9.33136e-008
+Gmin = 1.00195e-008
+Gmin = 1.07583e-009
+Gmin = 1.15517e-010
+Gmin = 1.24035e-011
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.6012e-012
+vernier = 0.333333
+Gmin = 1.28742e-012
+vernier = 0.166667
+vernier = 0.0833333
+vernier = 0.0416667
+vernier = 0.0208333
+vernier = 0.0104167
+vernier = 0.00520833
+Gmin = 1.39289e-012
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.38475e-012
+vernier = 0.000651042
+vernier = 0.000488281
+vernier = 0.000651041
+vernier = 0.000488281
+Gmin = 1.38391e-012
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 7.57576%
+Source Step = 15.1515%
+Source Step = 22.7273%
+Source Step = 30.303%
+Source Step = 37.8788%
+vernier = 0.375
+Source Step = 48.8636%
+Source Step = 60.2273%
+Source Step = 71.5909%
+Source Step = 82.9545%
+Source Step = 94.3182%
+vernier = 0.5625
+Source Step = 98.3154%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 18.9394%
+Source Step = 21.2121%
+Source Step = 22.4905%
+Source Step = 22.964%
+Source Step = 23.2984%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 107.463 µs.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 1e-011
+Changing Tseed to 1e-013
+Changing Tseed to 1e-010
+Changing Tseed to 1e-014
+Changing Tseed to 1e-009
+Changing Tseed to 1e-015
+Changing Tseed to 1e-008
+Changing Tseed to 1e-016
+Changing Tseed to 1e-007
+Changing Tseed to 1e-017
+Changing Tseed to 1e-006
+Changing Tseed to 1e-018
+Fatal Error: Analysis:  Time step too small; initial timepoint: trouble with node "u1:in11:7"
+
