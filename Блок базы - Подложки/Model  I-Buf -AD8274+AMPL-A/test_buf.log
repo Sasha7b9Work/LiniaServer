@@ -1,0 +1,100 @@
+Circuit: * D:\1-LTspise\Model I-Buf -AD8274+AMPL\test_buf.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.02385
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.01955
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01063
+vernier = 0.00195313
+vernier = 0.00260417
+vernier = 0.00130208
+Gmin = 1.00719
+vernier = 0.000651042
+Gmin = 1.00522
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 1.00408
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 12.1212%
+Source Step = 19.697%
+Source Step = 27.2727%
+Source Step = 34.8485%
+Source Step = 42.4242%
+vernier = 0.375
+Source Step = 52.6515%
+Source Step = 64.0152%
+Source Step = 75.3788%
+Source Step = 86.7424%
+Source Step = 98.1061%
+Source stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:99)
+Ignoring empty pin current: Ix(u1:50)
+Ignoring empty pin current: Ix(u1:30)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u3:99)
+Ignoring empty pin current: Ix(u3:50)
+Ignoring empty pin current: Ix(u3:30)
+Ignoring empty pin current: Ix(u4:pin)
+Ignoring empty pin current: Ix(u4:nin)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u4:vee)
+Ignoring empty pin current: Ix(u4:out)
+Ignoring empty pin current: Ix(u4:ref)
+Ignoring empty pin current: Ix(u4:sense)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:99)
+Ignoring empty pin current: Ix(u1:50)
+Ignoring empty pin current: Ix(u1:30)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u3:99)
+Ignoring empty pin current: Ix(u3:50)
+Ignoring empty pin current: Ix(u3:30)
+Ignoring empty pin current: Ix(u4:pin)
+Ignoring empty pin current: Ix(u4:nin)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u4:vee)
+Ignoring empty pin current: Ix(u4:out)
+Ignoring empty pin current: Ix(u4:ref)
+Ignoring empty pin current: Ix(u4:sense)
+
+Date: Fri Aug 07 16:46:17 2026
+Total elapsed time: 1.673 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 22924
+traniter = 17252
+tranpoints = 7166
+accept = 6777
+rejected = 389
+matrix size = 201
+fillins = 320
+solver = Normal
+Thread vector: 37.3/9.2[2] 5.6/9.0[1] 3.0/5.4[1] 1.7/2.2[1]  2592/500
+Matrix Compiler1: 21.36 KB object code size  6.3/2.9/[1.6]
+Matrix Compiler2: 20.65 KB object code size  3.6/4.7/[2.5]
+

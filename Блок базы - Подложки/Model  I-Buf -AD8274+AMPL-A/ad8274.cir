@@ -1,0 +1,215 @@
+* AD8274 Rev. A 07/2012
+
+* This model will give typical performance characteristics
+* for the following parameters:
+*
+*     Closed loop gain and phase vs bandwidth
+*     Output current and voltage limiting
+*     Offset voltage (is  non-static, will  vary with gain)
+*     Slew Rate
+*     Current on output will be reflected to the supplies
+*     Vnoise
+*     PSRR and CMRR
+*
+* Correct operation of this macromodel has been verified on
+* Multisim Power Pro Edition, Application version: 12.0.0, Database version: 12.0.a
+*
+* Copyright 2012 by Analog Devices Inc.
+*
+******************************************************
+*                 noninverting input
+*                 |    inverting input
+*                 |    |
+*                 |    |    positive supply
+*                 |    |    |
+*                 |    |    |    negative supply
+*                 |    |    |    |    output
+*                 |    |    |    |    |
+*		      |    |    |    |    |    ref
+*                 |    |    |    |    |    |     sense
+*                 |    |    |    |    |    |     |
+.SUBCKT AD8274	 Pin  Nin  Vcc	Vee	 Out  Ref  Sense
+
+*** Internal Resistors
+R63	Pin	1	Rideal	12e3
+R62	Nin	2	Rideal	12e3
+R61	Ref	1	Rideal	6e3
+R65	Sense	2	Rideal	6e3
+
+***Differential Stage
+Q1	13	12	14	npn
+Q2	17	2	16	npn
+
+Rc1	98	13	Rideal	4.200E+00
+Rc2	98	17	Rideal	4.200E+00
+Re1	14	15	Rideal	4.148E+00
+Re2	15	16	Rideal	4.148E+00
+
+Ibias	15	51	1.00E+00
+Dcmlim1	18	15	DQUIET
+Vcmlim1	18	51	1.526
+
+***Voltage Noise Generation
+HVnoise	9	7	Vvnoise	1
+VVnoise	501	0	0
+DVnoise	501	0	Dvnoise
+*RVnoise	501	0	5.53309E-05
+RVnoise	501	0	9.6E-05
+
+***Current Noise Generation on +IN
+FInoise1	12	0	VInoise1	1
+VInoise1	502	0	0
+DInoise1	502	0	DInoise1
+*RInoise1	502	0	287500
+RInoise1	502	0	287500
+
+***Current Noise Generation on -IN
+FInoise2	2	0	VInoise2	1
+VInoise2	503	0	0
+DInoise2	503	0	DInoise2
+*RInoise2	503	0	287500
+RInoise2	503	0	287500
+
+***Common Mode Injection
+Rcm1	1	601	Rideal	100e6
+Rcm2	2	601	Rideal	100e6
+Gcmr	0	602	601	75	1.00E-06
+Rcmr1	602	603	Rideal	1Meg
+Rcmr2	603	604	Rideal	1.995E+01
+Lcmr	604	0	1.588E-04
+Ecmr	10	9	603	0	1.000E+00
+
+***Positive Power Supply Rejection
+Epsr1	700	0	98	0	1
+Rpsr1	700	701	Rideal	1.00E+02
+Rpsr2	701	702	Rideal	5.623E-05
+Lpsr1	702	0	2.983E-08
+Epsr2	11	10	701	0	1
+
+***Negative Power Supply Rejection
+Epsr3	703	0	51	0	1
+Rpsr3	703	704	Rideal	1.00E+02
+Rpsr4	704	705	Rideal	1.000E-04
+Lpsr2	705	0	1.592E-06
+Epsr4	12	11	704	0	1
+
+***Input Offset and Bias
+Vos	1	7	3.000E-04
+Ios	1	2	1.000E-12
+
+***Input Impedance
+Cinv	2	0	6.00E-13
+Cninv	1	0	6.00E-13
+
+***1st Gain and Slew limiting
+Gslew	0	101	17	13	1.0000E+00
+Rslew	101	0	Rideal	2.50E+02
+Dslew1	101	102	DZENER
+Dslew2	0	102	DZENER
+
+***Second Gain and Dominant Pole with Output Voltage Limiting
+Gp1	51	201	101	0	9.433E-07
+Rp1	201	51	Rideal	3.368E+13
+Cp1	201	51	2.00E-12
+Vlim1	97	206	2.15
+Dlim1	201	206	dquiet
+Vlim2	207	52	2.15
+Dlim2	207	201	dquiet
+Esupref1	97	98	51	0	1
+Esupref2	52	51	51	0	1
+
+***Second Pole
+Gp2	0	202	201	51	1.00E-03
+Rp2	202	0	Rideal	1.00E+03
+Cp2	202	0	7.95775E-12
+
+***Third Pole
+Gp3	0	203	202	0	1.00E-03
+Rp3	203	0	Rideal	1.00E+03
+Cp3	203	0	5.30517E-12
+***Fourth Pole
+Gp4	0	204	203	0	1.00E-03
+Rp4	204	0	Rideal	1.00E+03
+Cp4	204	0	1.59155E-16
+***Fifth Pole
+Gp5	0	205	204	0	1.00E-03
+Rp5	205	0	Rideal	1.00E+03
+Cp5	205	0	1.592E-16
+
+***First Zero
+Gz1	0	301	205	0	1.00E-03
+Rz1	301	302	Rideal	1.00E+03
+*Lz1	302	0	6.366E-06
+Lz1	302	0	14.466E-07
+***Second Zero
+Gz2	0	303	301	0	1.00E-03
+Rz2	303	304	Rideal	1.00E+03
+Lz2	304	0	1.592E-10
+***Third Zero
+Gz3	0	305	303	0	1.00E-03
+Rz3	305	306	Rideal	1.00E+03
+Lz3	306	0	1.59E-10
+
+***Buffer
+Gbuf	0	401	305	0	1.00E-04
+Rbuf	401	0	Rideal	1.00E+04
+
+***Output with current limiting
+Eout	404	0	401	0	1.000E+00
+Rout	404	405	RIDEAL	1.000E+00
+Lout	405	406	1.00E-19
+Cout	406	0	5.70E-11
+Voutmon	406	Out	0
+Dout1	401	407	Dquiet
+Vout1	407	406	-5.300E-01
+Dout2	408	401	Dquiet
+Vout2	406	408	-5.300E-01
+
+***Voltage reference generator
+Eref1	98	0	Vcc	0	1
+Eref2	51	0	Vee	0	1
+Rref1	98	901	Rideal	100Meg
+Rref2	901	51	Rideal	100Meg
+Eref3	75	0	901	0	1
+
+***Supply current correction
+Iq	Vcc	Vee	0.0023
+Fsup1	Vcc	0	Voutmon	1
+*DZsup1	0	802	DZENER2
+*Dsup1	Vcc	802	DQUIET
+Fsup2	0	Vee	Voutmon	-1
+*DZsup2	804	0	DZENER2
+*Dsup2	804	Vee	DQUIET
+
+
+
+
+***models
+.model	Rideal	res	T_ABS=27
+.model	Rnoise	res	T_ABS=27
+.model	npn	npn	BF= 53333332.333
+.model	dquiet	d
+.model	dvnoise	d	KF=25e-3
+.model	dinoise1	d	KF=0.000576e-6
+.model	dinoise2	d	KF=0.000576e-6
+.model	dzener	d	BV=44.38
+.model	dzener2	d	BV=50
+
+.ends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+
+
+.SUBCKT IPB073N15N5_L0  drain  gate  source
+
+Lg     gate  g1    6.5n
+Ld     drain d1    0.1n
+Ls     source s1   3.6n
+Rs      s1    s2   587u TC=3m
+
+Rg     g1    g2     1.1
+M1      d2    g2    s2    s2    DMOS    L=1u   W=1u
+.MODEL DMOS NMOS ( KP= 199.5  VTO=5  THETA=0  VMAX=1.5e5  ETA=0.005  LEVEL=3)
+Rd     d1    d2    4.12m TC=9m
+
+Dbd     s2    d2    Dbt
+.MODEL     Dbt    D(BV=161   M=0.65  CJO=1.48n  VJ=2.5V)
+Rsp     s2    s3     0.15
+Dbd1     s3    d2    Dbt1
+.MODEL     Dbt1    D(BV=1000   M=0.65  CJO=5.87n  VJ=2.5V)
+Dbody   s2   21    DBODY
+.MODEL DBODY  D(IS=6.4p  N=1.05  RS=0.03u  EG=1.12  TT=30n)
+Rdiode  d1  21    0.75m TC=1m
+
+
+
+
+.MODEL   sw    NMOS(VTO=0  KP=10   LEVEL=1)
+Maux      g2   c    a    a   sw
+Maux2     b    d    g2    g2   sw
+Eaux      c    a    d2    g2   1
+Eaux2     d    g2   d2    g2   -1
+Cox       b    d2   0.53n
+.MODEL     DGD    D(M=0.42   CJO=0.53n   VJ=0.5)
+Rpar      b    d2   1Meg
+Dgd       a    d2   DGD
+Rpar2     d2   a    10Meg
+Cgs     g2    s2    3.62n
+
+.ENDS  IPB073N15N5_L0
+
+
+
+
+
