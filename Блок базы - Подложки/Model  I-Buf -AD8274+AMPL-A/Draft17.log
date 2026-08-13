@@ -1,0 +1,196 @@
+LTspice 24.1.9 for Windows
+Circuit: \\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\Draft17.net
+Start Time: Wed Aug 12 15:53:27 2026
+Options: itl4=50
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.10559
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.04709
+vernier = 0.0078125
+vernier = 0.0104167
+Gmin = 1.02619
+vernier = 0.00520833
+vernier = 0.00694444
+vernier = 0.00347222
+Gmin = 1.02042
+vernier = 0.00462963
+vernier = 0.00231481
+Gmin = 1.01483
+vernier = 0.00308642
+vernier = 0.00154321
+vernier = 0.00205761
+vernier = 0.00102881
+Gmin = 1.01261
+vernier = 0.00137174
+vernier = 0.00068587
+Gmin = 1.01053
+vernier = 0.000914493
+vernier = 0.000457247
+Gmin = 1.00886
+vernier = 0.000609662
+Gmin = 1.00751
+vernier = 0.000812882
+vernier = 0.000406441
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00685
+vernier = 0.000541921
+vernier = 0.000406441
+Gmin = 1.00603
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 12.1212%
+Source Step = 19.697%
+Source Step = 27.2727%
+Source Step = 34.8485%
+Source Step = 42.4242%
+vernier = 0.375
+Source Step = 52.6515%
+Source Step = 64.0152%
+Source Step = 64.4058%
+Source Step = 64.5833%
+Source Step = 64.7609%
+Source Step = 64.9384%
+Source Step = 65.116%
+vernier = 0.00878906
+Source Step = 65.3379%
+Source Step = 65.6043%
+Source Step = 65.8706%
+Source Step = 66.137%
+Source Step = 66.4033%
+vernier = 0.0131836
+Source Step = 66.7229%
+Source Step = 67.1224%
+Source Step = 67.5219%
+Source Step = 67.9214%
+Source Step = 68.3209%
+vernier = 0.0197754
+Source Step = 68.7803%
+Source Step = 69.3796%
+Source Step = 69.9788%
+Source Step = 70.5781%
+Source Step = 71.1773%
+vernier = 0.0296631
+Source Step = 71.8365%
+Source Step = 72.7354%
+Source Step = 73.6343%
+Source Step = 74.5332%
+Source Step = 75.4321%
+vernier = 0.0444946
+Source Step = 76.3759%
+Source Step = 76.5697%
+Source Step = 76.654%
+Source Step = 76.7382%
+Source Step = 76.8225%
+Source Step = 76.9068%
+vernier = 0.00417137
+Source Step = 77.0079%
+Source Step = 77.1343%
+Source Step = 77.2607%
+Source Step = 77.3871%
+Source Step = 77.5135%
+vernier = 0.00625706
+Source Step = 77.6589%
+Source Step = 77.8485%
+Source Step = 78.0381%
+Source Step = 78.2277%
+Source Step = 78.4173%
+vernier = 0.00938559
+Source Step = 78.6259%
+Source Step = 78.9103%
+Source Step = 79.1947%
+Source Step = 79.4791%
+Source Step = 79.7635%
+vernier = 0.0140784
+Source Step = 80.0622%
+Source Step = 80.4888%
+Source Step = 80.9154%
+Source Step = 81.342%
+Source Step = 81.7686%
+Source Step = 82.1953%
+vernier = 0.0211176
+Source Step = 82.8352%
+Source Step = 83.4751%
+Source Step = 84.115%
+Source Step = 84.755%
+Source Step = 85.3949%
+vernier = 0.0316764
+Source Step = 86.3228%
+Source Step = 87.2827%
+Source Step = 88.2426%
+Source Step = 89.2025%
+Source Step = 90.1623%
+Source Step = 90.3003%
+Source Step = 90.3603%
+Source Step = 90.4203%
+Source Step = 90.4803%
+Source Step = 90.5403%
+Source Step = 90.6003%
+vernier = 0.00296966
+Source Step = 90.6783%
+Source Step = 90.7683%
+Source Step = 90.8583%
+Source Step = 90.9483%
+Source Step = 91.0382%
+vernier = 0.00445449
+Source Step = 91.1507%
+Source Step = 91.2857%
+Source Step = 91.4207%
+Source Step = 91.5557%
+Source Step = 91.6907%
+vernier = 0.00668173
+Source Step = 91.8526%
+Source Step = 92.0551%
+Source Step = 92.2576%
+Source Step = 92.4601%
+Source Step = 92.6626%
+vernier = 0.0100226
+Source Step = 92.8954%
+Source Step = 93.1991%
+Source Step = 93.5028%
+Source Step = 93.8065%
+Source Step = 94.1103%
+vernier = 0.0150339
+Source Step = 94.4443%
+Source Step = 94.8999%
+Source Step = 95.3555%
+Source Step = 95.8111%
+Source Step = 96.2666%
+vernier = 0.0225508
+Source Step = 96.745%
+Source Step = 97.4283%
+Source Step = 98.1117%
+Source Step = 98.7951%
+Source Step = 99.4784%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 15.278 seconds.
+
+Files loaded:
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\Draft17.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\BufH.cir
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\DI_1N4729A.cir
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\PA340_Pspice.LIB
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\TIP142.cir
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\TIP147.cir
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\1N4148.txt
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\AD8274.cir
+\\ARX-704\Line-2-ARX\Блок базы - Подложки\Model  I-Buf -AD8274+AMPL-A\AD8512.cir
+
