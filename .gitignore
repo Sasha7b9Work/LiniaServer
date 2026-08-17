@@ -5,6 +5,8 @@
 *.step
 *.sldprt
 *.sldasm
+*.raw
+*.log
 
 archive.zip
 
