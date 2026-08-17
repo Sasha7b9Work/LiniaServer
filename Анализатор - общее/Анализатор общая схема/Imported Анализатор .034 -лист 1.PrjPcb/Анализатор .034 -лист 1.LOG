@@ -1,0 +1,36 @@
+PCAD Importer Log
+Project : Анализатор .034 -лист 1.PrjPcb
+
+Section : \\ARX-704\Line-2-ARX\Анализатор - общее\Анализатор общая схема\Анализатор .034 -лист 1.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 189550
+        Warning - 1 : Skipping Token defaultPinDes On Line 189566
+        Warning - 1 : Skipping Token defaultPinDes On Line 189582
+        Warning - 1 : Skipping Token defaultPinDes On Line 189598
+        Warning - 1 : Skipping Token defaultPinDes On Line 189614
+        Warning - 1 : Skipping Token gridDfns On Line 190244
+        Warning - 1 : Skipping Token refPointSize On Line 190268
+        Warning - 1 : Skipping Token infoPointSize On Line 190269
+        Warning - 1 : Skipping Token junctionSize On Line 190270
+        Warning - 1 : Skipping Token refPointSizePrint On Line 190271
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 190272
+        Warning - 1 : Skipping Token junctionSizePrint On Line 190273
+        Warning - 1 : Skipping Token PrintRegion On Line 191458
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 191462
+        Warning - 1 : Skipping Token ecoState On Line 191477
+        Warning - 1 : Skipping Token currentTextStyle On Line 191478
+        Warning - 1 : Skipping Token reportSettings On Line 191481
+    EndSection
+
+    Section : Generating SCH Library - Анализатор .034 -лист 1.SchLib
+        Warning : Create component variant [SOCKET_VARIANT_1] for component with original name [SOCKET]
+        Warning : Create component variant [PLUG_VARIANT_1] for component with original name [PLUG]
+        Warning : Create component variant [PLUG_VARIANT_2] for component with original name [PLUG]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

@@ -1,0 +1,50 @@
+PCAD Importer Log
+Project : Анализатор .034 -лист 4.PrjPcb
+
+Section : \\ARX-704\Line-2-ARX\Анализатор - общее\Анализатор общая схема\Анализатор .034 -лист 4.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 189842
+        Warning - 1 : Skipping Token defaultPinDes On Line 189858
+        Warning - 1 : Skipping Token defaultPinDes On Line 189876
+        Warning - 1 : Skipping Token defaultPinDes On Line 189894
+        Warning - 1 : Skipping Token defaultPinDes On Line 189911
+        Warning - 1 : Skipping Token defaultPinDes On Line 189927
+        Warning - 1 : Skipping Token defaultPinDes On Line 189943
+        Warning - 1 : Skipping Token defaultPinDes On Line 189959
+        Warning - 1 : Skipping Token defaultPinDes On Line 189975
+        Warning - 1 : Skipping Token defaultPinDes On Line 189983
+        Warning - 1 : Skipping Token defaultPinDes On Line 189999
+        Warning - 1 : Skipping Token defaultPinDes On Line 190016
+        Warning - 1 : Skipping Token defaultPinDes On Line 190033
+        Warning - 1 : Skipping Token defaultPinDes On Line 190049
+        Warning - 1 : Skipping Token defaultPinDes On Line 190066
+        Warning - 1 : Skipping Token defaultPinDes On Line 190074
+        Warning - 1 : Skipping Token gridDfns On Line 190808
+        Warning - 1 : Skipping Token refPointSize On Line 190832
+        Warning - 1 : Skipping Token infoPointSize On Line 190833
+        Warning - 1 : Skipping Token junctionSize On Line 190834
+        Warning - 1 : Skipping Token refPointSizePrint On Line 190835
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 190836
+        Warning - 1 : Skipping Token junctionSizePrint On Line 190837
+        Warning - 1 : Skipping Token PrintRegion On Line 191746
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 191750
+        Warning - 1 : Skipping Token ecoState On Line 191765
+        Warning - 1 : Skipping Token currentTextStyle On Line 191766
+        Warning - 1 : Skipping Token reportSettings On Line 191769
+    EndSection
+
+    Section : Generating SCH Library - Анализатор .034 -лист 4.SchLib
+        Warning : Create component variant [PLUG_VARIANT_1] for component with original name [PLUG]
+        Warning : Create component variant [PLUG_VARIANT_2] for component with original name [PLUG]
+        Warning : Create component variant [PLUG_VARIANT_3] for component with original name [PLUG]
+        Warning : Create component variant [SOCKET_VARIANT_1] for component with original name [SOCKET]
+        Warning : Create component variant [SOCKET_VARIANT_2] for component with original name [SOCKET]
+        Warning : Create component variant [SOCKET_VARIANT_3] for component with original name [SOCKET]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

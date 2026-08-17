@@ -1,0 +1,40 @@
+PCAD Importer Log
+Project : Анализатор .034 -лист 2.PrjPcb
+
+Section : \\ARX-704\Line-2-ARX\Анализатор - общее\Анализатор общая схема\Анализатор .034 -лист 2.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 189842
+        Warning - 1 : Skipping Token defaultPinDes On Line 189858
+        Warning - 1 : Skipping Token defaultPinDes On Line 189874
+        Warning - 1 : Skipping Token defaultPinDes On Line 189890
+        Warning - 1 : Skipping Token defaultPinDes On Line 189906
+        Warning - 1 : Skipping Token defaultPinDes On Line 189922
+        Warning - 1 : Skipping Token defaultPinDes On Line 189938
+        Warning - 1 : Skipping Token gridDfns On Line 190518
+        Warning - 1 : Skipping Token refPointSize On Line 190542
+        Warning - 1 : Skipping Token infoPointSize On Line 190543
+        Warning - 1 : Skipping Token junctionSize On Line 190544
+        Warning - 1 : Skipping Token refPointSizePrint On Line 190545
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 190546
+        Warning - 1 : Skipping Token junctionSizePrint On Line 190547
+        Warning - 1 : Skipping Token PrintRegion On Line 191466
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 191470
+        Warning - 1 : Skipping Token ecoState On Line 191485
+        Warning - 1 : Skipping Token currentTextStyle On Line 191486
+        Warning - 1 : Skipping Token reportSettings On Line 191489
+    EndSection
+
+    Section : Generating SCH Library - Анализатор .034 -лист 2.SchLib
+        Warning : Create component variant [PLUG_VARIANT_1] for component with original name [PLUG]
+        Warning : Create component variant [PLUG_VARIANT_2] for component with original name [PLUG]
+        Warning : Create component variant [SOCKET_VARIANT_1] for component with original name [SOCKET]
+        Warning : Create component variant [PLUG_VARIANT_3] for component with original name [PLUG]
+        Warning : Create component variant [SOCKET_VARIANT_2] for component with original name [SOCKET]
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

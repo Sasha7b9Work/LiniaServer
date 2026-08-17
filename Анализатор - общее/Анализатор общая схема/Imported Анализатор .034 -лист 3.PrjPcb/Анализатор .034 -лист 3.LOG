@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : Анализатор .034 -лист 3.PrjPcb
+
+Section : \\ARX-704\Line-2-ARX\Анализатор - общее\Анализатор общая схема\Анализатор .034 -лист 3.sch
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 189842
+        Warning - 1 : Skipping Token defaultPinDes On Line 189858
+        Warning - 1 : Skipping Token gridDfns On Line 189931
+        Warning - 1 : Skipping Token refPointSize On Line 189955
+        Warning - 1 : Skipping Token infoPointSize On Line 189956
+        Warning - 1 : Skipping Token junctionSize On Line 189957
+        Warning - 1 : Skipping Token refPointSizePrint On Line 189958
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 189959
+        Warning - 1 : Skipping Token junctionSizePrint On Line 189960
+        Warning - 1 : Skipping Token PrintRegion On Line 190396
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 190400
+        Warning - 1 : Skipping Token ecoState On Line 190415
+        Warning - 1 : Skipping Token currentTextStyle On Line 190416
+        Warning - 1 : Skipping Token reportSettings On Line 190419
+    EndSection
+
+    Section : Generating SCH Library - Анализатор .034 -лист 3.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
