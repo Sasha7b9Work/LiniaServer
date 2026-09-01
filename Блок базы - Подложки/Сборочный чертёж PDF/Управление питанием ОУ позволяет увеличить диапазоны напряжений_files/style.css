@@ -1,0 +1,309 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('PT Sans'), local('PTSans-Regular'), url(//themes.googleusercontent.com/static/fonts/ptsans/v5/LKf8nhXsWg5ybwEGXk8UBQ.woff) format('woff');
+}
+.ads-top-banner * {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+.ads-top-banner .clear {
+  clear:both;
+  font-size:0;
+  overflow:hidden;
+}
+.ads-top-banner {
+  position: fixed;
+  z-index: 6;
+  height: 44px;
+  overflow:hidden;
+  width: 100%;
+  color:#2f2f2d;
+  font-family: 'PT Sans', sans-serif;
+  background:#f9fbfc;
+}
+.ads-top-banner:hover {
+}
+.ads-top-banner .bnr-wrap {
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+  height: 41px;
+  overflow: hidden;
+}
+.bnr-bottom-stroke{
+  width:100%;
+  height:3px;
+  margin:0;
+  padding:0;
+  background: url('/adv/dummy/000/img/bg.gif') repeat-x 0 0;
+  transition: background 0.6s ease;
+  -moz-transition: background 0.6s ease;
+  -webkit-transition: background 0.6s ease;
+  -o-transition: background 0.6s ease;
+}
+.ads-top-banner:hover .bnr-bottom-stroke{
+  transition: background 6s ease;
+  -moz-transition: background 5s ease;
+  -webkit-transition: background 5s ease;
+  -o-transition: background 5s ease;
+  background-position: 615px bottom;
+}
+.ads-top-banner .ads-logo {
+  border-bottom: none;
+  padding-bottom: 0;
+  height: 41px;
+  width:34px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.ads-top-banner .ads-logo i {
+  display:block;
+  width:34px;
+  height:34px;
+  padding: 3px 0 4px 0;
+}
+.ads-top-banner a {
+  color: #2f2f2d;
+  display:inline-block;
+  text-decoration: none;
+  transition: all 0.5s ;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+.ads-top-banner .left a span{
+  border-bottom: 1px dotted #afafac;
+  padding-bottom: 2px;
+}
+.ads-top-banner .left a:hover span{
+  border-bottom: none;
+}
+.ads-top-banner .button {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #afd074;
+  /* background: -moz-linear-gradient(top, #afd074 0%, #98b761 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #afd074), color-stop(100%, #98b761));
+  background: -webkit-linear-gradient(top, #afd074 0%, #98b761 100%);
+  background: -o-linear-gradient(top, #afd074 0%, #98b761 100%);
+  background: -ms-linear-gradient(top, #afd074 0%, #98b761 100%);
+  background: linear-gradient(to bottom, #afd074 0%, #98b761 100%); */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#afd074', endColorstr='#98b761', GradientType=0);
+  border: 1px solid #a1b877;
+}
+.ads-top-banner .button:hover {
+  background: #b6d87b;
+  background: -moz-linear-gradient(top, #b6d87b 0%, #a0c165 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b6d87b), color-stop(100%, #a0c165));
+  background: -webkit-linear-gradient(top, #b6d87b 0%, #a0c165 100%);
+  background: -o-linear-gradient(top, #b6d87b 0%, #a0c165 100%);
+  background: -ms-linear-gradient(top, #b6d87b 0%, #a0c165 100%);
+  background: linear-gradient(to bottom, #b6d87b 0%, #a0c165 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b6d87b', endColorstr='#a0c165', GradientType=0);
+  border: 1px solid #acc088;
+}
+.ads-top-banner .payButton {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #4b4af2;
+  border: 1px solid #4b4af2;
+}
+.ads-top-banner .payButton:hover {
+    background: #5b6afa;
+    border: 1px solid #5b6afa;
+}
+
+.ads-top-banner .proButton {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #4b4af2;
+  border: 1px solid #724bed;
+}
+.ads-top-banner .proButton:hover {
+    background: #5b6afa;
+    border: 1px solid #724bed;
+}
+
+.ads-top-banner .webButton {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #455bed;
+  border: 1px solid #455bed;
+}
+.ads-top-banner .webButton:hover {
+    background: #556bee;
+    border: 1px solid #556bee;
+}
+.ads-top-banner .ucButton {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #cacaca;
+  border: 1px solid #cacaca;
+}
+.ads-top-banner .ucButton:hover {
+    background: #dadada;
+    border: 1px solid #dadada;
+}
+.ads-top-banner .stepButton {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #4243f5;
+  border: 1px solid #4243f5;
+}
+.ads-top-banner .stepButton:hover {
+    background: #5253fa;
+    border: 1px solid #5253fa;
+}
+/* Кнопка как на ucoz.com/ai и /ai/skills (жёлтая, тёмный текст) */
+.ads-top-banner .aiButton {
+  margin: 3px 30px 0 0;
+  color: #1D1E33;
+  border-bottom: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  background: #FBD83D;
+  border: 1px solid #FBD83D;
+}
+.ads-top-banner .aiButton:hover {
+    background: #fbc401;
+    border: 1px solid #fbc401;
+    color: #160e34;
+}
+
+
+.ads-top-banner .facebook-like-button {
+  margin: 3px 30px 0 0;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: none;
+  padding: 6px 13px;
+  border-radius: 6px;
+  border: 1px solid #587195;
+  border-bottom-color: #4d6487;
+  border-top-color: #5e779b;
+  background: #758ab7;
+  background: -moz-linear-gradient(top, #758ab7 0%, #7388b4 24%, #6b7fa8 74%, #65779e 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #758ab7), color-stop(24%, #7388b4), color-stop(74%, #6b7fa8), color-stop(100%, #65779e));
+  background: -webkit-linear-gradient(top, #758ab7 0%, #7388b4 24%, #6b7fa8 74%, #65779e 100%);
+  background: -o-linear-gradient(top, #758ab7 0%, #7388b4 24%, #6b7fa8 74%, #65779e 100%);
+  background: -ms-linear-gradient(top, #758ab7 0%, #7388b4 24%, #6b7fa8 74%, #65779e 100%);
+  background: linear-gradient(to bottom, #758ab7 0%, #7388b4 24%, #6b7fa8 74%, #65779e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#758ab7', endColorstr='#65779e', GradientType=0);
+}
+.facebook-like-button:hover {
+  background: #7f96c7;
+  background: -moz-linear-gradient(top, #7f96c7 0%, #7a90bf 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7f96c7), color-stop(100%, #7a90bf));
+  background: -webkit-linear-gradient(top, #7f96c7 0%, #7a90bf 100%);
+  background: -o-linear-gradient(top, #7f96c7 0%, #7a90bf 100%);
+  background: -ms-linear-gradient(top, #7f96c7 0%, #7a90bf 100%);
+  background: linear-gradient(to bottom, #7f96c7 0%, #7a90bf 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7f96c7', endColorstr='#7a90bf', GradientType=0);
+}
+.ads-top-banner .face-logo {
+  padding-right: 20px;
+  padding-bottom: 4px;
+  background: url('/adv/dummy/000/img/facebook-logo.png') no-repeat left top;
+}
+.ads-top-banner .face-numbers {
+  margin-left: 4px;
+  vertical-align: middle;
+  font-size: 0.6875em;
+  background: #fff;
+  border-radius: 3px;
+  color: #333;
+  padding: 3px 4px;
+  text-shadow: none;
+  border: 1px solid #587195;
+  border-bottom-color: #4d6487;
+  border-top-color: #5e779b;
+}
+.ads-top-banner .close-button{
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  position: absolute;
+  top: 11px;
+  right: 0;
+  color: #7b7b7b !important;
+  font-size: 19px !important;
+  line-height: 19px !important;
+  -webkit-font-smoothing: antialiased;
+  transition: all 0.5s ;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+.ads-top-banner .left {
+  position: absolute;
+  vertical-align: top;
+  padding-left: 40px;
+  top: 0;
+  left: 0;
+}
+.ads-top-banner .right {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.ads-top-banner .heading {
+  margin-left: 5px;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 41px;
+  height: 41px;
+}
+.ads-top-banner .description {
+  font-size: 0.875em;
+  margin-left: 12px;
+  line-height: 41px;
+  height: 41px;
+}
+.ads-top-banner .heading:hover,
+.ads-top-banner .description:hover,
+.ads-top-banner .close-button:hover {
+  border-bottom: none;
+  color: #73bbdf !important;
+}
+@media (max-width:1110px) {
+  .ads-top-banner .description {
+    display: none; !important;
+}
+}
+@media (max-width:450px) {
+.ads-top-banner .heading {
+  display: none; !important;
+}
+}

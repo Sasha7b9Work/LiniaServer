@@ -1,0 +1,385 @@
+﻿
+var topicInitScriptAvailable = true;
+var jsToggles = new Array();
+var jsGallery = new Array();
+var jsTogglesAllExpanded = false;
+function jsmin(v1, v2) { if (v1<v2) return v1; return v2 }
+function jsmax(v1, v2) { if (v1>v2) return v1; return v2 }
+var jsSyncTOC = function(indexPageUrl, selfUrl) {
+if (location.search.lastIndexOf("toc=0")<=0) {
+if (parent.jsNavigationFrame) { parent.lazysync(selfUrl); }
+else if ((jsForceRedirect) && (parent.location) && (parent.location.href)) { parent.location.href = indexPageUrl+'?'+selfUrl; }
+}
+}
+var jsToggleExpandAll = function(value) {
+if (jsToggles.length != null){
+for (i=0; i<jsToggles.length; i++){
+jsToggleExpand(jsToggles[i], value, (value && jsAnimate));
+}
+}
+jsTogglesAllExpanded = value;
+}
+var jsAnyToggleOpen = function() {
+var anyOpen = false;
+if (jsToggles.length != null){
+for (i=0; i<jsToggles.length; i++){
+if (jsToggles[i].getAttribute("js.state")=='1') anyOpen = true;
+}
+}
+if (!anyOpen) jsTogglesAllExpanded = false;
+return anyOpen;
+}
+var jsToggle = function() {
+var op = jsToggle.arguments[0];
+for (i=1; i<jsToggle.arguments.length; i++) {
+var objID = jsToggle.arguments[i];
+var obj = document.getElementById(objID);
+switch (op) {
+case "toggle":
+var state = obj.getAttribute("js.state");
+if (state == null) { state = "0" };
+jsToggleExpand(obj, (state != "1"), jsAnimate);
+break;
+case "expand":
+jsToggleExpand(obj, true, false);
+break;
+case "collapse":
+jsToggleExpand(obj, false, false);
+break;
+}
+}
+}
+var jsToggleExpand = function(obj, value, animate) {
+tagName = obj.nodeName.toLowerCase();
+switch (tagName) {
+case "span":
+jsToggleExpandText(obj, value, animate);
+break;
+case "div":
+jsToggleExpandDropdown(obj, value, animate);
+break;
+case "img":
+jsToggleExpandPicture(obj, value, animate);
+break;
+}
+obj.setAttribute("js.state", value ? "1" : "0");
+}
+var jsToggleExpandText = function(obj, value, animate) {
+obj.style.display = (value ? "inline" : "none");  //cannot be animated
+}
+var jsToggleExpandDropdown = function(obj, value, animate) {
+if (animate) {
+if (value) {
+$(obj).slideDown('fast');
+}
+else {
+$(obj).animate({ height: 'toggle' }, 'fast', function() {
+if ($.browser.msie) { // Avoid collapsing margins bug in IE
+var dummy = $(obj).prev();
+if ($(dummy).outerHeight!=0) dummy = $('<div style="height:1px"></div>').insertBefore(obj);
+else $(dummy).css('display', 'block');
+$(dummy).css('display', 'none');
+}
+});
+}
+}
+else {
+obj.style.display = (value ? "block" : "none");
+}
+}
+var jsToggleExpandPicture = function(obj, value, animate) {
+var oldFile = (value ? obj.getAttribute("js.src0") : obj.getAttribute("js.src1"));
+var newFile = (value ? obj.getAttribute("js.src1") : obj.getAttribute("js.src0"));
+var newSrc = obj.src.replace(oldFile, newFile);
+var isToggleIcon = (obj.getAttribute("js.type")=="dropdown");
+if ((!isToggleIcon) && (animate)) {
+$(obj).stop();
+var newImg = new Image();
+newImg.onload = function() {
+var newWidth  = newImg.width;
+var newHeight = newImg.height;
+var oldWidth  = obj.width;
+var oldHeight = obj.height;
+if ((newWidth > 0) && (newHeight > 0)) {
+if ((newWidth == oldWidth) && (newHeight == oldHeight)) {
+obj.src = newSrc;
+}
+else {
+$(obj).animate({ width: newWidth, height: newHeight }, 'fast', function() {
+obj.src = newSrc;
+});
+}
+}
+};
+newImg.src = newSrc;
+}
+else {
+obj.src = newSrc;
+$(obj).css('width', 'auto');
+$(obj).css('height', 'auto');
+}
+var newTitle = (value ? obj.getAttribute("js.title1") : obj.getAttribute("js.title0"));
+if (newTitle != null) { obj.title = newTitle; }
+var newCaption = (value ? obj.getAttribute("js.caption1") : obj.getAttribute("js.caption0"));
+if (newCaption != null) { obj.parentNode.parentNode.parentNode.nextSibling.firstChild.firstChild.innerHTML = newCaption; }
+}
+var jsShowPictureLightbox = function(objID) {
+var obj = document.getElementById(objID);
+var startL = $(obj).offset().left;
+var startT = $(obj).offset().top;
+var startW = $(obj).outerWidth();
+var startH = $(obj).outerHeight();
+var oldFile = obj.getAttribute("js.src0");
+var newFile = obj.getAttribute("js.src1");
+var newSrc = obj.src.replace(oldFile, newFile);
+var newTitle = obj.getAttribute("js.title1");
+var newCaption = obj.getAttribute("js.caption1");
+var htmlCode = '<img id="jslightboximage" src="' + newSrc + '" alt="' + newTitle + '"/>';
+var imgPreloader = new Image();
+imgPreloader.onload = function() {
+jsShowLightbox(htmlCode, startL, startT, startW, startH, imgPreloader.width, imgPreloader.height, newCaption, true, false);
+};
+imgPreloader.src = newSrc;
+}
+var jsShowVideoLightbox = function(event, obj, htmlcode, vWidth, vHeight) {
+var startL = $(obj).offset().left;
+var startT = $(obj).offset().top;
+var startW = $(obj).outerWidth();
+var startH = $(obj).outerHeight();
+if (event.stopPropagation) { event.stopPropagation(); } else { event.cancelBubble = true; } //MSIE
+jsShowLightbox(htmlcode, startL, startT, startW, startH, vWidth, vHeight, '', false, true);
+}
+var jsShowLightbox = function(htmlCode, startL, startT, startW, startH, endW, endH, newCaption, doAnimate, isVideo) {
+var parentScope = ((parent.jsNavigationFrame) && (parent.document.getElementById('jsnavigation')) && (parent.document.getElementById('jsnavigation').nodeName.toLowerCase()=='iframe'));
+var lightboxWindow = $(window);
+var lightboxDocument = $(document);
+var lightboxBody = $('body');
+var lighboxScrollLayer = null;
+if (parentScope) {
+lightboxBody = parent.$('body');
+lightboxDocument = parent.$(document);
+lightboxWindow = parent.window;
+}
+$(lightboxBody).prepend('<div id="jslightboxbackground" style="z-index:99997;border:none;padding:0;margin:0;position:absolute;left:0;top:0;background-color:#7F7F7F"></div>');
+var lightboxBackground = parentScope ? parent.$('#jslightboxbackground') : $('#jslightboxbackground');
+lightboxBackground.css('opacity', '0.5');
+if (parentScope) {
+$(lightboxBody).prepend('<div id="jslightboxscrolllayer" style="z-index:99998;border:none;padding:0;margin:0;position:absolute;left:0;top:0;background:none;overflow:auto"></div>');
+lighboxScrollLayer = parent.$('#jslightboxscrolllayer');
+lightboxBody = lighboxScrollLayer;
+}
+$(lightboxBody).prepend('<div id="jslightbox" style="z-index:99999;position:absolute;display:none"></div>');
+var lightbox = parentScope ? parent.$('#jslightbox') : $('#jslightbox');
+var lightboxObject = $(htmlCode).appendTo(lightbox);
+var lightboxCaption = null;
+if (newCaption != null) {
+$(lightbox).append('<p id="jslightboxcaption">' +newCaption+ '</p>');
+lightboxCaption = parentScope ? parent.$('#jslightboxcaption') : $('#jslightboxcaption');
+}
+var lightboxSpeed = 300;
+var sizeStart;
+var maxW = endW;
+var maxH = endH;
+if (jsLightboxConstrained) {
+if (endW > ($(lightboxWindow).width()-40)) {
+endW = $(lightboxWindow).width()-40;
+if (endW < (maxW/2)) endW = maxW/2;
+endH = maxH * endW / maxW;
+}
+}
+lightboxObject.css({'width': endW+'px', 'height': endH+'px'});
+if (lightboxCaption!=null) lightboxCaption.css('width', endW+'px');
+if (jsAnimate&&doAnimate) {
+var sizeEnd = lightboxGetsize();
+if (lightboxCaption!=null) lightboxCaption.css('display', 'none');
+lightboxObject.css({'width': startW + 'px', 'height': startH + 'px'});
+sizeStart = lightboxGetsize();
+lightboxResize();
+sizeStart[0] = startL;
+sizeStart[1] = startT;
+if (parentScope) {
+sizeStart[0] = sizeStart[0] + parent.$('#jscontent').offset().left - $(document).scrollLeft();
+sizeStart[1] = sizeStart[1] + parent.$('#jscontent').offset().top - $(document).scrollTop();
+}
+lightbox.css({'left': sizeStart[0]+'px', 'top': sizeStart[1]+'px'});
+lightbox.show();
+lightbox.animate({ left: sizeEnd[0]-lightboxObject.position().left, top: sizeEnd[1]-lightboxObject.position().top },
+lightboxSpeed,
+function() {
+if (lightboxCaption!=null) lightboxCaption.css('display', 'block');
+}
+);
+lightboxObject.animate({ width: endW, height: endH }, lightboxSpeed);
+}
+else {
+var sizeEnd = lightboxGetsize();
+lightboxResize();
+lightbox.show();
+}
+$(lightboxWindow).bind('resize.jslightbox', lightboxResize);
+$(lightboxWindow).bind('scroll.jslightbox', lightboxScroll);
+$(lightboxBody).bind('click.jslightbox', lightboxClick);
+$(lightboxBody).bind('keydown.jslightbox', lightboxKeydown);
+$(lightbox).focus();
+function lightboxScroll() {
+lightboxBackground.css('width', (($(lightboxDocument).scrollLeft() > 0) ? $(lightboxDocument).width() : $(lightboxWindow).width()) +'px');
+lightboxBackground.css('height', (($(lightboxDocument).scrollTop() > 0) ? $(lightboxDocument).height() : $(lightboxWindow).height()) +'px');
+}
+function lightboxResize() {
+if (jsLightboxConstrained) {
+var tmpW = endW;
+endW = $(lightboxWindow).width()-40;
+if (endW > maxW) endW = maxW;
+else if (endW < (maxW/2)) endW = maxW/2;
+if (tmpW != endW) {
+endH = maxH * endW / maxW;
+lightboxObject.css({'width': endW+'px', 'height': endH+'px'});
+if (lightboxCaption!=null) lightboxCaption.css('width', endW+'px');
+}
+}
+var size = lightboxGetsize();
+lightbox.css({left: size[0]+'px', top:size[1]+'px'});
+if (lighboxScrollLayer!=null) {
+lighboxScrollLayer.css({'width': $(lightboxWindow).width()+'px', 'height': $(lightboxWindow).height()+'px'});
+}
+lightboxScroll();
+}
+function lightboxGetsize() {
+var lbW  = lightbox.width();
+var lbH  = lightbox.height();
+if (isVideo) {
+lbW = endW;
+lbH = endH;
+}
+var newW = jsmax(lbW + 40, lightboxDocument.width());
+var newH = jsmax(lbH + 40, lightboxDocument.height());
+var newL = jsmax(20, parseInt(($(lightboxWindow).width() - lbW)/2) + (parentScope ? 0 : lightboxDocument.scrollLeft()));
+var newT = jsmax(20, parseInt(($(lightboxWindow).height() - lbH)/2) + (parentScope ? 0 : lightboxDocument.scrollTop()));
+var size = new Array(newL, newT, lbW, lbH);
+return size;
+}
+function lightboxKeydown(e) {
+if (e.keyCode == 27) lightboxClose();
+}
+function lightboxClick(e) {
+var	canClose = (!isVideo) ||
+(e.pageX < lightbox.position().left) || (e.pageY < lightbox.position().top) ||
+(e.pageX > lightbox.position().left+lightbox.width()) || (e.pageY > lightbox.position().top+lightbox.height());
+if (canClose) lightboxClose();
+}
+function lightboxClose() {
+if (jsAnimate&&doAnimate) {
+if (lightboxCaption!=null) lightboxCaption.css('display', 'none');
+lightboxObject.animate({ width: startW, height: startH }, lightboxSpeed);
+lightbox.animate({ left: sizeStart[0]-lightboxObject.position().left, top: sizeStart[1]-lightboxObject.position().top },
+lightboxSpeed,
+function() {
+lightbox.remove();
+if (lighboxScrollLayer!=null) lighboxScrollLayer.remove();
+lightboxBackground.remove();
+}
+);
+}
+else {
+lightbox.remove();
+if (lighboxScrollLayer!=null) lighboxScrollLayer.remove();
+lightboxBackground.remove();
+}
+$(lightboxWindow).unbind('.jslightbox');
+$(lightboxBody).unbind('.jslightbox');
+}
+}
+var jsSearchCheck = function(obj) {
+var foundHilite = window.location.search.lastIndexOf("zoom_highlight") > 0;
+if (!foundHilite) {
+var fontTags = obj.getElementsByTagName("FONT");
+if (fontTags.length > 0) {
+var hStyle = "";
+for (var cCheck = 0; cCheck < fontTags.length; cCheck++) {
+hStyle = fontTags[cCheck].style.cssText;
+if (hStyle.indexOf("BACKGROUND-COLOR") == 0) {
+foundHilite = true;
+break;
+}
+}
+}
+}
+return foundHilite;
+}
+var jsInitToggle = function() {
+if (document.getElementById) {
+var node = document.getElementById(jsInitToggle.arguments[0]);
+var isPicture = false;
+for (i=1; i<jsInitToggle.arguments.length-1; i=i+2) {
+if (jsInitToggle.arguments[i] == "onclick") {
+node.onclick = Function(jsInitToggle.arguments[i+1]);
+}
+else {
+node.setAttribute(jsInitToggle.arguments[i], decodeURI(jsInitToggle.arguments[i+1]));
+if ((jsInitToggle.arguments[i] == "js.type") && (jsInitToggle.arguments[i+1] == "picture")) { isPicture = true; }
+}
+if (jsInitToggle.arguments[i].substring(0,6) == "js.src") {
+var img = new Image();
+img.src = jsInitToggle.arguments[i+1];
+}
+}
+if (isPicture) {
+var aLink = node.parentNode;
+if (aLink.nodeName.toLowerCase() == "a") {
+if (jsImageLightbox) {
+jsGallery[jsGallery.length] = node;
+aLink.href = "javascript:jsShowPictureLightbox('" + jsInitToggle.arguments[0] +"')";
+}
+else {
+jsToggles[jsToggles.length] = node;
+aLink.href = "javascript:jsToggle('toggle','" + jsInitToggle.arguments[0] +"')";
+}
+}
+}
+else {
+var mustExpand = jsSearchCheck(node);
+jsToggles[jsToggles.length] = node;
+if (mustExpand) {
+node.setAttribute("js.state", "1");
+var nodeImg = document.getElementById(node.getAttribute("id")+'_ICON');
+if (nodeImg) { jsToggleExpand(nodeImg, true); }
+}
+jsToggleExpand(node, ((node.getAttribute("js.state") == "1") || mustExpand));
+}
+}
+}
+var jsTrackTopiclink = function(obj) {
+if (parent.frames.length>0) {
+if (parent.gaaccount) { parent.track("exit", obj.href); }
+}
+}
+var jsshowPopup = function(event, txt, trigger) {
+$('#jspopupdiv').stop().remove();
+var pop = $('<div id="jspopupdiv"></div>').appendTo('body');
+if (jsPopupSticky) {
+$('body').bind('mouseup.jspopup', jshidePopup);
+$('body').bind('keydown.jspopup', function(e) { if (e.keyCode == 27) jshidePopup(); } );
+}
+pop.html(txt);
+var posLeft = event.clientX+$(document).scrollLeft();
+var posTop =  event.clientY+$(document).scrollTop();
+var maxW = $(window).width()/1.5;
+var w = pop.width();
+if (w > maxW) pop.width(maxW);
+var t = 20 + posTop;
+var l = (posLeft - w/2);
+if (l < 10) l = 10;
+if ((l + pop.outerWidth()) > $(window).width()) l = $(window).width() - pop.outerWidth();
+if (l < 0) l = 0;
+pop.css( { left: l+'px', top: t+'px'} );
+if (jsAnimate) pop.show('fast');
+else pop.show();
+}
+var jshidePopup = function() {
+if (jsPopupSticky) $("body").unbind(".jspopup");
+var pop = $('#jspopupdiv');
+if (pop.length>0) {  //hide, don't remove
+if (jsAnimate) pop.hide('fast');
+else $(jspopupdiv).hide();
+}
+}
