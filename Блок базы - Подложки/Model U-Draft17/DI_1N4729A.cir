@@ -1,5 +1,4 @@
-*SRC=1N4729A;DI_1N4729A;Diodes;Zener <=10V; 3.60V  1.00W   Diodes Inc.
-Zener
+*SRC=1N4729A;DI_1N4729A;Diodes;Zener <=10V; 3.60V  1.00W   Diodes Inc.Zener
 *SYM=HZEN
 .SUBCKT DI_1N4729A  1 2
 *        Terminals    A   K
